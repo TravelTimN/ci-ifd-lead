@@ -7,7 +7,7 @@
 ##
 
 ### **Week 1**: *14 March 2019 @20:00 (UTC)*
-> [`Sass`](https://github.com/TravelTimN/ci-ifd-lead/blob/master/week1-sass/README.md)
+> [`Sass`](https://github.com/TravelTimN/ci-ifd-lead/blob/master/week1-sass/sass.md)
 
 ### **Week 2**: *21 March @20:00 (UTC)*
 > `jQuery`
