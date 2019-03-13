@@ -1,4 +1,4 @@
-##### return [Home](https://github.com/TravelTimN/ci-ifd-lead/blob/master/ifd-lead.md)
+##### return [Home](https://github.com/TravelTimN/ci-ifd-lead/blob/master/README.md)
 
 # IFD Week 1: `Sass`
 
