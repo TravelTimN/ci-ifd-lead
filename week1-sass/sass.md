@@ -169,7 +169,7 @@ What would the result give us?
 What represents **interpolation** above?
 
 ### **A**:
-`#{$key}`
+`{$key}`
 
 ##
 
@@ -209,7 +209,7 @@ What would the result give us?
 What represents **interpolation** above?
 
 ### **A**:
-`#{$class}` and `#{$i}`
+`{$class}` and `{$i}`
 
 ##
 
@@ -401,7 +401,7 @@ You can nest **media_queries** within SASS, but you can't nest them in generic C
   @extend %reset;
   @include tablet {
     font-size: 10px;
-    }
+  }
   @include desktop {
     font-size: 16px;
   }
