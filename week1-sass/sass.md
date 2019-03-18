@@ -27,7 +27,7 @@ What is the difference between *SASS* | *SCSS* | *LESS*?
 ### *NESTED PROPERTIES*:
 Styles multiple elements that use the same *prefix*.
 
-~~~~
+~~~~css
 div {
   p {
     font: {
@@ -56,7 +56,7 @@ Other examples could be: `border:` | `grid:` | `column:` | `flex:` | `list-style
 ### *VARIABLES*:
 Reusable code in *variables*, similar to JavaScript variables.
 
-~~~~
+~~~~css
 $red: #FF1100;
 $orange: #FF5100;
 $yellow: #FFD000;
@@ -79,7 +79,7 @@ Easier to modify values or analyze lists, similar to JavaScript functions.
 
 ##### Function to convert px to em
 
-~~~~
+~~~~css
 @function pxToEm($value, $base) {
   @return ($value / $base) + em;
 }
@@ -101,14 +101,14 @@ What will be the result of our new `<h1>` tag size?
 Sass Lists are similar to JavaScript lists, whereby Maps are similar to JavaScript objects.
 
 #### List
-~~~~
+~~~~css
 $colors: $red, $orange, $yellow, $green, $blue, $purple;
 ~~~~
 
 #### Map
 *(contains key-value pairs)*
 
-~~~~
+~~~~css
 $colors: (
   red: #FF1100,
   orange: #FF5100,
@@ -134,7 +134,7 @@ You can take *key-value pairs* and iterate through them to create multiple class
 
 > See an example of this in action on [Codepen.io](https://codepen.io/traveltimn/pen/GeyqQQ)
 
-~~~~
+~~~~css
 @each $key, $value in $colors {
   .btn-#{$key} {
     background-color: $value;
@@ -146,7 +146,7 @@ You can take *key-value pairs* and iterate through them to create multiple class
 What would the result give us?
 
 ### **A**:
-~~~~
+~~~~css
 .btn-red {
   background-color: #FF1100;
 }
@@ -178,7 +178,7 @@ What represents **interpolation** above?
 ### *LOOPS*:
 *for loops* in SASS work in a similar way to JavaScript, but start with `@for`
 
-~~~~
+~~~~css
 $class: image;
 
 @for $i from 1 through 4 {
@@ -192,7 +192,7 @@ $class: image;
 What would the result give us?
 
 ### **A**:
-~~~~
+~~~~css
 .image-1 {
   width: 61px;
 }
@@ -220,7 +220,7 @@ What represents **interpolation** above?
 
 These only execute if specific conditions are met, similar to JavaScript.
 
-~~~~
+~~~~css
 $box: 200;
 
 div {
@@ -245,7 +245,7 @@ Orange (`#FF5100`)
 ### *PLACEHOLDERS*:
 Reusable `%code` used to `@extend` somewhere else in your code.
 
-~~~~
+~~~~css
 %bg-img {
   background: {
     size: cover;
@@ -275,7 +275,7 @@ All `<div>` items would get the `background-size`|`-position`|`-repeat` properti
 ### **PART 1** -- *MIXINS*:
 Similar to `%placeholders` but can pass **parameters** and **arguments** *(similar to a "template")*.
 
-~~~~
+~~~~css
 @mixin button($color, $size) {
   width: $size,
   height: $size / 2;
@@ -303,7 +303,7 @@ Places the `@include` properties within the `@mixin`
 
 > See an example of this in action on [Codepen.io](https://codepen.io/traveltimn/pen/XGVjvE)
 
-~~~~
+~~~~css
 @mixin TrumpsWall() {
   width: 100vw;
   height: 50vh;
@@ -331,7 +331,7 @@ Immediately *after* `height`, and just *before* `color`.
 
 > file: "main.scss"
 
-~~~~
+~~~~css
 @import "helpers/colors";
 @import "helpers/variables";
 @import "helpers/mixins";
@@ -367,7 +367,7 @@ You can nest **media_queries** within SASS, but you can't nest them in generic C
 
 > file: "helpers/media_queries.scss"
 
-~~~~
+~~~~css
 @tablet-width: 768px;
 @desktop-width: 992px;
 @large-desktop-width: 1200px;
@@ -391,7 +391,7 @@ You can nest **media_queries** within SASS, but you can't nest them in generic C
 
 > file: "partials/reset.scss"
 
-~~~~
+~~~~css
 %reset {
   margin: 0 auto;
   padding: 0;
@@ -400,7 +400,7 @@ You can nest **media_queries** within SASS, but you can't nest them in generic C
 
 > file: "partials/buttons.scss"
 
-~~~~
+~~~~css
 .btn {
   @extend %reset;
   @include tablet {
