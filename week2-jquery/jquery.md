@@ -120,6 +120,12 @@ $(document).ready(function() {
 | `$("p:odd");` | every **:odd** **&lt;p&gt;** element |
 | `$(".green:odd");` | every **:odd** element with **class="green"** |
 
+### Select everything, but `:not` those specified:
+| jQuery | Outcome |
+| --- | --- |
+| `$(".btn:not(.btn-submit)");` | selects every element with **class="btn"** except **:not** the **class="btn-submit"** |
+| `$("div:not(div:first)");` | selects all **&lt;div&gt;** elements, except **:not** the **:first** **&lt;div&gt;** |
+
 ### Select all `direct children` of a parent element:
 | jQuery | Outcome |
 | --- | --- |
@@ -131,6 +137,12 @@ $(document).ready(function() {
 | --- | --- |
 | `$("div p");` | all **&lt;p&gt;** children of the **&lt;div&gt;** elements |
 | `$(".para a");` | all **&lt;a&gt;** children of the **class="para"** elements |
+
+### Select only those elements currently `:visible` or `:hidden`
+| jQuery | Outcome |
+| --- | --- |
+| `$("p:visible");` | only if the **&lt;p&gt;** is currently **:visible** |
+| `$("p:hidden");` | only if the **&lt;p&gt;** is currently **:hidden** |
 
 ##
 
@@ -175,19 +187,178 @@ $(document).ready(function() {
 | --- | --- |
 | `$("li").prev();` | selects the **.prev()** **&lt;li&gt;** element |
 
+### `.filter()` selector
+| jQuery | Outcome |
+| --- | --- |
+| `$("li").filter(".menu-item");` | filters all **&lt;li&gt;** elements only with **class="menu-item"** |
+
 ##
 
 ## **JQUERY DOM MANIPULATION**
+> full list can be found here: [jQuery Manipulation](https://api.jquery.com/category/manipulation/)
 
+### `.html()` selector
+| jQuery | Outcome |
+| --- | --- |
+| `$("footer").html("<h2>New Text!</h2>");` | replaces everything in the **&lt;footer&gt;** with **&lt;h2&gt;New Text!&lt;/h2&gt;** |
 
+### `.text()` selector
+| jQuery | Outcome |
+| --- | --- |
+| `$("li:first").text("About Me");` | updates the **:first** **&lt;li&gt;** element's text with *About Me* |
 
+### `.append()` selector
+| jQuery | Outcome |
+| --- | --- |
+| `$("div.first-div").append("<p>New paragraph</p>");` | appends a new **&lt;p&gt;** element to the **&lt;div&gt;** with **class="first-div"** |
 
+## **STYLING USING JQUERY MANIPULATION**
+> futher info can be found here: [jQuery Style Manipulation](https://api.jquery.com/category/manipulation/style-properties/)
 
+### `.css()` selector
+| jQuery | Outcome |
+| --- | --- |
+| `$("#nav").css("background-color", "black");` | updates the element with **id="nav"** to have CSS *background-color: black;* |
+| `$("#nav").css({"background-color": "black", "color": "white"});` | updates the element with **id="nav"** to have CSS *background-color: black;* and font *color: white;* |
+| `$("#nav").css({"background-color": "black", "color": "white", "font-weight": "bold"});` | updates the element with **id="nav"** to have CSS *background-color: black;*, *color: white;*, and *font-weight: bold;* |
 
+### `.addClass()` selector
+| jQuery | Outcome |
+| --- | --- |
+| `$("p").addClass("red");` | appends **class="red"** to all **&lt;p&gt;** elements |
+| `$("p").addClass("red underline");` | appends **class="red underline"** to all **&lt;p&gt;** elements |
 
+### `.removeClass()` selector
+| jQuery | Outcome |
+| --- | --- |
+| `$("p").removeClass("red");` | removes **class="red"** from all **&lt;p&gt;** elements |
+| `$("p").removeClass("red underline");` | removes **class="red underline"** from all **&lt;p&gt;** elements |
 
+### `.removeClass()` + `.addClass()` selectors
+| jQuery | Outcome |
+| --- | --- |
+| `$("p").removeClass("red").addClass("blue");` | removes **class="red"** from all **&lt;p&gt;** elements, but adds **class="blue"** instead |
 
+## **JQUERY EVENTS**
+> futher examples can be found here: [jQuery Events](https://api.jquery.com/category/events/)
 
+### `.on("click")` function
+~~~~js
+$("#btn").on("click", function() {
+    // your code;
+});
+~~~~
+Once the element with **id="btn"** is clicked, then it will execute whatever is in `// your code`
 
+### `.click()` function
+~~~~js
+$("#btn").click(function() {
+    // your code;
+});
+~~~~
+Same as above: once the element with **id="btn"** is clicked, then it will execute whatever is in `// your code`
 
+### `.mouseenter()` function (similar to the CSS *:hover* effect)
+~~~~js
+$("#btn").mouseenter(function() {
+    // your code;
+});
+~~~~
+Once the user hovers over the element with **id="btn"**, then it will execute whatever is in `// your code`
 
+### `.mouseleave()` function
+~~~~js
+$("#btn").mouseleave(function() {
+    // your code;
+});
+~~~~
+Once the user stops hovering over the element with **id="btn"**, then it will execute whatever is in `// your code`
+
+### `.replaceWith()` | `.removeAttr()` | `.attr()` functions
+~~~~js
+$("a").replaceWith("<button>Button</button>").removeAttr("href");
+~~~~
+Replaces **&lt;a&gt;** tags with **&lt;button&gt;** instead, and removes the **href="#"** attribute since it's now a **button** instead of **anchor**.
+
+~~~~js
+$("a").attr("href", "http://www.google.com");
+~~~~
+Adds **href="http://www.google.com"** attribute to all **&lt;a&gt;** elements.
+
+### `.wrap()` function
+~~~~js
+$("p").click(function() {
+    $("p").children("a").wrap("<mark></mark>");
+});
+~~~~
+If a user clicks on a **&lt;p&gt;** element, then any child **&lt;a&gt;** element will get **&lt;mark&gt;&lt;/mark&gt;** wrapped around it.
+
+### Additional jQuery Events:
+
+| jQuery | Outcome |
+| --- | --- |
+| `.show();` | shows the element |
+| `.hide();` | hides the element |
+| `.toggle();` | toggles show/hide |
+| `.slideDown();` | slide down effect |
+| `.slideUp();` | slide up effect |
+| `.slideToggle();` | toggles slide up/down |
+| `.fadeIn();` | fade in effect |
+| `.fadeOut();` | fade out effect |
+| `.fadeToggle();` | toggles fade in/out |
+| `.fadeTo(1000, 0.5);` | fade effect (speed: 1000ms / opacity: 0.5) |
+
+### Animation Speeds:
+
+| jQuery | Meaning | Length |
+| --- | --- | --- |
+| `.___("slow");` | **slow** animation speed | 600ms (*0.6 seconds*) |
+| `.___("medium");` | **medium/default** animation speed | 400ms (*0.4 seconds*) |
+| `.___("fast");` | **fast** animation speed | 200ms (*0.2 seconds*) |
+| `.___(1000);` | **custom** animation speed | 1000ms (*1 second*) |
+| `.___(2000);` | **custom** animation speed | 2000ms (*2 seconds*) |
+
+##
+
+## **JQUERY : (THIS) SELECTOR**
+
+If you have multiple elements that are similar (&lt;div&gt;, &lt;p&gt;, &lt;a&gt;, &lt;li&gt;, etc.), and you only need to target the specific element that the user interacts with, then the **(this)** selector should be used.
+
+~~~~js
+$("button").click(function() {
+    $(this).prev("p").slideToggle("slow");
+    $(this).siblings(":header").css({"font-size": "2em", "background-color": "#FF0000"});
+});
+~~~~
+
+For each &lt;button&gt; that the user *clicks*, then that specific button **(this)** is targeting.
+In the example above, the button's *previous* &lt;p&gt; tags will have a *slow* **.slideToggle**.
+Also, the **:header** elements (&lt;h1&gt; &lt;h2&gt; etc.) that belong to the button's *siblings* will have their CSS properties updated (*font-size: 2em;* and *background-color: #FF0000;*).
+
+##
+
+## **(THIS)** + **VARIABLES**
+
+~~~~js
+// when clicking an element with .box class
+$(".box").click(function() {
+    // split (this) elements class attributs on a blank _space_
+    // store in variable called myClasses
+    var myClasses = $(this).attr("class").split(" ");
+    // the first[0] class attribute will be the new variable 'boxClass'
+    var boxClass = myClasses[0];
+    // the second[1] class attribute will be the new variable 'className'
+    var className = myClasses[1];
+    // if (this.box) background-color is 'red'
+    if ($(this).css("background-color") == "rgb(255, 0, 0)") {
+        // change the class name so that it updates the bg-color to 'black'
+        $(".") + className).css("background-color", "#000");
+    // otherwise / else
+    } else {
+        // change all '.box' elements to 'black'
+        $("." + boxClass).css("background-color", "#000");
+        // then change the color of all elements with the same class name as the clicked .box to 'red'
+        $("." + className).css("background-color", "red");
+    }
+});
+~~~~
