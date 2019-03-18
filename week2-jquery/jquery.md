@@ -9,25 +9,25 @@
 ##
 
 #### JavaScript engines by browser ([further reading](https://en.wikipedia.org/wiki/List_of_ECMAScript_engines))
-| JS ENGINE | BROWSER |
+| BROWSER | JS ENGINE |
 | --- | --- |
-| *V8* | **Chrome** |
-| *Spider Monkey* | **Firefox** |
-| *Nitro* | **Safari** |
-| *Chakra* | **Edge** |
-| | **Internet Explorer** |
+| **Chrome** | *V8* |
+| **Firefox** | *Spider Monkey* |
+| **Safari** | *Nitro* |
+| **Edge** |*Chakra*  |
+| **Internet Explorer** | *Chakra* |
 
 ##
 
 #### **Terminology**
 | TERM | DESCRIPTION |
 | --- | --- |
-| **DOM** | "Document Object Model" |
-| | *The DOM is an API, not a library* |
-| **API** | "Application Programming Interface" |
-| | *Intermediary software allowing applications to work together* |
-| **WHATWG** | "Web Hypertext Application Technology Working Group" |
-| | *Maintains the DOM standard for all browsers* |
+| **DOM** | "**D**ocument **O**bject **M**odel" |
+| | *(The DOM is an API, not a library)* |
+| **API** | "**A**pplication **P**rogramming **I**nterface" |
+| | *(Intermediary software allowing applications to work together)* |
+| **WHATWG** | "**W**eb **H**ypertext **A**pplication **T**echnology **W**orking **G**roup" |
+| | *(Maintains the DOM standard for all browsers)* |
 
 ##
 
@@ -61,19 +61,19 @@ $(document).ready(function() {
 ### **SELECTING ELEMENTS USING JQUERY**
 
 - Select a specific HTML element:
-  | jQuery | Outcome |
-  | --- | --- |
-  | `$("a");` | all **&lt;a&gt;** elements |
-  | `$("img");` | all **&lt;img&gt;** elements |
-  | `$("div");` | all **&lt;div&gt;** elements |
+| jQuery | Outcome |
+| --- | --- |
+| `$("a");` | all **&lt;a&gt;** elements |
+| `$("img");` | all **&lt;img&gt;** elements |
+| `$("div");` | all **&lt;div&gt;** elements |
 
 - Select an element using its **#id** name:
-  | jQuery | Outcome |
-  | --- | --- |
-  | `$("#jumbotron");` | only the element with **id="jumbotron"** |
+| jQuery | Outcome |
+| --- | --- |
+| `$("#jumbotron");` | only the element with **id="jumbotron"** |
 
 - Select an element using its **.class** name:
-  | jQuery | Outcome |
-  | --- | --- |
-  | `$(".btn-red");` | only the element with **class="btn-red"** |
+| jQuery | Outcome |
+| --- | --- |
+| `$(".btn-red");` | only the element with **class="btn-red"** |
 
