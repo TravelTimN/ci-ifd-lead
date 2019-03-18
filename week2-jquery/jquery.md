@@ -68,15 +68,21 @@ $(document).ready(function() {
 | `$("div");` | all **&lt;div&gt;** elements |
 | `$(":header");` | all **&lt;h#&gt;** elements (**&lt;h1&gt;** **&lt;h2&gt;** **&lt;h3&gt;** etc.) |
 
+##
+
 ### Select an element using its `#id` name:
 | jQuery | Outcome |
 | --- | --- |
 | `$("#jumbotron");` | only the element with **id="jumbotron"** |
 
+##
+
 ### Select an element using its `.class` name:
 | jQuery | Outcome |
 | --- | --- |
 | `$(".btn-red");` | only the elements with **class="btn-red"** |
+
+##
 
 ### Select the `:first` element of something:
 | jQuery | Outcome |
@@ -84,11 +90,15 @@ $(document).ready(function() {
 | `$("div:first");` | only the **:first** **&lt;div&gt;** element |
 | `$(".btn:first");` | only the **:first** element with **class="btn"** |
 
+##
+
 ### Select the `:last` element of something:
 | jQuery | Outcome |
 | --- | --- |
 | `$("a:last");` | only the **:last** **&lt;a&gt;** element |
 | `$(".red:last");` | only the **:last** element with **class="red"** |
+
+##
 
 ### Select the `:nth-child()` element of its parent:
 | jQuery | Outcome |
@@ -100,6 +110,8 @@ $(document).ready(function() {
 | `$(".large:nth-child(3n)");` | every **3rd** element with **class="large"** |
 | `$(".large:nth-child(3n+4)");` | every **3rd** element with **class="large"**, starting with the **4th** item |
 
+##
+
 ### Select the `:eq()` element of its parent [*`:eq()` uses the JavaScript 0-based indexing*]:
 | jQuery | Outcome |
 | --- | --- |
@@ -108,11 +120,15 @@ $(document).ready(function() {
 | `$(".orange:eq(3)");` | only the **4th** element with **class="orange"** |
 | `$(".orange:eq(-3)");` | only the **3th to last** element with **class="orange"** |
 
+##
+
 ### Select every `:even` element of its parent:
 | jQuery | Outcome |
 | --- | --- |
 | `$("a:even");` | every **:even** **&lt;a&gt;** element |
 | `$(".yellow:even");` | every **:even** element with **class="yellow"** |
+
+##
 
 ### Select every `:odd` element of its parent:
 | jQuery | Outcome |
@@ -120,11 +136,15 @@ $(document).ready(function() {
 | `$("p:odd");` | every **:odd** **&lt;p&gt;** element |
 | `$(".green:odd");` | every **:odd** element with **class="green"** |
 
+##
+
 ### Select everything, but `:not` those specified:
 | jQuery | Outcome |
 | --- | --- |
 | `$(".btn:not(.btn-submit)");` | selects every element with **class="btn"** except **:not** the **class="btn-submit"** |
 | `$("div:not(div:first)");` | selects all **&lt;div&gt;** elements, except **:not** the **:first** **&lt;div&gt;** |
+
+##
 
 ### Select all `direct children` of a parent element:
 | jQuery | Outcome |
@@ -132,11 +152,15 @@ $(document).ready(function() {
 | `$("div>p");` | every direct **&lt;p&gt;** child of the **&lt;div&gt;** elements |
 | `$(".para>a");` | every direct **&lt;a&gt;** child of the **class="para"** elements |
 
+##
+
 ### Select all `children` of a parent element, regardless if it's a direct child or not:
 | jQuery | Outcome |
 | --- | --- |
 | `$("div p");` | all **&lt;p&gt;** children of the **&lt;div&gt;** elements |
 | `$(".para a");` | all **&lt;a&gt;** children of the **class="para"** elements |
+
+##
 
 ### Select only those elements currently `:visible` or `:hidden`
 | jQuery | Outcome |
@@ -144,6 +168,7 @@ $(document).ready(function() {
 | `$("p:visible");` | only if the **&lt;p&gt;** is currently **:visible** |
 | `$("p:hidden");` | only if the **&lt;p&gt;** is currently **:hidden** |
 
+##
 ##
 
 ## **TRAVERSING THE DOM WITH JQUERY**
@@ -154,16 +179,22 @@ $(document).ready(function() {
 | `$("p").parent();` | selects the parent of **&lt;p&gt;** elements |
 | `$(".btn").parent();` | selects the parent of the elements with **class="btn"** |
 
+##
+
 ### `.children()` selector
 | jQuery | Outcome |
 | --- | --- |
 | `$("div").children();` | selects all of the children of **&lt;div&gt;** elements |
 | `$("div").children("p");` | selects only the **&lt;p&gt;** children of the **&lt;div&gt;** elements |
 
+##
+
 ### `.siblings()` selector
 | jQuery | Outcome |
 | --- | --- |
 | `$("li").siblings();` | selects all siblings of the **&lt;li&gt;** elements |
+
+##
 
 ### `.first()` selector
 | jQuery | Outcome |
@@ -177,21 +208,28 @@ $(document).ready(function() {
 | `$(".purple").last();` | selects only the **.last()** element with **class="purple"** |
 | `$(".purple").last("a");` | selects only the **.last()** **&lt;a&gt;** element with **class="purple"** |
 
+##
+
 ### `.next()` selector
 | jQuery | Outcome |
 | --- | --- |
 | `$("li").next();` | selects the **.next()** **&lt;li&gt;** element |
+
+##
 
 ### `.prev()` selector
 | jQuery | Outcome |
 | --- | --- |
 | `$("li").prev();` | selects the **.prev()** **&lt;li&gt;** element |
 
+##
+
 ### `.filter()` selector
 | jQuery | Outcome |
 | --- | --- |
 | `$("li").filter(".menu-item");` | filters all **&lt;li&gt;** elements only with **class="menu-item"** |
 
+##
 ##
 
 ## **JQUERY DOM MANIPULATION**
@@ -202,18 +240,26 @@ $(document).ready(function() {
 | --- | --- |
 | `$("footer").html("<h2>New Text!</h2>");` | replaces everything in the **&lt;footer&gt;** with **&lt;h2&gt;New Text!&lt;/h2&gt;** |
 
+##
+
 ### `.text()` selector
 | jQuery | Outcome |
 | --- | --- |
 | `$("li:first").text("About Me");` | updates the **:first** **&lt;li&gt;** element's text with *About Me* |
+
+##
 
 ### `.append()` selector
 | jQuery | Outcome |
 | --- | --- |
 | `$("div.first-div").append("<p>New paragraph</p>");` | appends a new **&lt;p&gt;** element to the **&lt;div&gt;** with **class="first-div"** |
 
+##
+
 ## **STYLING USING JQUERY MANIPULATION**
 > futher info can be found here: [jQuery Style Manipulation](https://api.jquery.com/category/manipulation/style-properties/)
+
+##
 
 ### `.css()` selector
 | jQuery | Outcome |
@@ -222,11 +268,15 @@ $(document).ready(function() {
 | `$("#nav").css({"background-color": "black", "color": "white"});` | updates the element with **id="nav"** to have CSS *background-color: black;* and font *color: white;* |
 | `$("#nav").css({"background-color": "black", "color": "white", "font-weight": "bold"});` | updates the element with **id="nav"** to have CSS *background-color: black;*, *color: white;*, and *font-weight: bold;* |
 
+##
+
 ### `.addClass()` selector
 | jQuery | Outcome |
 | --- | --- |
 | `$("p").addClass("red");` | appends **class="red"** to all **&lt;p&gt;** elements |
 | `$("p").addClass("red underline");` | appends **class="red underline"** to all **&lt;p&gt;** elements |
+
+##
 
 ### `.removeClass()` selector
 | jQuery | Outcome |
@@ -234,13 +284,19 @@ $(document).ready(function() {
 | `$("p").removeClass("red");` | removes **class="red"** from all **&lt;p&gt;** elements |
 | `$("p").removeClass("red underline");` | removes **class="red underline"** from all **&lt;p&gt;** elements |
 
+##
+
 ### `.removeClass()` + `.addClass()` selectors
 | jQuery | Outcome |
 | --- | --- |
 | `$("p").removeClass("red").addClass("blue");` | removes **class="red"** from all **&lt;p&gt;** elements, but adds **class="blue"** instead |
 
+##
+
 ## **JQUERY EVENTS**
 > futher examples can be found here: [jQuery Events](https://api.jquery.com/category/events/)
+
+##
 
 ### `.on("click")` function
 ~~~~js
@@ -250,6 +306,8 @@ $("#btn").on("click", function() {
 ~~~~
 Once the element with **id="btn"** is clicked, then it will execute whatever is in `// your code`
 
+##
+
 ### `.click()` function
 ~~~~js
 $("#btn").click(function() {
@@ -257,6 +315,8 @@ $("#btn").click(function() {
 });
 ~~~~
 Same as above: once the element with **id="btn"** is clicked, then it will execute whatever is in `// your code`
+
+##
 
 ### `.mouseenter()` function (similar to the CSS *:hover* effect)
 ~~~~js
@@ -266,6 +326,8 @@ $("#btn").mouseenter(function() {
 ~~~~
 Once the user hovers over the element with **id="btn"**, then it will execute whatever is in `// your code`
 
+##
+
 ### `.mouseleave()` function
 ~~~~js
 $("#btn").mouseleave(function() {
@@ -273,6 +335,8 @@ $("#btn").mouseleave(function() {
 });
 ~~~~
 Once the user stops hovering over the element with **id="btn"**, then it will execute whatever is in `// your code`
+
+##
 
 ### `.replaceWith()` | `.removeAttr()` | `.attr()` functions
 ~~~~js
@@ -285,6 +349,8 @@ $("a").attr("href", "http://www.google.com");
 ~~~~
 Adds **href="http://www.google.com"** attribute to all **&lt;a&gt;** elements.
 
+##
+
 ### `.wrap()` function
 ~~~~js
 $("p").click(function() {
@@ -292,6 +358,8 @@ $("p").click(function() {
 });
 ~~~~
 If a user clicks on a **&lt;p&gt;** element, then any child **&lt;a&gt;** element will get **&lt;mark&gt;&lt;/mark&gt;** wrapped around it.
+
+##
 
 ### Additional jQuery Events:
 
@@ -308,6 +376,8 @@ If a user clicks on a **&lt;p&gt;** element, then any child **&lt;a&gt;** elemen
 | `.fadeToggle();` | toggles fade in/out |
 | `.fadeTo(1000, 0.5);` | fade effect (speed: 1000ms / opacity: 0.5) |
 
+##
+
 ### Animation Speeds:
 
 | jQuery | Meaning | Length |
@@ -318,6 +388,7 @@ If a user clicks on a **&lt;p&gt;** element, then any child **&lt;a&gt;** elemen
 | `.___(1000);` | **custom** animation speed | 1000ms (*1 second*) |
 | `.___(2000);` | **custom** animation speed | 2000ms (*2 seconds*) |
 
+##
 ##
 
 ## **JQUERY : (THIS) SELECTOR**
@@ -335,6 +406,7 @@ For each &lt;button&gt; that the user *clicks*, then that specific button **(thi
 In the example above, the button's *previous* &lt;p&gt; tags will have a *slow* **.slideToggle**.
 Also, the **:header** elements (&lt;h1&gt; &lt;h2&gt; etc.) that belong to the button's *siblings* will have their CSS properties updated (*font-size: 2em;* and *background-color: #FF0000;*).
 
+##
 ##
 
 ## **(THIS)** + **VARIABLES**
