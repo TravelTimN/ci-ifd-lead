@@ -404,9 +404,9 @@ $("button").click(function() {
 });
 ~~~~
 
-For each &lt;button&gt; that the user *clicks*, then that specific button **(this)** is targeting.
-In the example above, the button's *previous* &lt;p&gt; tags will have a *slow* **.slideToggle**.
-Also, the **:header** elements (&lt;h1&gt; &lt;h2&gt; etc.) that belong to the button's *siblings* will have their CSS properties updated (*font-size: 2em;* and *background-color: #FF0000;*).
+- For each &lt;button&gt; that the user *clicks*, then that specific button/**(this)** is targeted.
+- In the example above, the button's *previous* &lt;p&gt; tags will have a *slow* **.slideToggle**.
+- Also, the **:header** elements (&lt;h1&gt; &lt;h2&gt; etc.) that belong to the button's *siblings* will have their CSS properties updated (*font-size: 2em;* and *background-color: #FF0000;*).
 
 ##
 ##
@@ -416,8 +416,7 @@ Also, the **:header** elements (&lt;h1&gt; &lt;h2&gt; etc.) that belong to the b
 ~~~~js
 // when clicking an element with .box class
 $(".box").click(function() {
-    // split (this) elements class attributs on a blank _space_
-    // store in variable called myClasses
+    // split (this) element's class attributs on a blank _space_ and store in variable called myClasses
     var myClasses = $(this).attr("class").split(" ");
     // the first[0] class attribute will be the new variable 'boxClass'
     var boxClass = myClasses[0];
@@ -436,3 +435,5 @@ $(".box").click(function() {
     }
 });
 ~~~~
+
+[LIVE DEMO on CodePen](https://codepen.io/traveltimn/pen/pYZoQW)
