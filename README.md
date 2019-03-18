@@ -10,7 +10,7 @@
 > [`Sass`](https://github.com/TravelTimN/ci-ifd-lead/blob/master/week1-sass/sass.md)
 
 ### **Week 2**: *21 March @20:00 (UTC)*
-> `jQuery`
+> [`jQuery`](https://github.com/TravelTimN/ci-ifd-lead/blob/master/week2-jquery/jquery.md)
 
 ### **Week 3**: *28 March 2019 @20:00 (UTC)*
 > `DC | D3`

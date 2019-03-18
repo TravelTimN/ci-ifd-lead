@@ -132,6 +132,8 @@ What items are considered the **keys** and **values** from our *map* above?
 ### *ITERATION USING INTERPOLATION*:
 You can take *key-value pairs* and iterate through them to create multiple classes.
 
+> See an example of this in action on [Codepen.io](https://codepen.io/traveltimn/pen/GeyqQQ)
+
 ~~~~
 @each $key, $value in $colors {
   .btn-#{$key} {
@@ -298,6 +300,8 @@ What color text will the button have if we pass purple (`#A602FF`) as the `$colo
 
 ### **PART 2** -- *MIXINS + `@content`*:
 Places the `@include` properties within the `@mixin`
+
+> See an example of this in action on [Codepen.io](https://codepen.io/traveltimn/pen/XGVjvE)
 
 ~~~~
 @mixin TrumpsWall() {
