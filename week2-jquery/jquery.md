@@ -112,7 +112,9 @@ $(document).ready(function() {
 
 ##
 
-### Select the `:eq()` element of its parent [*`:eq()` uses the JavaScript 0-based indexing*]:
+### Select the `:eq()` element of its parent:
+*`:eq()` uses the JavaScript 0-based indexing*
+
 | jQuery | Outcome |
 | --- | --- |
 | `$("div:eq(2)");` | only the **3rd** **&lt;div&gt;** element |
