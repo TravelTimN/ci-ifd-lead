@@ -66,6 +66,7 @@ $(document).ready(function() {
 | `$("a");` | all **&lt;a&gt;** elements |
 | `$("img");` | all **&lt;img&gt;** elements |
 | `$("div");` | all **&lt;div&gt;** elements |
+| `$(":header");` | all **&lt;h#&gt;** elements (**&lt;h1&gt;** **&lt;h2&gt;** **&lt;h3&gt;** etc.) |
 
 ### Select an element using its `#id` name:
 | jQuery | Outcome |
@@ -106,3 +107,87 @@ $(document).ready(function() {
 | `$("div:eq(-2)");` | only the **2nd to last** **&lt;div&gt;** element |
 | `$(".orange:eq(3)");` | only the **4th** element with **class="orange"** |
 | `$(".orange:eq(-3)");` | only the **3th to last** element with **class="orange"** |
+
+### Select every `:even` element of its parent:
+| jQuery | Outcome |
+| --- | --- |
+| `$("a:even");` | every **:even** **&lt;a&gt;** element |
+| `$(".yellow:even");` | every **:even** element with **class="yellow"** |
+
+### Select every `:odd` element of its parent:
+| jQuery | Outcome |
+| --- | --- |
+| `$("p:odd");` | every **:odd** **&lt;p&gt;** element |
+| `$(".green:odd");` | every **:odd** element with **class="green"** |
+
+### Select all `direct children` of a parent element:
+| jQuery | Outcome |
+| --- | --- |
+| `$("div>p");` | every direct **&lt;p&gt;** child of the **&lt;div&gt;** elements |
+| `$(".para>a");` | every direct **&lt;a&gt;** child of the **class="para"** elements |
+
+### Select all `children` of a parent element, regardless if it's a direct child or not:
+| jQuery | Outcome |
+| --- | --- |
+| `$("div p");` | all **&lt;p&gt;** children of the **&lt;div&gt;** elements |
+| `$(".para a");` | all **&lt;a&gt;** children of the **class="para"** elements |
+
+##
+
+## **TRAVERSING THE DOM WITH JQUERY**
+
+### `.parent()` selector
+| jQuery | Outcome |
+| --- | --- |
+| `$("p").parent();` | selects the parent of **&lt;p&gt;** elements |
+| `$(".btn").parent();` | selects the parent of the elements with **class="btn"** |
+
+### `.children()` selector
+| jQuery | Outcome |
+| --- | --- |
+| `$("div").children();` | selects all of the children of **&lt;div&gt;** elements |
+| `$("div").children("p");` | selects only the **&lt;p&gt;** children of the **&lt;div&gt;** elements |
+
+### `.siblings()` selector
+| jQuery | Outcome |
+| --- | --- |
+| `$("li").siblings();` | selects all siblings of the **&lt;li&gt;** elements |
+
+### `.first()` selector
+| jQuery | Outcome |
+| --- | --- |
+| `$(".blue").first();` | selects only the **.first()** element with **class="blue"** |
+| `$(".blue").first("a");` | selects only the **.first()** **&lt;a&gt;** element with **class="blue"** |
+
+### `.last()` selector
+| jQuery | Outcome |
+| --- | --- |
+| `$(".purple").last();` | selects only the **.last()** element with **class="purple"** |
+| `$(".purple").last("a");` | selects only the **.last()** **&lt;a&gt;** element with **class="purple"** |
+
+### `.next()` selector
+| jQuery | Outcome |
+| --- | --- |
+| `$("li").next();` | selects the **.next()** **&lt;li&gt;** element |
+
+### `.prev()` selector
+| jQuery | Outcome |
+| --- | --- |
+| `$("li").prev();` | selects the **.prev()** **&lt;li&gt;** element |
+
+##
+
+## **JQUERY DOM MANIPULATION**
+
+
+
+
+
+
+
+
+
+
+
+
+
