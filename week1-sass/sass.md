@@ -56,7 +56,7 @@ Other examples could be: `border:` | `grid:` | `column:` | `flex:` | `list-style
 ### *VARIABLES*:
 Reusable code in *variables*, similar to JavaScript variables.
 
-~~~~css
+~~~~
 $red: #FF1100;
 $orange: #FF5100;
 $yellow: #FFD000;
@@ -108,7 +108,7 @@ $colors: $red, $orange, $yellow, $green, $blue, $purple;
 #### Map
 *(contains key-value pairs)*
 
-~~~~css
+~~~~
 $colors: (
   red: #FF1100,
   orange: #FF5100,
