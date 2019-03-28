@@ -15,7 +15,7 @@ If you plan on making a data dashboard, you should consider the following steps:
 - **FILTER DATA** *[optional]*
     - If desired and/or permitted, remove any unnessary columns+rows from your data.
 - **ASSIGN CHARTS**
-    - Decide which charts your data will best portray to users. *(exampless below)*
+    - Decide which charts your data will best portray to users. *(examples below)*
 - **CONVERT DATA** *[optional]*
     - Sometimes it's easier to use **.json** versus using **.csv**
     - Suggested free online [csv to json converter](https://csvjson.com/csv2json)
