@@ -1,0 +1,330 @@
+* {
+    margin: 0 auto;
+    padding: 0;
+    font-family: sans-serif;
+    text-decoration: none;
+    shape-rendering: crispEdges;
+}
+
+body {
+    background-color: #ffe;
+}
+
+
+
+/*----- NAV ----- ----- NAV ----- ----- NAV -----*/
+nav {
+    width: 100%;
+    position: fixed;
+    top: 0;
+    z-index: 10;
+    background-color: rgba(0, 0, 0, 0.8);
+}
+
+#nav-name {
+    float: left;
+    color: #fff;
+    margin: 10px 30px;
+    font-weight: bolder;
+    font-size: 2vw;
+}
+
+#nav-btn {
+    position: absolute;
+    top: 2vw;
+    right: 15px;
+}
+
+.nav-btn {
+    margin-right: 2vw;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 1vw;
+    color: #000;
+    background-color: #ddf;
+    letter-spacing: 0.4vw;
+    padding: 0.75vw 3vw;
+    border: 0.2vw dashed rgba(0, 0, 0, 0.25);
+    border-radius: 25px;
+    box-shadow: 0 0 0 4px #ddf, 2px 1px 6px 4px rgba(10, 10, 0, 0.5);
+    transition: all 0.2s ease-in-out;
+}
+
+.nav-btn:hover {
+    background-color: rgba(0, 140, 255, 0.7);
+    border-color: rgba(255, 255, 255, 0.5);
+    color: #fff;
+    cursor: pointer;
+}
+
+/* dc.selectMenu */
+select {
+    font-size: 1.5vw;
+    border-radius: 5px;
+    background-color: #eef;
+}
+
+/* dc.dataCount */
+.filter-count {
+    color: #004CFF;
+    background-color: #ddf;
+    border: 2px dashed #004cff;
+    border-radius: 5px;
+    padding: 0 5px;
+    text-shadow: 1px 1px 2px #000;
+}
+
+
+
+/*----- MAIN ----- ----- MAIN ----- ----- MAIN -----*/
+main {
+    margin-top: 7vw;
+}
+
+/* basic chart design - demo only, not required */
+.chart {
+    margin: 2vw 2vw 10vh 2vw;
+    padding: 2vw;
+    text-shadow: 1px 1px 5px #fff;
+    background-color: #ddf;
+    border: 0.2vw dashed rgba(0, 0, 0, 0.25);
+    border-radius: 0.5vw;
+    box-shadow: 0 0 0 4px #ddf, 2px 1px 6px 4px rgba(10, 10, 0, 0.5);
+}
+
+.chart a {
+    color: #004CFF;
+    font-weight: bold;
+    font-size: 1.5vw;
+    float: right;
+}
+
+.chart a:hover {
+    color: #008CFF;
+}
+
+
+
+/*----- PIE CHART ----- ----- PIE CHART ----- ----- PIE CHART -----*/
+/* dc.pieChart ----- override some default settings --- purely optional */
+.pie-chart {
+    width: 40vw;
+    float: left;
+}
+
+.dc-chart .pie-path {
+    fill: none;
+    stroke-width: 1px;
+    stroke: #fff;
+    opacity: 0.75;
+}
+
+.dc-chart .pie-label {
+    font-size: 0.5em;
+}
+
+.dc-chart rect {
+    stroke: #000;
+    stroke-width: 1px;
+}
+
+.dc-legend {
+    font-size: 0.5vw;
+}
+
+.labels,
+#food {
+    float: left;
+    font-weight: bold;
+    font-size: 1.5vw;
+    letter-spacing: 2px;
+}
+
+
+
+/*----- ROW CHART ----- ----- ROW CHART ----- ----- ROW CHART -----*/
+/* dc.rowChart ----- override some default settings --- purely optional */
+.dc-chart g.row text {
+    fill: #000;
+    font-size: 1vw;
+}
+
+
+
+/*----- BAR CHART ----- ----- BAR CHART ----- ----- BAR CHART -----*/
+/* dc.barChart ----- override some default settings --- purely optional */
+.bar-chart {
+    width: 90vw;
+    float: right;
+}
+
+/*----- STACKED BAR CHART -----*/
+#stack .dc-legend .dc-legend-item {
+    letter-spacing: 1.2px;
+    font-size: 1.5em;
+}
+
+
+
+/*----- DATA TABLE ----- ----- DATA TABLE ----- ----- DATA TABLE -----*/
+/* dc.dataTable ----- override some default settings --- purely optional */
+#restaurants {
+    border-collapse: separate;
+    width: 90%;
+    padding: 20px;
+}
+
+#restaurants th {
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    background-color: #888;
+    color: #fff;
+    text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.9);
+}
+
+#restaurants th.dc-table-head {
+    position: sticky;
+    top: 0;
+    box-shadow: 2px 2px 5px 3px rgba(0, 0, 0, 0.75);
+}
+
+#restaurants th,
+#restaurants td {
+    padding: 5px;
+    border-radius: 2px;
+    border: 1px solid #aaa;
+    cursor: text;
+    text-align: center;
+}
+
+#restaurant th,
+#restaurant td:not(.dc-table-label) {
+    box-shadow: 5px 5px 20px rgba(0, 0, 0, 0.9);
+}
+
+#restaurants td.dc-table-column._1 {
+    text-align: left;
+    padding-left: 15px;
+}
+
+#restaurants td.dc-table-column._2::after {
+    content: "★";
+}
+
+#restaurants td {
+    background-color: #ddd;
+}
+
+#restaurants td.dc-table-label {
+    background-color: #444;
+    color: #fff;
+    letter-spacing: 2px;
+    position: sticky;
+    top: 32px;
+    font-size: 2vw;
+    text-transform: uppercase;
+}
+
+
+
+/*----- LEAFLET MAP ----- ----- LEAFLET MAP ----- ----- LEAFLET MAP -----*/
+/* leaflet map needs a bare minimum of 'height' property */
+#map {
+    height: 70vh; /* !!! height is required !!! (the rest are optional) */
+    z-index: 5;
+    border-radius: 5px;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.5);
+}
+
+.leaflet-control-attribution.leaflet-control a {
+    color: #000;
+    font-size: 1em;
+}
+
+
+
+/*----- MODAL (HIDDEN) ----- ----- MODAL (HIDDEN) ----- ----- MODAL (HIDDEN) -----*/
+/* this demo doesn't use Bootstrap, so created a simple modal myself */
+#modal {
+    display: none;
+    position: fixed;
+    z-index: 50;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    overflow: auto;
+    background-color: rgba(0, 0, 0, 0.9);
+}
+
+#close {
+    z-index: 100;
+    color: #f77;
+    position: fixed;
+    top: 10px;
+    right: 15px;
+    font-size: 6vw;
+    cursor: pointer;
+    background-color: #000;
+    border-radius: 100%;
+    line-height: 5vw;
+    text-align: center;
+    transition: all 0.2s ease-in-out;
+}
+
+#close:hover {
+    color: #f00;
+    align-content: center;
+    text-align: center;
+    transform: scale(1.1);
+}
+
+/* custom scrollbar in modal */
+#modal::-webkit-scrollbar-track {
+    box-shadow: inset 1px 0 1px #fff;
+}
+
+/* custom scrollbar in modal */
+#modal::-webkit-scrollbar {
+    width: 10px;
+}
+
+/* custom scrollbar in modal */
+#modal::-webkit-scrollbar-thumb {
+    border-top: 2px solid #fff;
+    border-bottom: 2px solid #fff;
+    border-left: 1px solid #000;
+}
+
+
+
+/*----- FOOTER ----- ----- FOOTER ----- ----- FOOTER -----*/
+footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    font-size: 1vw;
+    background-color: #000;
+    color: #aaa;
+    z-index: 50;
+    text-align: center;
+}
+
+footer a {
+    color: #eef;
+}
+
+footer a:hover,
+footer a:active,
+footer a:focus,
+footer a:visited {
+    color: #eef;
+}
+
+
+/*----- ! IMPORTANT ! ------ ----- ! IMPORTANT ! ------ ----- ! IMPORTANT ! ------*/
+/* ! if not using a framework (Bootstrap, Flexbox, Grid) then charts break without this ! */
+div.dc-chart {
+    float: none;
+}

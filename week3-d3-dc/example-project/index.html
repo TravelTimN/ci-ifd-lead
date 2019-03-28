@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.3.4/dist/leaflet.css" type="text/css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/dc/3.0.12/dc.css" type="text/css">
+    <link rel="stylesheet" href="css/style.css" type="text/css">
+
+    <title>D3 + DC.JS (demo)</title>
+</head>
+
+<body>
+
+    <!-- NAV -->
+    <nav>
+        <div id="nav-name">
+            <!-- dc.dataCount -->
+            <!-- note: must be in div# with class:'filter-counter' -->
+            <!-- if using total items, separate span with class: 'total-count' is required -->
+            <div id="total"><span class="filter-count"></span> Restaurants
+            </div>
+            <!-- dc.selectMenu -->
+            <div id="city"><small>by city:</small> </div>
+            <div id="nav-btn">
+                <!-- dc.filterAll + dc.renderAll ??RESET?? -->
+                <a href="javascript:dc.filterAll(); dc.renderAll();" id="reset" class="nav-btn">Reset All</a>
+                <!-- displays hidden modal below with dc.dataTable -->
+                <a id="results" class="nav-btn">See Results</a>
+            </div>
+    </nav>
+
+    <!-- CHART DIVS -->
+    <main>
+        <div class="chart pie-chart">
+            <span class="labels">STAR RATING</span>
+            <a id="resetRating">[ reset ]</a>
+            <!-- dc.rowChart -->
+            <div id="rating"></div>
+        </div>
+
+        <div class="chart pie-chart">
+            <!-- dc.selectMenu -->
+            <div id="food">CUISINE<br></div>
+            <a id="resetCuisine">[ reset ]</a>
+            <!-- dc.pieChart (+donut) -->
+            <div id="cuisine"></div>
+        </div>
+
+        <div class="chart bar-chart">
+            <!-- dc.barChart (stacked) -->
+            <div id="stack"></div>
+            <a id="resetStack">[ reset ]</a>
+        </div>
+
+        <div class="chart bar-chart">
+            <!-- dc.scatterPlot -->
+            <div id="scatter"></div>
+            <a id="resetScatter">[ reset ]</a>
+        </div>
+
+        <div class="chart bar-chart">
+            <!-- leaflet map -->
+            <div id="map"></div>
+        </div>
+    </main>
+
+    <!-- HIDDEN MODAL -->
+    <div id="modal">
+        <span id="close">&#9421;</span>
+        <!-- dc.dataTable -->
+        <table id="restaurants"></table>
+    </div>
+
+    <!-- FOOTER -->
+    <footer>
+        <p>Disclaimer: This page was built for demo purposes only. No frameworks (Bootstrap, Flexbox, Grid) were used,
+            just some force with CSS and floats, so please don't use this layout (it's horrible and used purely for
+            demo!).<br>All data displayed for charts were obtained from <a
+                href="https://www.kaggle.com/damienbeneschi/krakow-ta-restaurans-data-raw" target="_blank"
+                rel="noopener">Kaggle Datasets</a>, having only used the top 100 per city, and removed/added some of my
+            own columns for demo purposes. [FOR EDUCATION PURPOSES ONLY]
+        </p>
+    </footer>
+
+    <!-- SCRIPTS -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.js"></script>
+    <script src="https://unpkg.com/leaflet@1.3.4/dist/leaflet.js"></script>
+    <!-- must load in this order: D3 | CROSSFILTER | DC -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/5.9.2/d3.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/crossfilter2/1.4.6/crossfilter.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/dc/3.0.12/dc.js"></script>
+    <script src="js/script.js"></script>
+
+</body>
+
+</html>
