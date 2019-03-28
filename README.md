@@ -13,7 +13,7 @@
 > [`jQuery`](https://github.com/TravelTimN/ci-ifd-lead/blob/master/week2-jquery/jquery.md)
 
 ### **Week 3**: *28 March 2019 @20:00 (UTC)*
-> `DC | D3`
+> [`D3 | DC`](https://github.com/TravelTimN/ci-ifd-lead/blob/master/week3-d3-dc/d3-dc.md)
 
 ### **Week 4**: *04 April 2019 @20:00 (UTC)*
 > `LeafletJS` (*alternative to Google Maps*)
