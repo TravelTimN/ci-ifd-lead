@@ -80,4 +80,4 @@ Further color options can be seen on [ColorBrewer2.org](http://www.colorbrewer2.
 
 Now for a demo I've created using the new D3 | dc.js versions, just to highlight a few examples of charts in action.
 
-I've uploaded the page on [GitHub](https://github.com/TravelTimN/ci-ifd-lead/blob/master/week3-d3-dc/example-project/index.html), but for now, let's check out a [LIVE DEMO on CodePen](https://codepen.io/traveltimn/full/MxxBMx)!
+I've uploaded the page on [GitHub](https://github.com/TravelTimN/ci-ifd-lead/blob/master/week3-d3-dc/example-project/index.html), but for now, let's check out a [LIVE DEMO on CodePen](https://codepen.io/traveltimn/full/MxxBMx)! Have fun!
