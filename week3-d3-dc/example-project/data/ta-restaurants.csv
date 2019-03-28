@@ -1,0 +1,3101 @@
+City,IATA,Rank,Name,Rating,Reviews,Cuisine,Price
+Amsterdam,AMS,1,Martine of Martine's Table,5,136,French,€€ - €€€
+Amsterdam,AMS,2,De Silveren Spiegel,4.5,812,Dutch,€€€€
+Amsterdam,AMS,3,La Rive,4.5,567,Mediterranean,€€€€
+Amsterdam,AMS,4,Vinkeles,5,564,French,€€€€
+Amsterdam,AMS,5,Librije's Zusje Amsterdam,4.5,316,Dutch,€€€€
+Amsterdam,AMS,6,Ciel Bleu Restaurant,4.5,745,Contemporary,€€€€
+Amsterdam,AMS,7,Zaza's,4.5,1455,French,€€ - €€€
+Amsterdam,AMS,8,Blue Pepper Restaurant And Candlelight Cruises,4.5,675,Asian,€€€€
+Amsterdam,AMS,9,Teppanyaki Restaurant Sazanka,4.5,923,Japanese,€€€€
+Amsterdam,AMS,10,Rob Wigboldus Vishandel,4.5,450,Dutch,€
+Amsterdam,AMS,11,The Happy Bull,4.5,295,American,€€ - €€€
+Amsterdam,AMS,12,Gartine,4.5,967,French,€€ - €€€
+Amsterdam,AMS,13,Restaurant Adam,4.5,368,French,€€€€
+Amsterdam,AMS,14,Biercafe Gollem,4.5,586,Bar,€€ - €€€
+Amsterdam,AMS,15,Restaurant Daalder,4.5,1246,French,€€€€
+Amsterdam,AMS,16,Greenwoods Keizersgracht,4.5,1391,Dutch,€€ - €€€
+Amsterdam,AMS,17,Omelegg - City Centre,4.5,1633,Dutch,€
+Amsterdam,AMS,18,Brasserie Ambassade,4.5,958,French,€€€€
+Amsterdam,AMS,19,Sherpa Restaurant,4.5,426,Indian,€€ - €€€
+Amsterdam,AMS,20,La Maschera Lillotatini,4.5,421,Italian,€€ - €€€
+Amsterdam,AMS,21,Senses Restaurant,4.5,1380,International,€€€€
+Amsterdam,AMS,22,MOS Amsterdam,4.5,239,French,€€€€
+Amsterdam,AMS,23,Restaurant Vlaming,4.5,996,Dutch,€€ - €€€
+Amsterdam,AMS,24,Arendsnest Dutch Beer Bar,4.5,716,Dutch,€€€
+Amsterdam,AMS,25,Jacketz,4.5,1958,Dutch,€€ - €€€
+Amsterdam,AMS,26,Greenwoods Singel,4.5,2360,Cafe,€€ - €€€
+Amsterdam,AMS,27,Bord'Eau,4.5,666,French,€€€€
+Amsterdam,AMS,28,Omelegg - De Pijp,4.5,1642,Dutch,€
+Amsterdam,AMS,29,Harmsen,4.5,344,Dutch,€€ - €€€
+Amsterdam,AMS,30,Brasserie SenT,4.5,646,Barbecue,€€ - €€€
+Amsterdam,AMS,31,MAX Amsterdam,4.5,1869,European,€€ - €€€
+Amsterdam,AMS,32,Restaurant Argentino Luna,4.5,821,Steakhouse,€€ - €€€
+Amsterdam,AMS,33,Lombardo's,4.5,2052,Barbecue,€€ - €€€
+Amsterdam,AMS,34,Midtown Grill,4.5,1181,Barbecue,€€€€
+Amsterdam,AMS,35,Eatmosfera Ristorante,4.5,973,Italian,€€ - €€€
+Amsterdam,AMS,36,Broodje Bert,4.5,685,Dutch,€
+Amsterdam,AMS,37,Jacketz Nieuwendijk,4.5,264,Dutch,€
+Amsterdam,AMS,38,Toastable Nieuwendijk,4.5,308,Dutch,€
+Amsterdam,AMS,39,Tales and Spirits,4.5,697,Bar,€€ - €€€
+Amsterdam,AMS,40,Krua Thai Classic Restaurant,4.5,465,Asian,€€ - €€€
+Amsterdam,AMS,41,Bussia,4.5,959,Italian,€€€€
+Amsterdam,AMS,42,Ashoka Restaurant,4.5,718,Indian,€€ - €€€
+Amsterdam,AMS,43,The Seafood Bar,4.5,4709,Seafood,€€ - €€€
+Amsterdam,AMS,44,Mossel en Gin,4.5,408,Dutch,€€ - €€€
+Amsterdam,AMS,45,Frens Haringhandel,4.5,431,Dutch,€
+Amsterdam,AMS,46,Ivy & Bros,4.5,757,Cafe,€
+Amsterdam,AMS,47,B&B Lunchroom Leidsestraat,4.5,403,Dutch,€
+Amsterdam,AMS,48,Toastable Koningsplein,4.5,781,Cafe,€
+Amsterdam,AMS,49,Nader Grill Steakhouse,4.5,187,Steakhouse,€€ - €€€
+Amsterdam,AMS,50,Piadina Bar,4.5,508,Italian,€
+Amsterdam,AMS,51,Mook Pancakes,4.5,681,Dutch,€€ - €€€
+Amsterdam,AMS,52,Van Kerkwijk,4.5,1995,Dutch,€€ - €€€
+Amsterdam,AMS,53,d&a hummus bistro,4.5,414,Mediterranean,€€ - €€€
+Amsterdam,AMS,54,De Kas,4.5,1573,Dutch,€€€€
+Amsterdam,AMS,55,Eetcafe Singel 404,4.5,490,Dutch,€
+Amsterdam,AMS,56,De Struisvogel,4.5,517,French,€€ - €€€
+Amsterdam,AMS,57,Restaurant Johannes,4.5,1065,French,€€€€
+Amsterdam,AMS,58,The Seafood Bar Ferdinand Bol,4.5,348,Seafood,€€ - €€€
+Amsterdam,AMS,59,Guts & Glory,4.5,555,International,€€ - €€€
+Amsterdam,AMS,60,Thai Phutakun,4.5,530,Asian,€€ - €€€
+Amsterdam,AMS,61,Bakers & Roasters,4.5,1091,New Zealand,€€ - €€€
+Amsterdam,AMS,62,FuLu Mandarijn Amsterdam,4.5,1801,Chinese,€€ - €€€
+Amsterdam,AMS,63,Pesca,4.5,756,Dutch,€€ - €€€
+Amsterdam,AMS,64,De Reiger,4.5,530,Dutch,€€ - €€€
+Amsterdam,AMS,65,The Pantry,4.5,2428,Dutch,€€ - €€€
+Amsterdam,AMS,66,C,4.5,289,International,€€€€
+Amsterdam,AMS,67,The Lobby Nesplein Restaurant & Bar,4.5,838,Dutch,€€ - €€€
+Amsterdam,AMS,68,Hap-Hmm,4.5,510,Dutch,€
+Amsterdam,AMS,69,The Seafood Bar Spui,4.5,1209,Seafood,€€ - €€€
+Amsterdam,AMS,70,La Zoccola del Pacioccone Pizzeria,4.5,1098,Italian,€€ - €€€
+Amsterdam,AMS,71,JUN Indonesian Cuisine,4.5,416,Asian,€€ - €€€
+Amsterdam,AMS,72,Sugo Amsterdam,4.5,445,Pizza,€
+Amsterdam,AMS,73,Burger Bar,4.5,748,American,€
+Amsterdam,AMS,74,Restaurant BREDA,4.5,331,French,€€ - €€€
+Amsterdam,AMS,75,Hemelse Modder,4.5,562,Dutch,€€ - €€€
+Amsterdam,AMS,76,Prins Heerlijk,4.5,425,Dutch,€
+Amsterdam,AMS,77,Taj Indian,4.5,1415,Indian,€€ - €€€
+Amsterdam,AMS,78,Bistrot Neuf Amsterdam,4.5,546,French,€€ - €€€
+Amsterdam,AMS,79,Vlaams Friteshuis Vleminckx,4.5,1313,Belgian,€
+Amsterdam,AMS,80,Bagels & Beans,4.5,1294,American,€
+Amsterdam,AMS,81,Cafe Piazza,4.5,681,Italian,€€ - €€€
+Amsterdam,AMS,82,Restaurant RED,4.5,1113,Steakhouse,€€ - €€€
+Amsterdam,AMS,83,De Belhamel,4.5,1170,French,€€€€
+Amsterdam,AMS,84,Barbeque Castell,4.5,706,Steakhouse,€€ - €€€
+Amsterdam,AMS,85,Seasons Restaurant,4.5,1470,Dutch,€€ - €€€
+Amsterdam,AMS,86,Burger Bar,4.5,1379,American,€
+Amsterdam,AMS,87,Ava Cyril,4.5,377,Steakhouse,€€ - €€€
+Amsterdam,AMS,88,Restaurant Lt. Cornelis,4.5,374,Dutch,€€ - €€€
+Amsterdam,AMS,89,Restaurant Tomaz,4.5,909,Dutch,€€ - €€€
+Amsterdam,AMS,90,Koh-i-Noor,4.5,1654,Indian,€€ - €€€
+Amsterdam,AMS,91,Cannibale Royale,4.5,888,American,€€ - €€€
+Amsterdam,AMS,92,Cafe de Klos,4.5,1833,American,€€ - €€€
+Amsterdam,AMS,93,Van Speyk,4.5,1129,French,€€ - €€€
+Amsterdam,AMS,94,Foodhallen,4.5,1480,Asian,€€ - €€€
+Amsterdam,AMS,95,stout,4.5,508,Dutch,€€ - €€€
+Amsterdam,AMS,96,Venus & Adonis,4.5,496,French,€€ - €€€
+Amsterdam,AMS,97,Vegan Junk Food Bar,4.5,94,American,€
+Amsterdam,AMS,98,Norling Restaurant Amsterdam,4.5,637,Tibetan,€€ - €€€
+Amsterdam,AMS,99,Pasta e Basta,4.5,867,Italian,€€ - €€€
+Amsterdam,AMS,100,Looks Restaurant,4.5,563,Dutch,€€ - €€€
+Athens,ATH,1,Simul Gastronomic Situ,5,127,European,€€ - €€€
+Athens,ATH,2,Cinque Wine & Deli Bar,5,1013,Wine Bar,€
+Athens,ATH,3,Dinner in the Sky,5,886,Mediterranean,€€€€
+Athens,ATH,4,Aleria,5,934,Greek,€€€€
+Athens,ATH,5,Feyrouz,5,282,Lebanese,€
+Athens,ATH,6,Funky Gourmet,5,1046,Mediterranean,€€€€
+Athens,ATH,7,A Little Taste of Home,5,317,Turkish,€€ - €€€
+Athens,ATH,8,Oroscopo,4.5,1741,Italian,€€ - €€€
+Athens,ATH,9,Ta Karamanlidika tou Fani,4.5,4234,Middle Eastern,€€ - €€€
+Athens,ATH,10,Scala Vinoteca,4.5,478,Mediterranean,€€ - €€€
+Athens,ATH,11,Kallipateira,4.5,339,Mediterranean,€€ - €€€
+Athens,ATH,12,Gostijo,4.5,651,Mediterranean,€€ - €€€
+Athens,ATH,13,Lithos,4.5,3392,Mediterranean,€€ - €€€
+Athens,ATH,14,Balcony Restaurant & Bar,4.5,628,Mediterranean,€€ - €€€
+Athens,ATH,15,Oineas,4.5,3197,Mediterranean,€€ - €€€
+Athens,ATH,16,Arcadia Restaurant,4.5,2484,Seafood,€€ - €€€
+Athens,ATH,17,Dio Dekares i Oka,4.5,772,Mediterranean,€€ - €€€
+Athens,ATH,18,Point a Bar and Restaurant,4.5,299,Bar,€€ - €€€
+Athens,ATH,19,Liondi Traditional Greek Restaurant,4.5,1854,Mediterranean,€€ - €€€
+Athens,ATH,20,Namaste Indian Restaurant,4.5,457,Indian,€€ - €€€
+Athens,ATH,21,Atitamos,4.5,1333,Mediterranean,€
+Athens,ATH,22,iFeel Cafe Restaurant,4.5,382,Bar,€€ - €€€
+Athens,ATH,23,Avocado,4.5,1796,Mediterranean,€€ - €€€
+Athens,ATH,24,Sin Athina,4.5,521,Mediterranean,€€ - €€€
+Athens,ATH,25,GB Roof Garden,4.5,1170,Mediterranean,€€€€
+Athens,ATH,26,Mani Mani,4.5,1805,Mediterranean,€€ - €€€
+Athens,ATH,27,Royal Indian Chef,4.5,280,Indian,€€ - €€€
+Athens,ATH,28,Sfika,4.5,367,Bar,€
+Athens,ATH,29,All That Jatz,4.5,1075,Mediterranean,€
+Athens,ATH,30,Makalo,4.5,456,Mediterranean,€€ - €€€
+Athens,ATH,31,Vintage Wine Bar & Bistro,4.5,557,Greek,€€ - €€€
+Athens,ATH,32,Falafellas,4.5,709,Fast Food,€
+Athens,ATH,33,To Trikyklo,4.5,576,Seafood,€€ - €€€
+Athens,ATH,34,Indian Haveli,4.5,256,Indian,€€ - €€€
+Athens,ATH,35,Oinomageireio H Epirus,4.5,539,Mediterranean,€
+Athens,ATH,36,To Kati Allo,4.5,800,Mediterranean,€
+Athens,ATH,37,Mama Tierra,4.5,153,Mediterranean,€€ - €€€
+Athens,ATH,38,Diva Pizza,4.5,333,Italian,€€ - €€€
+Athens,ATH,39,Nolan,4.5,325,International,€€ - €€€
+Athens,ATH,40,Efcharis,4.5,2026,Seafood,€€ - €€€
+Athens,ATH,41,O Kostas,4.5,612,Fast Food,€
+Athens,ATH,42,Attalos,4.5,396,Mediterranean,€€ - €€€
+Athens,ATH,43,Ergon,4.5,491,Mediterranean,€€ - €€€
+Athens,ATH,44,2MAZI Restaurant,4.5,554,Mediterranean,€€€€
+Athens,ATH,45,Oinoscent,4.5,224,Mediterranean,€€ - €€€
+Athens,ATH,46,Spiti Mas,5,135,Cafe,€
+Athens,ATH,47,Aspro Alogo,4.5,717,Mediterranean,€
+Athens,ATH,48,Spondi,4.5,671,French,€€€€
+Athens,ATH,49,Maiandros,4.5,1665,Seafood,€€ - €€€
+Athens,ATH,50,Taqueria Maya Athens,4.5,443,Mexican,€
+Athens,ATH,51,Mavro Provato at,4.5,494,Mediterranean,€€ - €€€
+Athens,ATH,52,Tudor Hall,4.5,276,Mediterranean,€€€€
+Athens,ATH,53,Ama Lachei at Nefeli's,4.5,365,Mediterranean,€€ - €€€
+Athens,ATH,54,Yard restaurant,4.5,729,Mediterranean,€€ - €€€
+Athens,ATH,55,To Kafeneion,4.5,826,Mediterranean,€€ - €€€
+Athens,ATH,56,Piato El Greco,4.5,245,Seafood,€€ - €€€
+Athens,ATH,57,The Greco's Project,4.5,1488,Greek,€€ - €€€
+Athens,ATH,58,Gefstiki Gonia,4.5,219,Mediterranean,€
+Athens,ATH,59,Atlantikos,4.5,227,Seafood,€
+Athens,ATH,60,Athinaikon Restaurant,4.5,932,Greek,€€ - €€€
+Athens,ATH,61,To Paradosiako,4.5,147,Steakhouse,€
+Athens,ATH,62,Alexander the Great Greek Restaurant,4.5,592,Mediterranean,€€ - €€€
+Athens,ATH,63,Nikitas,4.5,214,Mediterranean,€
+Athens,ATH,64,BeerTime,4.5,457,Greek,€€ - €€€
+Athens,ATH,65,Indian Chef,4.5,503,Indian,€€ - €€€
+Athens,ATH,66,Agora Restaurant-Bar,4.5,487,Seafood,€€ - €€€
+Athens,ATH,67,Smile Cafe Restaurant,4.5,1915,Mediterranean,€
+Athens,ATH,68,Dionysos Zonar's,4.5,1161,Mediterranean,€€€€
+Athens,ATH,69,Strofi,4.5,2148,Mediterranean,€€ - €€€
+Athens,ATH,70,Diodos Archaias Agoras,4.5,534,Seafood,€€ - €€€
+Athens,ATH,71,Athens Beer Restaurant,4.5,745,Mediterranean,€€ - €€€
+Athens,ATH,72,Agora Select Restaurant,4.5,406,Mediterranean,€€ - €€€
+Athens,ATH,73,Tzitzikas kai Mermigas,4,1313,Greek,€€ - €€€
+Athens,ATH,74,Kalamaki Bar,4.5,302,Mediterranean,€
+Athens,ATH,75,To Krasopoulio Tou Kokkora,4.5,441,Mediterranean,€€ - €€€
+Athens,ATH,76,Gods' Restaurant,4,1327,Mediterranean,€€ - €€€
+Athens,ATH,77,Melilotos,4.5,740,Mediterranean,€€ - €€€
+Athens,ATH,78,Kanella,4.5,310,Mediterranean,€€ - €€€
+Athens,ATH,79,To Paradosiako (Evgenia),4.5,820,Seafood,€
+Athens,ATH,80,Baba Au Rum,4.5,238,Bar,€€€
+Athens,ATH,81,Mono Restaurant,4.5,663,Mediterranean,€€ - €€€
+Athens,ATH,82,Vassilenas,4.5,327,Seafood,€€€€
+Athens,ATH,83,Rozalia,4,705,Mediterranean,€€ - €€€
+Athens,ATH,84,Trata Fish Tavern,4.5,215,Seafood,€€ - €€€
+Athens,ATH,85,360 Degrees,4,1085,Cafe,€€ - €€€
+Athens,ATH,86,Ellevoro,4.5,115,Greek,€€ - €€€
+Athens,ATH,87,Electra Roof Garden Restaurant,4.5,345,Mediterranean,€€€€
+Athens,ATH,88,"Oinomageirion Rakadiko ""I Kriti""",4.5,433,Mediterranean,€€ - €€€
+Athens,ATH,89,Basegrill Athens,4,658,Steakhouse,€€ - €€€
+Athens,ATH,90,Kuzina,4,1385,Mediterranean,€€ - €€€
+Athens,ATH,91,By The Glass wine bar & bistrot,4,442,International,€€ - €€€
+Athens,ATH,92,CTC,5,135,Mediterranean,€€€€
+Athens,ATH,93,Abibayio,4.5,178,Mediterranean,€€ - €€€
+Athens,ATH,94,Klimataria,4.5,788,Mediterranean,€€ - €€€
+Athens,ATH,95,Taverna Saita,4.5,280,Mediterranean,€€ - €€€
+Athens,ATH,96,O Thanasis,4,3441,Mediterranean,€
+Athens,ATH,97,Savvas,4,751,Fast Food,€
+Athens,ATH,98,Cafe Avissinia,4,575,Mediterranean,€€ - €€€
+Athens,ATH,99,Taverna Aris,4.5,193,Seafood,€
+Athens,ATH,100,Ydria,4,795,Mediterranean,€€ - €€€
+Barcelona,BCN,1,Uma,5,792,International,€€€€
+Barcelona,BCN,2,Viana,5,2707,International,€€ - €€€
+Barcelona,BCN,3,Blavis,5,643,Mediterranean,€€ - €€€
+Barcelona,BCN,4,My Restaurant,5,159,Mediterranean,€€ - €€€
+Barcelona,BCN,5,Bodega Biarritz,5,1078,Mediterranean,€€ - €€€
+Barcelona,BCN,6,Santa Rita Experience,5,329,Mediterranean,€€€€
+Barcelona,BCN,7,Rudi of Pirate Cooking,5,110,Mediterranean,€€ - €€€
+Barcelona,BCN,8,Chaka Khan,5,479,African,€€ - €€€
+Barcelona,BCN,9,Spoonik Restaurant,5,408,Mexican,€€€€
+Barcelona,BCN,10,The Box,4.5,834,Pub,€
+Barcelona,BCN,11,Bodega Biarritz 1881,4.5,2920,Mediterranean,€€ - €€€
+Barcelona,BCN,12,BelleBuon,4.5,1191,Italian,€€ - €€€
+Barcelona,BCN,13,Acces,4.5,1775,Fusion,€€€€
+Barcelona,BCN,14,Con Gracia,4.5,1676,Mediterranean,€€€€
+Barcelona,BCN,15,Foc i Oli,4.5,839,American,€€€
+Barcelona,BCN,16,Restaurante Rokelin Gourmet,4.5,630,Spanish,€€ - €€€
+Barcelona,BCN,17,Petit Pau Restaurant,4.5,747,Mediterranean,€€ - €€€
+Barcelona,BCN,18,Sabores de Portugal,4.5,220,Mediterranean,€€ - €€€
+Barcelona,BCN,19,Spoonik Club,4.5,532,Colombian,€€€€
+Barcelona,BCN,20,Tast-Ller,4.5,660,Mediterranean,€€€€
+Barcelona,BCN,21,Can Valles,4.5,686,Mediterranean,€€ - €€€
+Barcelona,BCN,22,Guru Bcn Food & Cocktails,4.5,972,Bar,€€ - €€€
+Barcelona,BCN,23,Cera 23,4.5,4274,Mediterranean,€€ - €€€
+Barcelona,BCN,24,Donizetti,4.5,535,Italian,€€ - €€€
+Barcelona,BCN,25,9 Nine,4.5,884,Steakhouse,€€ - €€€
+Barcelona,BCN,26,City Bar & Restaurant,4.5,438,Mediterranean,€€ - €€€
+Barcelona,BCN,27,Gourmet Tapas by Sensi,4.5,923,Mediterranean,€€ - €€€
+Barcelona,BCN,28,Agust Gastrobar,4.5,1388,International,€€ - €€€
+Barcelona,BCN,29,The Sopa Boba,4.5,690,Mediterranean,€€ - €€€
+Barcelona,BCN,30,Disfrutar,4.5,1395,Mediterranean,€€€€
+Barcelona,BCN,31,Bar Xapako,4.5,312,Bar,€
+Barcelona,BCN,32,Creps al Born,4.5,494,Bar,€€ - €€€
+Barcelona,BCN,33,La Caleta de Sants,4.5,270,Caribbean,€€ - €€€
+Barcelona,BCN,34,Ofis Restaurante,4.5,304,Fusion,€€ - €€€
+Barcelona,BCN,35,Restaurant Montiel,4.5,2355,Mediterranean,€€€€
+Barcelona,BCN,36,En Diagonal Bar,4.5,432,Cafe,€
+Barcelona,BCN,37,Gasterea,4.5,456,Mediterranean,€
+Barcelona,BCN,38,Pizza Circus,4.5,517,Italian,€
+Barcelona,BCN,39,Menssana,4.5,901,American,€
+Barcelona,BCN,40,Vivant,4.5,560,Mediterranean,€€ - €€€
+Barcelona,BCN,41,Crudo Bar,4.5,317,Seafood,€€ - €€€
+Barcelona,BCN,42,Napa,4.5,924,Mediterranean,€€ - €€€
+Barcelona,BCN,43,The Fish & Chips Shop,4.5,688,Mediterranean,€
+Barcelona,BCN,44,Ziryab Fusion Tapas Bar,4.5,943,Mediterranean,€€ - €€€
+Barcelona,BCN,45,Pizza Pazza,4.5,399,Pizza,€
+Barcelona,BCN,46,A Tu Bola,4.5,1068,Fast Food,€
+Barcelona,BCN,47,Oria Restaurant,4.5,298,Mediterranean,€€€€
+Barcelona,BCN,48,Restaurant Pau Claris 190,4.5,613,Mediterranean,€€ - €€€
+Barcelona,BCN,49,Sensi Bistro Barcelona,4.5,1697,Mediterranean,€€ - €€€
+Barcelona,BCN,50,Bambarol,4.5,746,Mediterranean,€€ - €€€
+Barcelona,BCN,51,Domino Bar by Bierzo food,4.5,1113,Bar,€€ - €€€
+Barcelona,BCN,52,La Alcoba Azul,4.5,796,Mediterranean,€€ - €€€
+Barcelona,BCN,53,La Deliciosa,4.5,804,Bar,€€ - €€€
+Barcelona,BCN,54,Taps,4.5,499,Mediterranean,€€ - €€€
+Barcelona,BCN,55,ElDiset,4.5,732,Mediterranean,€€ - €€€
+Barcelona,BCN,56,Restaurant Casa Isabel,4.5,446,Contemporary,€€€€
+Barcelona,BCN,57,Il Forno,4.5,425,Italian,€€ - €€€
+Barcelona,BCN,58,Paisano Cafe,4.5,238,Italian,€€ - €€€
+Barcelona,BCN,59,La Peninsular,4.5,1579,Seafood,€€ - €€€
+Barcelona,BCN,60,Bar Casi,4.5,720,Mediterranean,€
+Barcelona,BCN,61,Copasetic Barcelona,4.5,712,Mediterranean,€€ - €€€
+Barcelona,BCN,62,Restaurante Koh-i-Noor India,4.5,516,Indian,€€ - €€€
+Barcelona,BCN,63,Bodega Vasconia,4.5,469,Mediterranean,€
+Barcelona,BCN,64,Carlota Akaneya,4.5,1016,Barbecue,€€€€
+Barcelona,BCN,65,Mastico.,4.5,284,Mediterranean,€€ - €€€
+Barcelona,BCN,66,Casa Lolea,4.5,1426,European,€€ - €€€
+Barcelona,BCN,67,El Salon,4.5,522,Mediterranean,€€ - €€€
+Barcelona,BCN,68,Tucco Real Food,4.5,942,Italian,€
+Barcelona,BCN,69,Bro,4.5,680,Argentinean,€
+Barcelona,BCN,70,Oporto Restaurante,4.5,571,Mediterranean,€€ - €€€
+Barcelona,BCN,71,Koy Shunka,4.5,1138,Japanese,€€€€
+Barcelona,BCN,72,Bo de Boqueria,4.5,271,Mediterranean,€€ - €€€
+Barcelona,BCN,73,La Cholita,4.5,561,Mediterranean,€€ - €€€
+Barcelona,BCN,74,Felice,4.5,701,Dutch,€€ - €€€
+Barcelona,BCN,75,El Casal,4.5,804,Mediterranean,€
+Barcelona,BCN,76,L'Antic Bocoi del Gotic,4.5,790,Mediterranean,€€ - €€€
+Barcelona,BCN,77,Vai Moana,4.5,693,Bar,€€ - €€€
+Barcelona,BCN,78,aQistoi,4.5,832,Mediterranean,€
+Barcelona,BCN,79,Tosca Palau,4.5,2032,Mediterranean,€€ - €€€
+Barcelona,BCN,80,Milk Bar & Bistro,4.5,1917,American,€€ - €€€
+Barcelona,BCN,81,Restaurante Addis Abeba,4.5,721,African,€€ - €€€
+Barcelona,BCN,82,Cafe De L'Academia,4.5,1095,Mediterranean,€€ - €€€
+Barcelona,BCN,83,Vino y Otros Remedios,4.5,401,Mediterranean,€€ - €€€
+Barcelona,BCN,84,Cafe Manila,4.5,527,International,€€ - €€€
+Barcelona,BCN,85,Can Dende,4.5,702,Brazilian,€€ - €€€
+Barcelona,BCN,86,El Xampanyet,4.5,2186,Spanish,€€ - €€€
+Barcelona,BCN,87,Macchina Pasta Bar,4.5,1050,Italian,€
+Barcelona,BCN,88,Sensi Tapas,4.5,1628,Italian,€€ - €€€
+Barcelona,BCN,89,Reina Margherita,4.5,1165,Italian,€€€
+Barcelona,BCN,90,Quinoa Bar Vegetaria,4.5,336,Cafe,€
+Barcelona,BCN,91,Restaurante Arume,4.5,4080,Mediterranean,€€ - €€€
+Barcelona,BCN,92,Pura Vida Cocktails,4.5,421,Caribbean,€€ - €€€
+Barcelona,BCN,93,Restaurant Etapes,4.5,1012,Healthy,€€€€
+Barcelona,BCN,94,La Castanya,4.5,789,Mediterranean,€€ - €€€
+Barcelona,BCN,95,Arcano,4.5,2611,Mediterranean,€€ - €€€
+Barcelona,BCN,96,Restaurante Parrilla Alfonsina,4.5,1343,Steakhouse,€€ - €€€
+Barcelona,BCN,97,Caelis,4.5,808,Mediterranean,€€€€
+Barcelona,BCN,98,Solomillo Restaurant,4.5,375,Mediterranean,€€ - €€€
+Barcelona,BCN,99,Buenos Aires Grill Restaurant,4.5,2469,Steakhouse,€€ - €€€
+Barcelona,BCN,100,La Cova Fumada,4.5,1053,Seafood,€€€€
+Berlin,BER,1,FACIL,4.5,687,International,€€€€
+Berlin,BER,2,La Gondola Due,4.5,282,Italian,€€ - €€€
+Berlin,BER,3,Ristorante A Mano,4.5,1501,Italian,€€ - €€€
+Berlin,BER,4,Restaurant Bieberbau,4.5,621,German,€€€€
+Berlin,BER,5,El Loco,5,171,Mexican,€€ - €€€
+Berlin,BER,6,Flamingo Fresh Food Bar,4.5,636,Cafe,€
+Berlin,BER,7,Mabuhay - Indonesian Restaurant,4.5,527,Asian,€
+Berlin,BER,8,Trattoria Portofino,4.5,344,Italian,€
+Berlin,BER,9,Haveli,4.5,984,Indian,€€ - €€€
+Berlin,BER,10,Burgermeister,4.5,3703,American,€
+Berlin,BER,11,Patta Finest Baked Potatoes,4.5,332,Fusion,€
+Berlin,BER,12,Ristorante Peperoncino,4.5,542,Italian,€€ - €€€
+Berlin,BER,13,PHO - Noodlebar,4.5,126,Asian,€
+Berlin,BER,14,Yarok Fine Syrian Food from Damascus,4.5,454,Mediterranean,€
+Berlin,BER,15,Hackethals,4.5,893,German,€€ - €€€
+Berlin,BER,16,Restaurant Schlossgarten,4.5,392,German,€€ - €€€
+Berlin,BER,17,Focaccino La Sicilia in bocca,4.5,472,Italian,€€ - €€€
+Berlin,BER,18,Saigon and More,4.5,1119,Asian,€€ - €€€
+Berlin,BER,19,Restaurant Langosch,5,105,European,€€ - €€€
+Berlin,BER,20,Asteria,4.5,448,Mediterranean,€€ - €€€
+Berlin,BER,21,Schnitzelei,4.5,370,Diner,€€ - €€€
+Berlin,BER,22,Restaurant Tim Raue,4.5,839,Asian,€€€€
+Berlin,BER,23,Madami,4.5,2031,Asian,€
+Berlin,BER,24,Marjellchen,4.5,2364,German,€€ - €€€
+Berlin,BER,25,Johnny's Bar,4.5,294,Bar,€
+Berlin,BER,26,Seoulkitchen,4.5,403,Japanese,€€ - €€€
+Berlin,BER,27,Heising,4.5,1024,French,€€€€
+Berlin,BER,28,Cao Cao Vietnamesisches Restaurant,4.5,160,Asian,€€ - €€€
+Berlin,BER,29,Papilles,4.5,611,French,€€ - €€€
+Berlin,BER,30,Cocolo Ramen,4.5,505,Japanese,€€ - €€€
+Berlin,BER,31,House of Small Wonder,4.5,424,Japanese,€€ - €€€
+Berlin,BER,32,KaDeWe Feinschmeckerbars,4.5,1414,Italian,€€ - €€€
+Berlin,BER,33,Zsa Zsa Burger,4.5,844,American,€€ - €€€
+Berlin,BER,34,Co Chu,4.5,631,Asian,€€ - €€€
+Berlin,BER,35,Pasternak,4.5,649,Israeli,€€ - €€€
+Berlin,BER,36,Restaurant Jolly,4.5,936,Chinese,€€ - €€€
+Berlin,BER,37,Kurpfalz-Weinstuben,4.5,212,German,€€ - €€€
+Berlin,BER,38,Ottenthal Restaurant & Weinhandlung,4.5,655,German,€€ - €€€
+Berlin,BER,39,Indisches Restaurant Maharadscha,4.5,1285,Asian,€€ - €€€
+Berlin,BER,40,Monsieur Vuong,4.5,3019,Asian,€€ - €€€
+Berlin,BER,41,Mustafa's Gemuese Kebab,4.5,3036,Fast Food,€
+Berlin,BER,42,Sucre et Sel,4.5,837,French,€€ - €€€
+Berlin,BER,43,Saigon - Green,4.5,607,Asian,€
+Berlin,BER,44,Restaurant Schnitzelei,4.5,535,German,€€ - €€€
+Berlin,BER,45,Curry61,4.5,837,German,€
+Berlin,BER,46,Gasthaus Krombach,4.5,1092,German,€€ - €€€
+Berlin,BER,47,Rotisserie Weingrun,4.5,842,German,€€ - €€€
+Berlin,BER,48,Cookies Cream,4.5,848,European,€€€€
+Berlin,BER,49,Markthalle Neun Berlin Kreuzberg,4.5,771,Fast Food,€
+Berlin,BER,50,"Club-Restaurant Das Team ""Die Eselin von A.""",5,177,German,€€ - €€€
+Berlin,BER,51,Fes - Turkish BBQ,4.5,185,Turkish,€€ - €€€
+Berlin,BER,52,Dicke Wirtin,4.5,2198,German,€€ - €€€
+Berlin,BER,53,Tiergarten Quelle,4.5,651,German,€
+Berlin,BER,54,Scheers Schnitzel,4.5,690,German,€
+Berlin,BER,55,Vino & Basilico,4.5,476,Italian,€€ - €€€
+Berlin,BER,56,Dada Falafel,4.5,709,Lebanese,€
+Berlin,BER,57,Supreme Burger Grill & Bar,4.5,383,Bar,€€ - €€€
+Berlin,BER,58,Treffpunkt Berlin,4.5,1388,German,€€ - €€€
+Berlin,BER,59,Sissi Austrian Restaurant,4.5,534,Austrian,€€ - €€€
+Berlin,BER,60,BBI - Berlin Burger International,4.5,476,American,€
+Berlin,BER,61,Zen,4.5,230,Japanese,€€ - €€€
+Berlin,BER,62,Cafe Bleibtreu,4.5,915,German,€€ - €€€
+Berlin,BER,63,momotaro tavern,5,75,Asian,€€ - €€€
+Berlin,BER,64,Peter Pane,4,1550,American,€€ - €€€
+Berlin,BER,65,Joseph Roth Diele,4.5,425,German,€
+Berlin,BER,66,Shiso Burger,4.5,825,American,€
+Berlin,BER,67,Upper Burger Grill,4.5,232,American,€€ - €€€
+Berlin,BER,68,VOLT,4.5,407,German,€€€€
+Berlin,BER,69,La Tia Rica,4.5,546,Latin,€€ - €€€
+Berlin,BER,70,Ushido-Japanese BBQ,4.5,294,Steakhouse,€€ - €€€
+Berlin,BER,71,Transit Restaurant,4.5,1044,Chinese,€
+Berlin,BER,72,Villa Rodizio,4.5,1156,Mexican,€€ - €€€
+Berlin,BER,73,Boulevard Friedrichstrasse,4.5,616,Diner,€€ - €€€
+Berlin,BER,74,Cafe Einstein Stammhaus,4.5,849,German,€€ - €€€
+Berlin,BER,75,Katz Orange,4,931,German,€€ - €€€
+Berlin,BER,76,Block House Am Alexanderplatz,4,1761,American,€€ - €€€
+Berlin,BER,77,Ristorante Luardi,4.5,1041,Italian,€€ - €€€
+Berlin,BER,78,Ristorante Essenza,4.5,772,Italian,€€€€
+Berlin,BER,79,Steakhouse ASADOR,4.5,1524,Steakhouse,€€ - €€€
+Berlin,BER,80,Burgeramt,4.5,597,American,€
+Berlin,BER,81,Schwarzes Cafe,4,562,German,€€ - €€€
+Berlin,BER,82,Dolores,4,876,Mexican,€
+Berlin,BER,83,Thai Inside,4.5,726,Asian,€€ - €€€
+Berlin,BER,84,Belmondo Restaurant,4.5,355,French,€€€€
+Berlin,BER,85,Steel Vintage Bikes Cafe,4.5,92,International,€
+Berlin,BER,86,Umami,4.5,159,Asian,€
+Berlin,BER,87,Bellucci Ristorante,4.5,271,Pizza,€€ - €€€
+Berlin,BER,88,Pizzeria Ristorante Papa Pane di Sorrento,4,640,Italian,€€ - €€€
+Berlin,BER,89,Oxymoron,4,504,German,€€ - €€€
+Berlin,BER,90,Skykitchen,4.5,221,European,€€€€
+Berlin,BER,91,Oyster Bar KaDeWe,4.5,291,Seafood,€€ - €€€
+Berlin,BER,92,Block House Friedrichstrasse,4,1388,American,€€ - €€€
+Berlin,BER,93,Zur Haxe,4.5,217,German,€€ - €€€
+Berlin,BER,94,Prater Garten,4,786,German,€
+Berlin,BER,95,Bocca di Bacco,4,1404,Italian,€€€€
+Berlin,BER,96,Seaside - Fish & Seafood Bar,4,256,Seafood,€€ - €€€
+Berlin,BER,97,Midtown Grill Berlin,4,762,American,€€€€
+Berlin,BER,98,Lorenz Adlon Esszimmer,4.5,306,European,€€€€
+Berlin,BER,99,Staendige Vertretung,4,1101,German,€€ - €€€
+Berlin,BER,100,Dudu 31,4.5,301,Japanese,€€ - €€€
+Bratislava,BTS,1,Roxor BRGR & Beer,5,236,American,€
+Bratislava,BTS,2,BeAbout,4.5,304,American,€€ - €€€
+Bratislava,BTS,3,Gatto Matto Ristorante,4.5,557,Italian,€€ - €€€
+Bratislava,BTS,4,Bistro Soho,4.5,618,Asian,€€ - €€€
+Bratislava,BTS,5,Zeleny Rodrigez,4.5,721,European,€€ - €€€
+Bratislava,BTS,6,Modra Hviezda,4.5,992,European,€€ - €€€
+Bratislava,BTS,7,Bratislavsky Mestiansky Pivovar,4.5,541,Brew Pub,€€ - €€€
+Bratislava,BTS,8,FABRIKA The Beer Pub,4.5,765,Bar,€€ - €€€
+Bratislava,BTS,9,Hradna Hviezda,4.5,220,European,€€ - €€€
+Bratislava,BTS,10,Bratislavsky Mestiansky pivovar,4.5,1930,Bar,€€ - €€€
+Bratislava,BTS,11,Dolnozemska Krcma,4.5,129,European,€€ - €€€
+Bratislava,BTS,12,Green Buddha,4.5,623,Asian,€€ - €€€
+Bratislava,BTS,13,Prasna Basta,4.5,1532,Austrian,€€ - €€€
+Bratislava,BTS,14,Sky Bar & Restaurant,4.5,646,European,€€ - €€€
+Bratislava,BTS,15,Divny Janko,4,688,European,€
+Bratislava,BTS,16,Urban Bistro,4.5,359,Bar,€€ - €€€
+Bratislava,BTS,17,Bratislava Flag Ship Restaurant,4,1135,Bar,€€ - €€€
+Bratislava,BTS,18,U Kubistu,4.5,310,Cafe,€€ - €€€
+Bratislava,BTS,19,Re:Fresh Restaurant & Music Club,4.5,210,International,€€ - €€€
+Bratislava,BTS,20,Mecheche,4.5,84,Steakhouse,€€ - €€€
+Bratislava,BTS,21,Bistro St. Germain,4.5,226,Bar,€€ - €€€
+Bratislava,BTS,22,Albrecht,4.5,175,European,€€€€
+Bratislava,BTS,23,Slovak Pub,4,2578,Bar,€
+Bratislava,BTS,24,SPIN me around - cocktail bar,5,72,Bar,€€€
+Bratislava,BTS,25,Koliba Kamzik,4.5,131,European,€€ - €€€
+Bratislava,BTS,26,Pulitzer,4,360,European,€€ - €€€
+Bratislava,BTS,27,17's BAR,4.5,311,Bar,€
+Bratislava,BTS,28,Konditorei Kormuth,4.5,174,Cafe,€€€€
+Bratislava,BTS,29,Mondieu,4.5,96,International,€€ - €€€
+Bratislava,BTS,30,UFO,4,793,European,€€€€
+Bratislava,BTS,31,FACH Bratislava,4.5,88,Cafe,€€ - €€€
+Bratislava,BTS,32,Hostinec u deda,4.5,125,Bar,€€ - €€€
+Bratislava,BTS,33,Drak&Finch,5,36,International,€
+Bratislava,BTS,34,D.steakhouse,4.5,144,Steakhouse,€€€€
+Bratislava,BTS,35,Zylinder - Cafe & Restaurant,4,400,European,€€ - €€€
+Bratislava,BTS,36,Simply Fresh Restaurant,5,76,International,€€ - €€€
+Bratislava,BTS,37,Massimo Ristorante,4.5,162,Italian,€€€€
+Bratislava,BTS,38,Fou Zoo Pan Asian Restaurant,4.5,182,Japanese,€€€€
+Bratislava,BTS,39,Flamender Restaurant & Bar Laurinska,4.5,119,European,€€ - €€€
+Bratislava,BTS,40,Zil Verne,4.5,65,Bar,€€ - €€€
+Bratislava,BTS,41,TOWERS Steak & Salad,4.5,147,Steakhouse,€€ - €€€
+Bratislava,BTS,42,Benihana Bratislava,4.5,102,Steakhouse,€€€€
+Bratislava,BTS,43,SaSaZu Bratislava,4.5,117,Japanese,€€€€
+Bratislava,BTS,44,Jasmin,4.5,122,Chinese,€€ - €€€
+Bratislava,BTS,45,Antica Toscana,4.5,172,Italian,€€ - €€€
+Bratislava,BTS,46,Nobile Restaurant,5,77,French,€€ - €€€
+Bratislava,BTS,47,Primo Amore,4.5,152,Italian,€€ - €€€
+Bratislava,BTS,48,Houdini Restaurant,4.5,182,European,€€€€
+Bratislava,BTS,49,Savage Garden,4.5,156,European,€€ - €€€
+Bratislava,BTS,50,Samovar,5,49,Central European,€€ - €€€
+Bratislava,BTS,51,Whisky Bar 44,4.5,128,European,€€ - €€€
+Bratislava,BTS,52,Zamocky Pivovar,4,215,Bar,€€ - €€€
+Bratislava,BTS,53,Royal Kashmir India,4.5,65,Indian,€€ - €€€
+Bratislava,BTS,54,Kogo,4,313,Italian,€€€€
+Bratislava,BTS,55,RIVERBANK Restaurant,4.5,73,European,€€€€
+Bratislava,BTS,56,Petite Creperie - take away crepes,5,35,French,€
+Bratislava,BTS,57,Carnevalle,4,283,Steakhouse,€€ - €€€
+Bratislava,BTS,58,KOBE Steak Grill Sushi Restaurant Bratislava,4.5,57,Japanese,€€€€
+Bratislava,BTS,59,Taverna di Assisi,4.5,252,Italian,€€ - €€€
+Bratislava,BTS,60,Foodstock Bratislava,5,22,Japanese,€€ - €€€
+Bratislava,BTS,61,KORZO Cafe & Restaurant,4.5,123,International,€€ - €€€
+Bratislava,BTS,62,Venturska Klubovna,4,269,Bar,€€ - €€€
+Bratislava,BTS,63,Don Saro Cucina Siciliana,5,29,Italian,€€ - €€€
+Bratislava,BTS,64,Cafe Verne,4,260,Cafe,€
+Bratislava,BTS,65,Starosloviensky Pivovar,4,89,Bar,€€ - €€€
+Bratislava,BTS,66,Basilico,4.5,73,Italian,€€ - €€€
+Bratislava,BTS,67,Le Senk,4.5,137,Bar,€€ - €€€
+Bratislava,BTS,68,NYC Corner,4.5,32,American,€
+Bratislava,BTS,69,Regal Burger,4,148,American,€
+Bratislava,BTS,70,"Rio Grande Restaurant, Night Bar, Cafe",4,308,Steakhouse,€€ - €€€
+Bratislava,BTS,71,Rybarsky Cech,4.5,66,Mediterranean,€€ - €€€
+Bratislava,BTS,72,Sladovna,4,240,European,€€ - €€€
+Bratislava,BTS,73,Antique American Bar,5,21,European,€€ - €€€
+Bratislava,BTS,74,Mille Baci,4.5,90,Italian,€€ - €€€
+Bratislava,BTS,75,Dunajsky pivovar,4,245,Bar,€€ - €€€
+Bratislava,BTS,76,La Putika,4.5,89,Bar,€€ - €€€
+Bratislava,BTS,77,Pane & Olio,4.5,64,Italian,€€ - €€€
+Bratislava,BTS,78,Savoy Restaurant,4.5,62,European,€€ - €€€
+Bratislava,BTS,79,Pivnica u Kozla,4,223,Bar,€€ - €€€
+Bratislava,BTS,80,Krcma na Zelenej,4,67,European,€€ - €€€
+Bratislava,BTS,81,wagamama,4,165,Japanese,€€ - €€€
+Bratislava,BTS,82,La Donuteria Bratislava,4.5,21,Cafe,€
+Bratislava,BTS,83,KGB,4,139,Bar,€
+Bratislava,BTS,84,Orbis Street food,4,117,Fast Food,€
+Bratislava,BTS,85,BRICK beer&restaurant,4,75,Bar,€€ - €€€
+Bratislava,BTS,86,Kozia Brana,4.5,54,Bar,€€ - €€€
+Bratislava,BTS,87,Al Faro Ristorante,4,146,Italian,€€ - €€€
+Bratislava,BTS,88,Pilsner-Urquell pub,4.5,53,Bar,€€ - €€€
+Bratislava,BTS,89,U SEDLIAKA,4,79,Bar,€
+Bratislava,BTS,90,Bamboo Vietnamese Cuisine,4.5,41,Asian,€€ - €€€
+Bratislava,BTS,91,Traja Musketieri,4,132,European,€€ - €€€
+Bratislava,BTS,92,Nervosa,4.5,83,Italian,€€ - €€€
+Bratislava,BTS,93,Zufana,4.5,29,European,€
+Bratislava,BTS,94,Centralna Klubovna,4,145,Bar,€€ - €€€
+Bratislava,BTS,95,Pod Kamennym Stromom,4.5,84,Bar,€€ - €€€
+Bratislava,BTS,96,Soupa Bistro,4.5,61,European,€
+Bratislava,BTS,97,Kolkovna Eurovea,4,172,European,€€ - €€€
+Bratislava,BTS,98,Gatto Matto Trattoria,4,45,Italian,€€ - €€€
+Bratislava,BTS,99,Tarpan Restaurant,4.5,34,Steakhouse,€€ - €€€
+Bratislava,BTS,100,WINE NOT!?,4.5,31,European,€€€€
+Brussels,BRU,1,Le Rabassier,5,525,Belgian,€€€€
+Brussels,BRU,2,Tonton Garby,5,1141,Belgian,€
+Brussels,BRU,3,Au Cor de Chasse,4.5,428,Brazilian,€€ - €€€
+Brussels,BRU,4,Le Wine Bar des Marolles,4.5,792,French,€€ - €€€
+Brussels,BRU,5,Pasta Divina,4.5,2140,Italian,€€ - €€€
+Brussels,BRU,6,Le Bistro,4.5,1569,French,€€ - €€€
+Brussels,BRU,7,La table de mus,4.5,363,French,€€€€
+Brussels,BRU,8,The Lobster House,4.5,812,Belgian,€€ - €€€
+Brussels,BRU,9,Comme chez Soi,4.5,854,French,€€€€
+Brussels,BRU,10,Le Chou de Bruxelles,4.5,956,Belgian,€€ - €€€
+Brussels,BRU,11,Colonel,4.5,607,Steakhouse,€€€€
+Brussels,BRU,12,Moeder Lambic Original,4.5,689,Belgian,€€ - €€€
+Brussels,BRU,13,Bia Mara,4.5,1869,Seafood,€
+Brussels,BRU,14,Winehouse Osteria,4.5,539,Italian,€€ - €€€
+Brussels,BRU,15,Noordzee Mer du Nord,4.5,2050,Belgian,€€ - €€€
+Brussels,BRU,16,Poechenellekelder,4.5,1007,Belgian,€€ - €€€
+Brussels,BRU,17,Green Mango (Ixelles),4.5,504,American,€€ - €€€
+Brussels,BRU,18,Sea Grill,4.5,518,French,€€€€
+Brussels,BRU,19,Fin de Siecle,4.5,4059,Belgian,€€ - €€€
+Brussels,BRU,20,Moeder Lambic Fontainas,4.5,1110,Belgian,€€ - €€€
+Brussels,BRU,21,Bon Bon,4.5,500,French,€€€€
+Brussels,BRU,22,L'Express,4.5,253,Lebanese,€
+Brussels,BRU,23,Dolce Amaro,4.5,450,Italian,€€€€
+Brussels,BRU,24,Il Colosseo,4.5,253,Italian,€
+Brussels,BRU,25,Chez Willy,4.5,524,French,€€ - €€€
+Brussels,BRU,26,Nuetnigenough,4.5,1235,Belgian,€€ - €€€
+Brussels,BRU,27,C'est Bon C'est Belge - La Terrasse,4.5,795,Belgian,€€ - €€€
+Brussels,BRU,28,Toukoul,4.5,592,African,€€ - €€€
+Brussels,BRU,29,Publico,4.5,893,Italian,€€ - €€€
+Brussels,BRU,30,Le Cellier by C'est Bon C'est Belge,4.5,867,Belgian,€€ - €€€
+Brussels,BRU,31,Brasserie de la ville,4.5,470,Belgian,€€ - €€€
+Brussels,BRU,32,Delirium Monasterium,4.5,563,Belgian,€€ - €€€
+Brussels,BRU,33,RESTOBIERES,4,777,Belgian,€€ - €€€
+Brussels,BRU,34,Aux paves de Bruxelles,4.5,654,French,€€ - €€€
+Brussels,BRU,35,Spago,4.5,576,Italian,€€ - €€€
+Brussels,BRU,36,Rugbyman NÂ° Two,4,887,French,€€ - €€€
+Brussels,BRU,37,Peck 47,4.5,1209,International,€€ - €€€
+Brussels,BRU,38,La Maree,4.5,464,French,€€ - €€€
+Brussels,BRU,39,Houtsiplou,4,1039,Belgian,€€ - €€€
+Brussels,BRU,40,Le Marmiton,4,1292,French,€€ - €€€
+Brussels,BRU,41,9 et Voisins,4.5,1058,Belgian,€€ - €€€
+Brussels,BRU,42,Osteria Bolognese,4.5,240,Italian,€€ - €€€
+Brussels,BRU,43,La Veraison,4.5,162,French,€€ - €€€
+Brussels,BRU,44,Costa D'Amalfi,4.5,94,Italian,€€ - €€€
+Brussels,BRU,45,Grimbergen Cafe,4,1275,French,€€ - €€€
+Brussels,BRU,46,Kaffabar,4.5,128,Belgian,€€ - €€€
+Brussels,BRU,47,Manhattn's Burgers Beurs,4,303,American,€€ - €€€
+Brussels,BRU,48,A La Mort Subite,4,1753,Belgian,€€ - €€€
+Brussels,BRU,49,Fanny Thai,4,789,Asian,€€ - €€€
+Brussels,BRU,50,L'Everest,4.5,393,Indian,€€ - €€€
+Brussels,BRU,51,Artisauce,4.5,214,French,€€ - €€€
+Brussels,BRU,52,Kafenio,4.5,399,Grill,€€ - €€€
+Brussels,BRU,53,La Villa in the Sky,4.5,233,French,€€€€
+Brussels,BRU,54,Alexandre,4.5,334,French,€€€€
+Brussels,BRU,55,Chicago Cafe,4.5,201,Cafe,€€ - €€€
+Brussels,BRU,56,Little Delirium,4.5,216,Bar,€€ - €€€
+Brussels,BRU,57,Kokob,4,989,African,€€ - €€€
+Brussels,BRU,58,Hard Rock Cafe Brussels,4,1571,Bar,€€ - €€€
+Brussels,BRU,59,Amadeus,4,2139,American,€€ - €€€
+Brussels,BRU,60,La Villa Lorraine,4.5,430,French,€€€€
+Brussels,BRU,61,Manhattn's Burgers Avenue Louise,4,509,American,€€ - €€€
+Brussels,BRU,62,Makisu,4,454,Japanese,€
+Brussels,BRU,63,Le Cirio,4,733,French,€€ - €€€
+Brussels,BRU,64,La Belle Maraichere,4,310,French,€€€€
+Brussels,BRU,65,Baogo,4.5,76,Bar,€€ - €€€
+Brussels,BRU,66,Chez Patrick,4,601,Belgian,€€ - €€€
+Brussels,BRU,67,Les Petits Oignons,4,764,French,€€ - €€€
+Brussels,BRU,68,Koyzina Authentica,4.5,266,Mediterranean,€€ - €€€
+Brussels,BRU,69,Comptoir Be Burger St Catherine,4.5,85,American,€€ - €€€
+Brussels,BRU,70,SAN Bruxelles,4.5,146,International,€€€€
+Brussels,BRU,71,BARBQ,4.5,195,Belgian,€€ - €€€
+Brussels,BRU,72,Arion Cafe,4,458,French,€€ - €€€
+Brussels,BRU,73,Abrussel,4,779,Belgian,€€ - €€€
+Brussels,BRU,74,'T Kelderke,4,1213,Belgian,€€ - €€€
+Brussels,BRU,75,Fritland,4,1970,Belgian,€
+Brussels,BRU,76,Chutney's,4,484,Belgian,€€ - €€€
+Brussels,BRU,77,La Roue d'Or,4,782,French,€€ - €€€
+Brussels,BRU,78,Rachel,4.5,300,European,€€ - €€€
+Brussels,BRU,79,Verre Y Table,4.5,158,French,€€ - €€€
+Brussels,BRU,80,Pre de chez nous,4.5,154,French,€€ - €€€
+Brussels,BRU,81,The Twelve,4.5,173,French,€€ - €€€
+Brussels,BRU,82,Ristorante Bocconi,4,841,Italian,€€€€
+Brussels,BRU,83,La Quincaillerie,3.5,1029,French,€€ - €€€
+Brussels,BRU,84,Menthe & Safran,4.5,176,Moroccan,€€ - €€€
+Brussels,BRU,85,La Fleur en Papier Dore,4.5,157,Belgian,€€ - €€€
+Brussels,BRU,86,Philema,4.5,147,Mediterranean,€€ - €€€
+Brussels,BRU,87,Meet Meat Schuman,4.5,363,Steakhouse,€€ - €€€
+Brussels,BRU,88,Feux du bengale,4,367,Indian,€€ - €€€
+Brussels,BRU,89,Viva M'Boma,4,468,French,€€ - €€€
+Brussels,BRU,90,Lyly's Fondue,4.5,74,French,€€ - €€€
+Brussels,BRU,91,Mam Mam,4.5,310,Asian,€€ - €€€
+Brussels,BRU,92,Hispania Brasserie by Marcos Moran,4.5,51,Spanish,€€€€
+Brussels,BRU,93,Sesame,4.5,179,French,€€ - €€€
+Brussels,BRU,94,Le Fruit Defendu,4.5,227,French,€€€€
+Brussels,BRU,95,Arcadi,4,1032,French,€€ - €€€
+Brussels,BRU,96,Belga Queen,4,2307,French,€€€€
+Brussels,BRU,97,Al Jannah,4.5,243,Lebanese,€
+Brussels,BRU,98,Greenway,4.5,142,Fast Food,€€ - €€€
+Brussels,BRU,99,Restaurant Den Talurelekker,4.5,195,Belgian,€€ - €€€
+Brussels,BRU,100,Osteria Enoteca Nuovo Rosso,4.5,192,Italian,€€ - €€€
+Budapest,BUD,1,Comme Chez Soi,5,4437,Italian,€€ - €€€
+Budapest,BUD,2,Bors GasztroBar,5,2373,Fast Food,€
+Budapest,BUD,3,Local Korner,4.5,789,Pizza,€
+Budapest,BUD,4,Eat & Meet,5,409,European,€€ - €€€
+Budapest,BUD,5,Caviar&Bull,5,563,Seafood,€€€€
+Budapest,BUD,6,Mazi,4.5,1127,Greek,€€ - €€€
+Budapest,BUD,7,Arany Kaviar Restaurant,4.5,643,European,€€€€
+Budapest,BUD,8,Baraka,4.5,628,International,€€€€
+Budapest,BUD,9,Meatology Budapest,4.5,623,Fast Food,€
+Budapest,BUD,10,Lucky 7 Burgers & More,4.5,2848,Fast Food,€
+Budapest,BUD,11,KonyvBar & Restaurant,4.5,1403,International,€€ - €€€
+Budapest,BUD,12,bpBARbq,5,387,American,€€ - €€€
+Budapest,BUD,13,Hungarikum Bisztro,4.5,7575,Hungarian,€€ - €€€
+Budapest,BUD,14,Pizzica,4.5,414,Italian,€
+Budapest,BUD,15,Don Pepe Menyecske,5,388,Italian,€€ - €€€
+Budapest,BUD,16,Tuning Bar&Burger,4.5,1249,American,€€ - €€€
+Budapest,BUD,17,Jardinette,4.5,195,European,€€ - €€€
+Budapest,BUD,18,ToLTo,4.5,659,Street Food,€
+Budapest,BUD,19,Chef Cafe,4.5,681,European,€€ - €€€
+Budapest,BUD,20,Costes,4.5,903,European,€€€€
+Budapest,BUD,21,KOLLAZS - Brasserie & Bar,4.5,956,European,€€€€
+Budapest,BUD,22,Bottega di Brontolo Ristorante Italiano,4.5,249,Italian,€€ - €€€
+Budapest,BUD,23,Onyx Restaurant,4.5,1612,European,€€€€
+Budapest,BUD,24,Caffe & Restaurant Gian Mario,4.5,884,Italian,€€ - €€€
+Budapest,BUD,25,Beef Heaven by Tuning,4.5,436,American,€€ - €€€
+Budapest,BUD,26,Mandragora,4.5,684,European,€€ - €€€
+Budapest,BUD,27,Costes Downtown,4.5,703,International,€€€€
+Budapest,BUD,28,Cafe Bouchon,4.5,1248,European,€€ - €€€
+Budapest,BUD,29,St.Andrea Wine & Gourmet Bar,4.5,688,International,€€€€
+Budapest,BUD,30,Barack & Szilva Restaurant,4.5,575,Hungarian,€€ - €€€
+Budapest,BUD,31,Aszu Restaurant,4.5,2043,European,€€€€
+Budapest,BUD,32,Cirkusz,4.5,832,Cafe,€€ - €€€
+Budapest,BUD,33,Oinos WineBar Bistrot,4.5,720,Italian,€€ - €€€
+Budapest,BUD,34,BB'z Bar & Grill,4.5,224,Bar,€€ - €€€
+Budapest,BUD,35,Bistro Fine,4.5,1479,European,€€ - €€€
+Budapest,BUD,36,Taverna Dionysos,4.5,2340,Seafood,€€ - €€€
+Budapest,BUD,37,Borsso Bistro,4.5,1796,French,€€ - €€€
+Budapest,BUD,38,Varosliget Cafe & Restaurant,4.5,2164,International,€€ - €€€
+Budapest,BUD,39,Vicky Barcelona,4.5,1088,Spanish,€€ - €€€
+Budapest,BUD,40,Zeller Bistro,4.5,4977,European,€€ - €€€
+Budapest,BUD,41,Magyar Qtr,4.5,773,European,€€ - €€€
+Budapest,BUD,42,Szimpla Kert,4.5,2653,European,€
+Budapest,BUD,43,Kacsa Restaurant,4.5,1146,European,€€ - €€€
+Budapest,BUD,44,Monkâ€™s Bistrot,4.5,1162,International,€€ - €€€
+Budapest,BUD,45,Fricska Gastropub,4.5,413,European,€€ - €€€
+Budapest,BUD,46,Borkonyha WineKitchen,4.5,2111,European,€€€€
+Budapest,BUD,47,Rosenstein,4.5,752,European,€€ - €€€
+Budapest,BUD,48,Ket Szerecsen,4.5,1729,Mediterranean,€€ - €€€
+Budapest,BUD,49,Hot Stone Steakhouse Budapest,4.5,177,Steakhouse,€€ - €€€
+Budapest,BUD,50,Al Dente,4.5,349,Italian,€
+Budapest,BUD,51,Da Mario Budapest,4.5,953,Italian,€€ - €€€
+Budapest,BUD,52,"0,75 bistro",4.5,1080,Bar,€€ - €€€
+Budapest,BUD,53,M. Restaurant,4.5,710,Eastern European,€€ - €€€
+Budapest,BUD,54,Parisi 6,4.5,1204,Healthy,€€ - €€€
+Budapest,BUD,55,Kispiac Bisztro,4.5,997,Eastern European,€€ - €€€
+Budapest,BUD,56,Bock Bistro,4.5,1587,European,€€ - €€€
+Budapest,BUD,57,Napfenyes Restaurant and Pastry Shop,4.5,671,Healthy,€€ - €€€
+Budapest,BUD,58,Restaurante Fuego,4.5,132,Mediterranean,€
+Budapest,BUD,59,Bangkok Thai Restaurant,4.5,506,Asian,€€ - €€€
+Budapest,BUD,60,Halaszbastya Restaurant,4.5,1174,European,€€€€
+Budapest,BUD,61,Dubarry Restaurant,4.5,501,European,€€ - €€€
+Budapest,BUD,62,Szimpla Cafe,4.5,487,Bar,€
+Budapest,BUD,63,Ape Regina,4.5,420,Italian,€€ - €€€
+Budapest,BUD,64,Trattoria Pomo D'Oro,4.5,1968,Italian,€€ - €€€
+Budapest,BUD,65,Paris Budapest Bar and Restaurant,4.5,997,French,€€ - €€€
+Budapest,BUD,66,Cafe Csiga,4.5,344,Bar,€
+Budapest,BUD,67,Paprika,4.5,2825,European,€€ - €€€
+Budapest,BUD,68,Budapest Bistro,4.5,1220,Hungarian,€€ - €€€
+Budapest,BUD,69,Faustoâ€™s Ristorante,4.5,577,Italian,€€€€
+Budapest,BUD,70,Gustolato,4.5,206,Mediterranean,€€ - €€€
+Budapest,BUD,71,Divin Porcello - Budapest,4.5,717,Italian,€€ - €€€
+Budapest,BUD,72,Meat Boutique,4.5,739,Steakhouse,€€ - €€€
+Budapest,BUD,73,Tigris Restaurant,4.5,875,Wine Bar,€€€€
+Budapest,BUD,74,Pierrot Budapest,4.5,831,European,€€€€
+Budapest,BUD,75,Cafe Intenzo,4.5,805,European,€€ - €€€
+Budapest,BUD,76,Muzeum Cafe and Restaurant,4.5,674,Hungarian,€€ - €€€
+Budapest,BUD,77,Akademia Italia,4.5,630,Italian,€€ - €€€
+Budapest,BUD,78,Pampas Steakhouse,4.5,1229,Steakhouse,€€€€
+Budapest,BUD,79,Gringos Amigos Anker,4.5,421,Mexican,€
+Budapest,BUD,80,Lado Cafe,4.5,1959,European,€€ - €€€
+Budapest,BUD,81,Trattoria Toscana,4.5,1204,Italian,€€ - €€€
+Budapest,BUD,82,Osbudavar Pizzeria,4.5,575,Italian,€€ - €€€
+Budapest,BUD,83,Borbirosag,4.5,1018,European,€€ - €€€
+Budapest,BUD,84,The Bigfish Seafood Bistro,4.5,772,Seafood,€€ - €€€
+Budapest,BUD,85,Marvelosa,4.5,507,European,€€ - €€€
+Budapest,BUD,86,Baalbek Lebanese Restaurant,4.5,368,Lebanese,€€ - €€€
+Budapest,BUD,87,Klassz,4.5,1256,European,€€ - €€€
+Budapest,BUD,88,Ruben Restaurant,4.5,1953,Eastern European,€€ - €€€
+Budapest,BUD,89,Curry House,4.5,1175,Indian,€€ - €€€
+Budapest,BUD,90,Kehli,4.5,777,European,€€ - €€€
+Budapest,BUD,91,Indigo Restaurant - Pest,4.5,568,Indian,€€ - €€€
+Budapest,BUD,92,La Botte,4.5,1310,Italian,€€ - €€€
+Budapest,BUD,93,Buddha-Bar Restaurant,4.5,1710,Chinese,€€€€
+Budapest,BUD,94,Rezkakas Bistro,4.5,1387,European,€€€€
+Budapest,BUD,95,Trofea Grill Restaurant,4.5,1643,Sushi,€€ - €€€
+Budapest,BUD,96,Ezaz Cafe and Bistro,4.5,613,International,€€ - €€€
+Budapest,BUD,97,Street Food Karavan,4.5,426,American,€
+Budapest,BUD,98,Hungarian Hell's Kitchen,4,963,Eastern European,€€ - €€€
+Budapest,BUD,99,Retro Langos - Arany Janos Metro Station,4.5,326,Fast Food,€
+Budapest,BUD,100,Kazimir,4.5,794,European,€€ - €€€
+Copenhagen,CPH,1,Zahida at Westmarket,5,408,Indian,€€ - €€€
+Copenhagen,CPH,2,Restaurant Krebsegaarden,5,1071,European,€€€€
+Copenhagen,CPH,3,Grams Laekkerier (closed to 8. jan.),5,550,Cafe,€
+Copenhagen,CPH,4,Pizzeria MaMeMi WestMarket,5,332,Italian,€
+Copenhagen,CPH,5,The Olive Kitchen & Bar,5,1316,International,€€ - €€€
+Copenhagen,CPH,6,Geranium,4.5,872,European,€€€€
+Copenhagen,CPH,7,Banana Joe,5,321,American,€
+Copenhagen,CPH,8,The Red Box,4.5,420,French,€€ - €€€
+Copenhagen,CPH,9,Frederiks Have,4.5,452,European,€€€€
+Copenhagen,CPH,10,Souls,4.5,406,Cafe,€€ - €€€
+Copenhagen,CPH,11,Restaurant Radio,4.5,758,European,€€€€
+Copenhagen,CPH,12,Noma,4.5,1464,European,€€€€
+Copenhagen,CPH,13,Pizzeria La Fiorita,4.5,485,Italian,€
+Copenhagen,CPH,14,Brasserie Degas,4.5,739,French,€€ - €€€
+Copenhagen,CPH,15,KoD Vesterbro,4.5,361,Steakhouse,€€ - €€€
+Copenhagen,CPH,16,Next Door Cafe,4.5,424,American,€
+Copenhagen,CPH,17,Marv & Ben,5,86,European,€€€€
+Copenhagen,CPH,18,Spisestedet FEED,4.5,345,European,€€ - €€€
+Copenhagen,CPH,19,Restaurant Cofoco,4.5,782,European,€€ - €€€
+Copenhagen,CPH,20,Kiin Kiin,4.5,685,Asian,€€€€
+Copenhagen,CPH,21,Kokkeriet,4.5,461,European,€€€€
+Copenhagen,CPH,22,Studio - The Standard,4.5,397,European,€€€€
+Copenhagen,CPH,23,Khun Juk Oriental,4.5,666,Asian,€€ - €€€
+Copenhagen,CPH,24,La Vita e Bella,4.5,820,Italian,€€ - €€€
+Copenhagen,CPH,25,KoD Copenhagen,4.5,768,American,€€ - €€€
+Copenhagen,CPH,26,Che Fe Bio Trattoria,4.5,471,Italian,€€ - €€€
+Copenhagen,CPH,27,Restaurant Gronnegade,4.5,386,Seafood,€€€€
+Copenhagen,CPH,28,Tight,4.5,2492,French,€€ - €€€
+Copenhagen,CPH,29,Restaurant Schoennemann,4.5,623,European,€€ - €€€
+Copenhagen,CPH,30,Amass,4.5,524,European,€€€€
+Copenhagen,CPH,31,Host,4.5,1562,European,€€€€
+Copenhagen,CPH,32,Chez Bruno,4.5,340,French,€€ - €€€
+Copenhagen,CPH,33,Restaurant Kronborg,4.5,347,Scandinavian,€€ - €€€
+Copenhagen,CPH,34,Copenhagen Street Food,4.5,3426,Mexican,€€€
+Copenhagen,CPH,35,Den Lille Fede Restaurant,4.5,604,European,€€€€
+Copenhagen,CPH,36,Sporvejen,4.5,696,European,€
+Copenhagen,CPH,37,BODIL - et spisested,4.5,127,International,€€ - €€€
+Copenhagen,CPH,38,Vakst,4.5,312,European,€€€€
+Copenhagen,CPH,39,Aamanns Deli & Take Away,4.5,505,Scandinavian,€€ - €€€
+Copenhagen,CPH,40,Paludan's Book & Cafe,4.5,1159,Cafe,€
+Copenhagen,CPH,41,Restaurant Karla,4.5,580,Scandinavian,€€ - €€€
+Copenhagen,CPH,42,Mikkeller Bar,4.5,737,Danish,€€ - €€€
+Copenhagen,CPH,43,RetroGusto,4.5,441,Italian,€€ - €€€
+Copenhagen,CPH,44,Restaurant Amalie,4.5,342,European,€€ - €€€
+Copenhagen,CPH,45,Halifax,4.5,483,American,€€ - €€€
+Copenhagen,CPH,46,Skindbuksen,4.5,451,European,€€ - €€€
+Copenhagen,CPH,47,Mad & Kaffe,4.5,259,Cafe,€€ - €€€
+Copenhagen,CPH,48,Fleisch,4.5,275,Scandinavian,€€ - €€€
+Copenhagen,CPH,49,Told&Snaps,4.5,421,European,€€ - €€€
+Copenhagen,CPH,50,Restaurant Puk,4.5,1261,Gastropub,€€ - €€€
+Copenhagen,CPH,51,Kalaset,4.5,534,American,€€ - €€€
+Copenhagen,CPH,52,Sticks'n'Sushi,4.5,890,Japanese,€€ - €€€
+Copenhagen,CPH,53,Sollerod Kro,5,271,French,€€€€
+Copenhagen,CPH,54,El Viejo Mexico,4.5,651,American,€€ - €€€
+Copenhagen,CPH,55,Goomi,4.5,196,Chinese,€€ - €€€
+Copenhagen,CPH,56,Restaurant Maven,4.5,629,European,€€ - €€€
+Copenhagen,CPH,57,Kodbyens Fiskebar,4,1913,Seafood,€€ - €€€
+Copenhagen,CPH,58,The Union Kitchen,4.5,486,European,€€ - €€€
+Copenhagen,CPH,59,Enomania,4.5,183,Italian,€€ - €€€
+Copenhagen,CPH,60,Pate Pate,4,832,European,€€ - €€€
+Copenhagen,CPH,61,Ristorante Italiano,4,756,Italian,€€ - €€€
+Copenhagen,CPH,62,Spaghetteria La Perla,4.5,496,Vegetarian,€€ - €€€
+Copenhagen,CPH,63,Pluto,4,654,European,€€ - €€€
+Copenhagen,CPH,64,Fuego,4.5,576,Steakhouse,€€€€
+Copenhagen,CPH,65,Cafe Norden,4,1407,Cafe,€€ - €€€
+Copenhagen,CPH,66,Restaurant Koefoed,4.5,568,European,€€€€
+Copenhagen,CPH,67,Plectrum,4,236,Bar,€€ - €€€
+Copenhagen,CPH,68,Restaurant leaven,5,133,French,€€ - €€€
+Copenhagen,CPH,69,Fishmarket,4,743,Seafood,€€ - €€€
+Copenhagen,CPH,70,Christianshavns Faergecafe,4.5,316,Seafood,€€ - €€€
+Copenhagen,CPH,71,Warpigs,4,879,American,€€ - €€€
+Copenhagen,CPH,72,Formel B,4.5,523,European,€€€€
+Copenhagen,CPH,73,Restaurant Palaegade,4.5,167,European,€€ - €€€
+Copenhagen,CPH,74,Neighbourhood,4,517,Italian,€€ - €€€
+Copenhagen,CPH,75,Era Ora,4.5,509,Italian,€€€€
+Copenhagen,CPH,76,Gasoline Grill,4.5,190,American,€
+Copenhagen,CPH,77,Friends & Brgrs Koebenhavn / Burgers & Fries,4.5,270,American,€
+Copenhagen,CPH,78,Flottenheimer,4.5,236,Cafe,€€ - €€€
+Copenhagen,CPH,79,Llama Restaurante & Bar,4,500,Peruvian,€€ - €€€
+Copenhagen,CPH,80,Apropos - Cafe & Restaurant,4,538,Bar,€€ - €€€
+Copenhagen,CPH,81,Det Lille Apotek,4,739,Danish,€€ - €€€
+Copenhagen,CPH,82,RizRaz,4,749,Mediterranean,€€ - €€€
+Copenhagen,CPH,83,MASH,4,957,American,€€€€
+Copenhagen,CPH,84,SALT Bar & Restaurant,4,878,European,€€€€
+Copenhagen,CPH,85,Restaurant Nepali Bhancha,5,134,Asian,€€ - €€€
+Copenhagen,CPH,86,Asador,4.5,351,Steakhouse,€€ - €€€
+Copenhagen,CPH,87,Bastard Cafe,4.5,107,Bar,€
+Copenhagen,CPH,88,Frk. Barners Kaelder,4,1103,European,€€ - €€€
+Copenhagen,CPH,89,Kanal Cafeen,4.5,429,European,€€ - €€€
+Copenhagen,CPH,90,Cafe Komplet,5,65,Danish,€€ - €€€
+Copenhagen,CPH,91,Oysters & grill,4.5,284,Seafood,€€ - €€€
+Copenhagen,CPH,92,Madklubben Vesterbro,4,854,European,€€ - €€€
+Copenhagen,CPH,93,Kanalen Restaurant,4,360,European,€€€€
+Copenhagen,CPH,94,La Vecchia Signora,4,485,Italian,€€ - €€€
+Copenhagen,CPH,95,Peder Oxe,4,1057,European,€€ - €€€
+Copenhagen,CPH,96,Restaurant Gorilla,4,571,European,€€ - €€€
+Copenhagen,CPH,97,Sliders,4.5,213,Bar,€
+Copenhagen,CPH,98,Tommi's Burger Joint,4,308,American,€
+Copenhagen,CPH,99,Heering Restaurant and Bistro,4,597,European,€€ - €€€
+Copenhagen,CPH,100,Groed,4.5,198,European,€
+Dublin,DUB,1,Mulberry Garden,4.5,609,Irish,€€€€
+Dublin,DUB,2,Bloom Brasserie,4.5,1329,Irish,€€ - €€€
+Dublin,DUB,3,The Vintage Kitchen,4.5,1644,Irish,€€ - €€€
+Dublin,DUB,4,Chapter One,4.5,2000,Irish,€€€€
+Dublin,DUB,5,Dax Restaurant,4.5,771,French,€€€€
+Dublin,DUB,6,Lemon and Duke,4.5,232,Irish,€€ - €€€
+Dublin,DUB,7,Cafe Restaurant Riba,4.5,326,Irish,€€ - €€€
+Dublin,DUB,8,Las Tapas de Lola,4.5,832,Mediterranean,€€ - €€€
+Dublin,DUB,9,Keshk Cafe,4.5,533,Mediterranean,€€ - €€€
+Dublin,DUB,10,Beanhive,4.5,692,Irish,€
+Dublin,DUB,11,F.X. Buckley Steakhouse Temple Bar,4.5,2446,Steakhouse,€€ - €€€
+Dublin,DUB,12,Bleecker Street Cafe Bar,4.5,461,Irish,€€ - €€€
+Dublin,DUB,13,PHX Bistro,4.5,585,Irish,€€ - €€€
+Dublin,DUB,14,I Monelli,4.5,418,Italian,€€ - €€€
+Dublin,DUB,15,Darkey Kelly's Bar & Restaurant,4.5,814,Irish,€€ - €€€
+Dublin,DUB,16,Mr Fox Restaurant,4.5,173,International,€€ - €€€
+Dublin,DUB,17,Damascus Gate,4.5,498,Lebanese,€€ - €€€
+Dublin,DUB,18,The Stage Door Cafe,4.5,486,Irish,€
+Dublin,DUB,19,Brookwood,4.5,670,Gastropub,€€ - €€€
+Dublin,DUB,20,The Little Kitchen,4.5,400,Irish,€€ - €€€
+Dublin,DUB,21,Fish Shack Cafe,4.5,917,Irish,€€ - €€€
+Dublin,DUB,22,Klaw,4.5,671,Irish,€€ - €€€
+Dublin,DUB,23,Mochaland Cafe,4.5,462,Mediterranean,€
+Dublin,DUB,24,Pickle,4.5,398,Indian,€€ - €€€
+Dublin,DUB,25,The Sussex,4.5,603,Steakhouse,€€ - €€€
+Dublin,DUB,26,Boojum - Millenium Walkway,4.5,570,Mexican,€
+Dublin,DUB,27,Umi Falafel,4.5,745,Lebanese,€
+Dublin,DUB,28,Etto,4.5,347,Irish,€€ - €€€
+Dublin,DUB,29,Red Torch Ginger,4.5,1091,Contemporary,€€ - €€€
+Dublin,DUB,30,Pearl Brasserie,4.5,871,French,€€€€
+Dublin,DUB,31,The Lotts Cafe Bar,4.5,1441,Steakhouse,€€ - €€€
+Dublin,DUB,32,F.X. Buckley Pembroke St,4.5,900,Steakhouse,€€ - €€€
+Dublin,DUB,33,The Chophouse Gastro Pub,4.5,715,Gastropub,€€ - €€€
+Dublin,DUB,34,IL VICOLETTO,4.5,1405,Steakhouse,€€ - €€€
+Dublin,DUB,35,Cornucopia Restaurant,4.5,1286,European,€€ - €€€
+Dublin,DUB,36,Rosa Madre,4.5,532,Steakhouse,€€ - €€€
+Dublin,DUB,37,Sheehan's,4.5,552,Irish,€€ - €€€
+Dublin,DUB,38,Bunsen,4.5,896,American,€
+Dublin,DUB,39,The Old Storehouse Bar & Restaurant,4.5,3570,Irish,€€ - €€€
+Dublin,DUB,40,Kilkenny Cafe and Restaurant,4.5,647,Irish,€€ - €€€
+Dublin,DUB,41,The Blind Pig Cocktail Club,4.5,537,Italian,€€ - €€€
+Dublin,DUB,42,Catch-22,4.5,577,Irish,€€ - €€€
+Dublin,DUB,43,The Old Spot,4.5,359,Irish,€€ - €€€
+Dublin,DUB,44,Restaurant Patrick Guilbaud,4.5,1106,French,€€€€
+Dublin,DUB,45,Millstone Restaurant,4.5,874,Steakhouse,€€ - €€€
+Dublin,DUB,46,The Bakehouse,4.5,641,Irish,€€ - €€€
+Dublin,DUB,47,Arthur's Pub,4.5,731,Irish,€€ - €€€
+Dublin,DUB,48,Bad Bobs Temple Bar,4.5,1218,Bar,€€ - €€€
+Dublin,DUB,49,The Celt Pub,4.5,1309,Irish,€€ - €€€
+Dublin,DUB,50,Avoca,4.5,884,Irish,€€ - €€€
+Dublin,DUB,51,The Hairy Lemon Cafe Bar,4.5,1872,Vegetarian,€€ - €€€
+Dublin,DUB,52,Green Nineteen,4.5,611,Irish,€€ - €€€
+Dublin,DUB,53,Matt The Thresher,4.5,1820,Irish,€€ - €€€
+Dublin,DUB,54,Featherblade,4.5,380,Steakhouse,€€ - €€€
+Dublin,DUB,55,The Bank on College Green,4.5,2526,Irish,€€ - €€€
+Dublin,DUB,56,101 Talbot Street,4.5,555,Irish,€€ - €€€
+Dublin,DUB,57,The Brazen Head,4.5,3491,Irish,€€ - €€€
+Dublin,DUB,58,Wuff,4,580,Irish,€€ - €€€
+Dublin,DUB,59,Doheny & Nesbitt,4.5,435,Irish,€€ - €€€
+Dublin,DUB,60,The Quays Temple Bar,4.5,1149,Irish,€€ - €€€
+Dublin,DUB,61,Taste Food Company,4.5,462,Irish,€€ - €€€
+Dublin,DUB,62,The Old Mill Restaurant,4.5,994,Irish,€€ - €€€
+Dublin,DUB,63,The Bull & Castle by F.X. Buckley,4.5,1236,Steakhouse,€€ - €€€
+Dublin,DUB,64,John Kavanagh - The Gravediggers,4.5,605,Irish,€
+Dublin,DUB,65,Pichet,4.5,1080,French,€€ - €€€
+Dublin,DUB,66,La Maison,4.5,587,Irish,€€ - €€€
+Dublin,DUB,67,Madigan's Pub O'Connell Street,4.5,1353,Irish,€€ - €€€
+Dublin,DUB,68,Bunsen,4.5,584,American,€
+Dublin,DUB,69,Kathmandu Kitchen Nepalese & Indian Restaurant,4.5,739,Indian,€€ - €€€
+Dublin,DUB,70,Trocadero,4.5,892,Irish,€€ - €€€
+Dublin,DUB,71,Murray's Pub,4.5,2677,Irish,€€ - €€€
+Dublin,DUB,72,Musashi Japanese Restaurant,4.5,545,Japanese,€€ - €€€
+Dublin,DUB,73,The Boxty House,4.5,4453,Seafood,€€ - €€€
+Dublin,DUB,74,The Pig's Ear,4.5,1380,Irish,€€€€
+Dublin,DUB,75,Gotham Cafe,4.5,616,Steakhouse,€€ - €€€
+Dublin,DUB,76,Brother Hubbard North,4.5,854,Cafe,€€ - €€€
+Dublin,DUB,77,Pho Viet,4.5,496,Asian,€
+Dublin,DUB,78,The Temple Bar Pub,4.5,2428,Irish,€€ - €€€
+Dublin,DUB,79,The Quays Irish Restaurant,4.5,1682,Irish,€€ - €€€
+Dublin,DUB,80,Banyi Japanese Dining,4.5,798,Japanese,€€ - €€€
+Dublin,DUB,81,Copper Alley Bistro,4.5,679,Irish,€€ - €€€
+Dublin,DUB,82,Lemon Jelly Cafe,4.5,299,Irish,€€ - €€€
+Dublin,DUB,83,Ginger Man,4.5,594,Irish,€€ - €€€
+Dublin,DUB,84,The Larder Restaurant & Brew House,4.5,787,Irish,€€ - €€€
+Dublin,DUB,85,Old Punch Bowl,4.5,227,Irish,€€ - €€€
+Dublin,DUB,86,SEARSONS of Baggot St.,4.5,599,Irish,€€ - €€€
+Dublin,DUB,87,Forest Avenue,4.5,339,Irish,€€€€
+Dublin,DUB,88,Bobo's Gourmet Burgers,4.5,1702,American,€€ - €€€
+Dublin,DUB,89,The Brock Inn,4.5,400,Irish,€€ - €€€
+Dublin,DUB,90,La Caverna,4.5,727,Italian,€€ - €€€
+Dublin,DUB,91,BoBos Burgers Restaurant,4.5,279,Irish,€€ - €€€
+Dublin,DUB,92,Nancy Hands Bar & Restaurant,4.5,780,Irish,€€ - €€€
+Dublin,DUB,93,The Parnell Heritage Bar & Grill,4.5,1328,Irish,€€ - €€€
+Dublin,DUB,94,Hugo's,4,773,French,€€ - €€€
+Dublin,DUB,95,Farm Restaurants,4.5,1132,Irish,€€ - €€€
+Dublin,DUB,96,The Winding Stair,4.5,1725,Irish,€€ - €€€
+Dublin,DUB,97,The Porterhouse Temple Bar,4.5,1882,American,€€ - €€€
+Dublin,DUB,98,Urbanity Coffee,5,112,Irish,€€ - €€€
+Dublin,DUB,99,The Merchant's Arch Bar & Restaurant,4.5,1095,Irish,€€ - €€€
+Dublin,DUB,100,Saba,4,1035,Asian,€€ - €€€
+Edinburgh,EDI,1,The Table,5,263,European,€€€€
+Edinburgh,EDI,2,Forage & Chatter,5,772,European,€€ - €€€
+Edinburgh,EDI,3,Aizle,5,642,European,€€€€
+Edinburgh,EDI,4,Number One at The Balmoral,5,1483,European,€€€€
+Edinburgh,EDI,5,Pickles,5,810,Wine Bar,€€ - €€€
+Edinburgh,EDI,6,Bia Bistrot,4.5,488,French,€€ - €€€
+Edinburgh,EDI,7,Locanda De Gusti,5,1169,Italian,€€ - €€€
+Edinburgh,EDI,8,Purslane Restaurant,4.5,772,French,€€€€
+Edinburgh,EDI,9,Nok's Kitchen,5,473,Asian,€€ - €€€
+Edinburgh,EDI,10,Colonnades at The Signet Library,5,921,British,€€€€
+Edinburgh,EDI,11,Pataka,4.5,532,Indian,€€ - €€€
+Edinburgh,EDI,12,Kezban Mediterranean Restaurant,5,392,Mediterranean,€€ - €€€
+Edinburgh,EDI,13,Roseleaf,4.5,903,Bar,€€ - €€€
+Edinburgh,EDI,14,Castle Terrace Restaurant,4.5,2297,European,€€€€
+Edinburgh,EDI,15,Navadhanya,4.5,568,Indian,€€ - €€€
+Edinburgh,EDI,16,Yeni Meze Bar,4.5,725,Mediterranean,€€ - €€€
+Edinburgh,EDI,17,Restaurant Martin Wishart,4.5,1196,French,€€€€
+Edinburgh,EDI,18,Ada Restaurant,4.5,440,Mediterranean,€€ - €€€
+Edinburgh,EDI,19,The Kitchin,4.5,2995,French,€€€€
+Edinburgh,EDI,20,Rodi Restaurant,4.5,835,Mediterranean,€€ - €€€
+Edinburgh,EDI,21,Lovage,4.5,290,European,€€ - €€€
+Edinburgh,EDI,22,The Caffeine Drip,5,831,African,€€ - €€€
+Edinburgh,EDI,23,New Chapter,4.5,811,European,€€ - €€€
+Edinburgh,EDI,24,Michael Neave's Kitchen and Whisky Bar,4.5,973,European,€€€
+Edinburgh,EDI,25,The Walnut,4.5,301,British,€€ - €€€
+Edinburgh,EDI,26,Verdo,5,443,Mediterranean,€€ - €€€
+Edinburgh,EDI,27,Makars Gourmet Mash Bar,4.5,1481,Scottish,€€ - €€€
+Edinburgh,EDI,28,Riverlife,4.5,518,French,€€ - €€€
+Edinburgh,EDI,29,Dine,4.5,808,British,€€ - €€€
+Edinburgh,EDI,30,Veeno Edinburgh - Rose Street,4.5,226,Italian,€€ - €€€
+Edinburgh,EDI,31,Wildfire,4.5,2071,European,€€ - €€€
+Edinburgh,EDI,32,Three Birds,4.5,710,European,€€ - €€€
+Edinburgh,EDI,33,Meze Meze,4.5,1457,Mediterranean,€€ - €€€
+Edinburgh,EDI,34,Educated Flea,4.5,195,International,€€ - €€€
+Edinburgh,EDI,35,Blonde Restaurant,4.5,633,European,€€ - €€€
+Edinburgh,EDI,36,Dubh Prais,4.5,1031,European,€€ - €€€
+Edinburgh,EDI,37,Voujon,4.5,405,Indian,€€ - €€€
+Edinburgh,EDI,38,Sasso Bar & Cucina,4.5,370,Seafood,€€ - €€€
+Edinburgh,EDI,39,Usquabae Whisky Bar,4.5,571,Bar,€€ - €€€
+Edinburgh,EDI,40,Palm Court at The Balmoral,4.5,840,British,€€€€
+Edinburgh,EDI,41,Indaba,4.5,834,African,€€ - €€€
+Edinburgh,EDI,42,The Grain Store,4.5,936,European,€€€€
+Edinburgh,EDI,43,Divino Enoteca,4.5,829,Italian,€€ - €€€
+Edinburgh,EDI,44,Apiary Restaurant,4.5,454,European,€€ - €€€
+Edinburgh,EDI,45,Field,4.5,621,European,€€ - €€€
+Edinburgh,EDI,46,The Wee Restaurant,4.5,232,European,€€ - €€€
+Edinburgh,EDI,47,Papii,4.5,646,Cafe,€
+Edinburgh,EDI,48,Miller & Carter Steakhouse,4.5,478,Steakhouse,€€ - €€€
+Edinburgh,EDI,49,Fishers,4.5,924,Seafood,€€ - €€€
+Edinburgh,EDI,50,La Petite Mort,4.5,438,European,€€ - €€€
+Edinburgh,EDI,51,Kismot,4.5,2131,Indian,€€ - €€€
+Edinburgh,EDI,52,La Piazza,4.5,1435,Italian,€€ - €€€
+Edinburgh,EDI,53,First Coast,4.5,878,British,€€ - €€€
+Edinburgh,EDI,54,Wedgwood The Restaurant,4.5,1880,European,€€€€
+Edinburgh,EDI,55,Otro,4.5,303,European,€€ - €€€
+Edinburgh,EDI,56,Tapa,4.5,846,Mediterranean,€€ - €€€
+Edinburgh,EDI,57,La Favorita Restaurant Leith Walk,4.5,1381,Italian,€€ - €€€
+Edinburgh,EDI,58,The Hermitage Bar,4.5,375,Bar,€€ - €€€
+Edinburgh,EDI,59,L'Escargot Bleu Restaurant,4.5,664,French,€€ - €€€
+Edinburgh,EDI,60,Pera - Turkish Mangal & Meze Bar,4.5,411,Mediterranean,€€ - €€€
+Edinburgh,EDI,61,The Old Bell Inn,4.5,456,Bar,€€ - €€€
+Edinburgh,EDI,62,Angels With Bagpipes,4.5,2636,European,€€ - €€€
+Edinburgh,EDI,63,Stockbridge Restaurant,4.5,617,European,€€€€
+Edinburgh,EDI,64,Olive Branch Bistro,4.5,658,European,€€ - €€€
+Edinburgh,EDI,65,Nonna's Kitchen,4.5,618,Italian,€€ - €€€
+Edinburgh,EDI,66,Pizzeria 1926,4.5,175,Italian,€
+Edinburgh,EDI,67,Shebeen Morrison Street,4.5,610,Steakhouse,€€ - €€€
+Edinburgh,EDI,68,Rhubarb - The Restaurant at Prestonfield,4.5,750,European,€€€€
+Edinburgh,EDI,69,Cool Jade,4.5,689,Chinese,€€ - €€€
+Edinburgh,EDI,70,Scotch Whisky Bar at The Balmoral,5,227,Scottish,€€ - €€€
+Edinburgh,EDI,71,Cafe St Honore,4.5,682,French,€€ - €€€
+Edinburgh,EDI,72,Cadiz,4.5,345,Seafood,€€ - €€€
+Edinburgh,EDI,73,Petit Paris,4.5,1424,French,€€ - €€€
+Edinburgh,EDI,74,Mother India's Cafe,4.5,1806,Indian,€€ - €€€
+Edinburgh,EDI,75,Bread Meats Bread,4.5,647,American,€€ - €€€
+Edinburgh,EDI,76,Dishoom Edinburgh,4.5,1145,Indian,€€ - €€€
+Edinburgh,EDI,77,Gurkha Cafe & Restaurant,4.5,1668,Indian,€€ - €€€
+Edinburgh,EDI,78,The Ship on the Shore,4.5,1303,Scottish,€€ - €€€
+Edinburgh,EDI,79,Asti,4.5,603,Italian,€€ - €€€
+Edinburgh,EDI,80,Frizzante Proseccheria,4.5,739,Seafood,€€ - €€€
+Edinburgh,EDI,81,Chaophraya Edinburgh,4.5,2242,Asian,€€ - €€€
+Edinburgh,EDI,82,Burgers and Beers Grillhouse,4.5,1684,British,€€ - €€€
+Edinburgh,EDI,83,Oink,4.5,2236,Fast Food,€
+Edinburgh,EDI,84,Hendersons Vegan Restaurant,4.5,393,British,€€ - €€€
+Edinburgh,EDI,85,Vittoria On The Walk,4.5,1275,Italian,€€ - €€€
+Edinburgh,EDI,86,La Garrigue,4.5,1002,Mediterranean,€€ - €€€
+Edinburgh,EDI,87,Element,4.5,671,Bar,€€ - €€€
+Edinburgh,EDI,88,bar italia,4.5,817,Italian,€€ - €€€
+Edinburgh,EDI,89,Kama Sutra Edinburgh Indo Tapas Restaurant,4.5,1064,Indian,€€ - €€€
+Edinburgh,EDI,90,La Locanda Italian Bistro Edinburgh,4.5,479,British,€€ - €€€
+Edinburgh,EDI,91,Chop House Leith,4.5,392,Steakhouse,€€ - €€€
+Edinburgh,EDI,92,Osteria Del Tempo Perso,4.5,393,Italian,€€ - €€€
+Edinburgh,EDI,93,Amber Restaurant at the Scotch Whisky Experience,4.5,877,European,€€ - €€€
+Edinburgh,EDI,94,Cafe Marlayne,4.5,473,French,€€ - €€€
+Edinburgh,EDI,95,The Black Fox,4.5,241,Pizza,€€ - €€€
+Edinburgh,EDI,96,Mariachi,4.5,827,Mexican,€€ - €€€
+Edinburgh,EDI,97,Miro's Cantina,4.5,1383,Mexican,€€ - €€€
+Edinburgh,EDI,98,Whiski,4.5,1482,Bar,€€ - €€€
+Edinburgh,EDI,99,Deacon's House Cafe,4.5,762,Cafe,€
+Edinburgh,EDI,100,El Cartel,4.5,468,Mexican,€€ - €€€
+Geneva,GVA,1,Bayview,4.5,383,French,€€€€
+Geneva,GVA,2,Izumi,4.5,509,Japanese,€€€€
+Geneva,GVA,3,Bistrot du Boeuf Rouge,4.5,578,French,€€ - €€€
+Geneva,GVA,4,Le Chat-Botte,4.5,369,French,€€€€
+Geneva,GVA,5,Intensus,5,68,French,€€€€
+Geneva,GVA,6,Cafe du Soleil,4.5,1222,French,€€ - €€€
+Geneva,GVA,7,Inglewood,4.5,251,American,€€ - €€€
+Geneva,GVA,8,Parfums de Beyrouth,4.5,752,Lebanese,€
+Geneva,GVA,9,Bistro de la Tour,4.5,284,French,€€ - €€€
+Geneva,GVA,10,Il Lago at The Four Seasons Hotel,4.5,353,Italian,€€€€
+Geneva,GVA,11,Living Room Bar & Kitchen,4.5,103,French,€€ - €€€
+Geneva,GVA,12,Fiskebar,5,54,Seafood,€€€€
+Geneva,GVA,13,Restaurant Edelweiss,4,624,Swiss,€€ - €€€
+Geneva,GVA,14,Brasserie Lipp,4,1624,French,€€ - €€€
+Geneva,GVA,15,Spice of India,4,325,Indian,€€ - €€€
+Geneva,GVA,16,Les Armures,4,1122,French,€€ - €€€
+Geneva,GVA,17,Chez Ma Cousine,4,1836,Fast Food,€
+Geneva,GVA,18,Auberge de Saviese,4,701,Swiss,€€ - €€€
+Geneva,GVA,19,Le Relais de l'Entrecote,4,1088,French,€€ - €€€
+Geneva,GVA,20,La Plancha,4.5,278,French,€€ - €€€
+Geneva,GVA,21,Cantine des Commercants,4.5,196,French,€€ - €€€
+Geneva,GVA,22,L'Entrecote Couronnee,4.5,408,French,€€ - €€€
+Geneva,GVA,23,Entre Homard & Cote,4.5,184,American,€€ - €€€
+Geneva,GVA,24,Luigia,4,1342,Italian,€€ - €€€
+Geneva,GVA,25,Cafe de la Paix,4.5,188,French,€€€€
+Geneva,GVA,26,Chez Boubier Cafe de Paris,4,1181,French,€€ - €€€
+Geneva,GVA,27,La buvette des Bains des Paquis,4,569,Swiss,€
+Geneva,GVA,28,Le Jardin,4.5,172,French,€€€€
+Geneva,GVA,29,Fifty-Fifty,4.5,165,Italian,€€ - €€€
+Geneva,GVA,30,Restaurant Les Trois Verres,4.5,216,Diner,€€ - €€€
+Geneva,GVA,31,Cafe de la Place,4.5,142,French,€€€€
+Geneva,GVA,32,Foret de bambous,4.5,67,Chinese,€
+Geneva,GVA,33,Da Paolo,4,540,Italian,€€ - €€€
+Geneva,GVA,34,Le Flacon,4.5,225,French,€€€€
+Geneva,GVA,35,TOSCA,4.5,113,Italian,€€€€
+Geneva,GVA,36,Nomades,4,169,Lebanese,€€ - €€€
+Geneva,GVA,37,The Hamburger Foundation,4,521,American,€€ - €€€
+Geneva,GVA,38,Les Brasseurs,4,696,Swiss,€€ - €€€
+Geneva,GVA,39,Rasoi by Vineet,4.5,381,Indian,€€€€
+Geneva,GVA,40,El Catrin,4.5,104,Mexican,€€ - €€€
+Geneva,GVA,41,Cafe Restaurant de L'aviation,4,305,French,€€ - €€€
+Geneva,GVA,42,Le Thermometre,4.5,162,French,€€ - €€€
+Geneva,GVA,43,Cafe Papon,4,248,French,€€ - €€€
+Geneva,GVA,44,The Indus,4.5,53,Indian,€€ - €€€
+Geneva,GVA,45,Globus Geneva,4,341,Italian,€€ - €€€
+Geneva,GVA,46,Le Kudeta,4.5,98,French,€€ - €€€
+Geneva,GVA,47,Chez Philippe,4,557,French,€€€€
+Geneva,GVA,48,Cafe Restaurant des Voyageurs,4.5,192,French,€€ - €€€
+Geneva,GVA,49,Chez Gregoire,4.5,99,French,€€ - €€€
+Geneva,GVA,50,Le Gruyerien,4.5,296,Swiss,€€ - €€€
+Geneva,GVA,51,Milan,4.5,263,French,€€ - €€€
+Geneva,GVA,52,Pizzeria Lâ€™osteria Di Oreste,4,154,Italian,€€ - €€€
+Geneva,GVA,53,Le Demi-Lune Cafe & La Salle a Manger,4,289,French,€€ - €€€
+Geneva,GVA,54,Grizzly,4.5,162,Swiss,€€ - €€€
+Geneva,GVA,55,Little India,4,357,Indian,€€ - €€€
+Geneva,GVA,56,Manora,4,273,French,€
+Geneva,GVA,57,Le Casanova,4,289,Italian,€€ - €€€
+Geneva,GVA,58,Chez Marino,4.5,169,Italian,€€ - €€€
+Geneva,GVA,59,El Faro,4.5,139,Seafood,€€€€
+Geneva,GVA,60,Au Petit Chalet,4,589,Italian,€€ - €€€
+Geneva,GVA,61,Le Bistrot Dumas,4.5,111,French,€€€€
+Geneva,GVA,62,Cottage Cafe,4,403,French,€€ - €€€
+Geneva,GVA,63,Chouchouette,4.5,64,Japanese,€€ - €€€
+Geneva,GVA,64,Tartares&Co,4,234,French,€€ - €€€
+Geneva,GVA,65,L'Arabesque,4.5,271,Lebanese,€€€€
+Geneva,GVA,66,Le Tse Fung,4.5,231,Chinese,€€€€
+Geneva,GVA,67,Bonivard VI,4.5,49,International,€€ - €€€
+Geneva,GVA,68,Cafe du Centre,4,718,French,€€ - €€€
+Geneva,GVA,69,Le Loti,4.5,123,French,€€€€
+Geneva,GVA,70,La Bottega,4.5,103,Italian,€€€€
+Geneva,GVA,71,Les Curiades,4.5,186,French,€€€€
+Geneva,GVA,72,Windows Restaurant at Hotel d'Angleterre,4.5,332,European,€€€€
+Geneva,GVA,73,Funky Monkey Room,4,341,American,€€ - €€€
+Geneva,GVA,74,Le Comptoir Canaille,4,150,French,€€ - €€€
+Geneva,GVA,75,INGLEWOOD,4,269,American,€€ - €€€
+Geneva,GVA,76,Seoul,4.5,110,Barbecue,€€ - €€€
+Geneva,GVA,77,Le 15,4.5,160,French,€€ - €€€
+Geneva,GVA,78,La Limite,4.5,136,French,€
+Geneva,GVA,79,L'amazona,5,43,Latin,€
+Geneva,GVA,80,Le Bistrot de Charlotte,4,275,French,€€ - €€€
+Geneva,GVA,81,Na Village,4,307,Asian,€€ - €€€
+Geneva,GVA,82,Les Tilleuls,4,292,Italian,€€ - €€€
+Geneva,GVA,83,Yamori Izakaya,4.5,128,Soups,€€ - €€€
+Geneva,GVA,84,Au Pied de Cochon,4,263,French,€€ - €€€
+Geneva,GVA,85,La Fontaine,4.5,89,French,€€ - €€€
+Geneva,GVA,86,Sauan,4.5,109,Japanese,€€€€
+Geneva,GVA,87,Pachacamac,4.5,226,Fusion,€€€€
+Geneva,GVA,88,Bai Toey Geneva,4.5,77,Asian,€€ - €€€
+Geneva,GVA,89,La Table Des Roys,4.5,61,French,€€€€
+Geneva,GVA,90,Les 5 portes,4,214,French,€€ - €€€
+Geneva,GVA,91,La Pignata,4.5,164,Italian,€€ - €€€
+Geneva,GVA,92,L'Epicentre,4.5,188,International,€€€€
+Geneva,GVA,93,Chez Fouad,4.5,98,Lebanese,€€ - €€€
+Geneva,GVA,94,La Table du Cotton,5,41,French,€€€€
+Geneva,GVA,95,Le Patio,4,125,French,€€€€
+Geneva,GVA,96,Kakinuma,4.5,158,Japanese,€€€€
+Geneva,GVA,97,Woods at The InterContinental Hotel,4.5,197,European,€€€€
+Geneva,GVA,98,Chez Kei,4.5,70,Chinese,€€€€
+Geneva,GVA,99,Nicklaus Steakhouse,4.5,61,Steakhouse,€€ - €€€
+Geneva,GVA,100,FMR downtown,4.5,71,American,€€ - €€€
+Hamburg,HAM,1,Restaurant Hala,5,373,Lebanese,€€ - €€€
+Hamburg,HAM,2,Helo Restaurant,5,216,Steakhouse,€€ - €€€
+Hamburg,HAM,3,Gassenhaur,5,160,German,€€ - €€€
+Hamburg,HAM,4,Philipps Restaurant,5,496,International,€€ - €€€
+Hamburg,HAM,5,Estancia Steaks,4.5,840,Steakhouse,€€ - €€€
+Hamburg,HAM,6,Ashoka,4.5,312,Indian,€€ - €€€
+Hamburg,HAM,7,Picasso,4.5,564,Seafood,€€ - €€€
+Hamburg,HAM,8,Caramba Especial,4.5,764,Seafood,€€ - €€€
+Hamburg,HAM,9,Pizza Bande,4.5,366,Italian,€
+Hamburg,HAM,10,Theo's,4.5,188,American,€€€€
+Hamburg,HAM,11,Liman Fisch -Restaurant,4.5,462,Seafood,€€ - €€€
+Hamburg,HAM,12,Karo Fisch Restaurant,4.5,467,Seafood,€
+Hamburg,HAM,13,The Table Kevin Fehling,5,120,European,€€€€
+Hamburg,HAM,14,Bruecke 10,4.5,779,German,€
+Hamburg,HAM,15,[m]eatery bar + restaurant,4.5,809,Steakhouse,€€€€
+Hamburg,HAM,16,Das Dorf,4.5,342,German,€€ - €€€
+Hamburg,HAM,17,Quan Do,4.5,435,Asian,€
+Hamburg,HAM,18,Coast by East & Enoteca,4.5,579,Japanese,€€€€
+Hamburg,HAM,19,Burgerlich,4.5,641,American,€€ - €€€
+Hamburg,HAM,20,Restaurant Krameramtsstuben,4.5,494,Healthy,€€ - €€€
+Hamburg,HAM,21,ONO by Steffen Henssler,4.5,492,Japanese,€€€€
+Hamburg,HAM,22,Alt Helgolaender Fischerstube,4.5,454,German,€€ - €€€
+Hamburg,HAM,23,Restaurant Haerlin,5,264,French,€€€€
+Hamburg,HAM,24,Block House,4,791,American,€€ - €€€
+Hamburg,HAM,25,Frau Moller,4.5,757,German,€
+Hamburg,HAM,26,Seven Seas,4.5,155,French,€€€€
+Hamburg,HAM,27,Ristorante Il Buco,4.5,172,Italian,€€ - €€€
+Hamburg,HAM,28,Mutterland,4.5,341,German,€€ - €€€
+Hamburg,HAM,29,STOCKs Fischrestaurant,4.5,276,German,€€€€
+Hamburg,HAM,30,EAST Restaurant,4,845,Japanese,€€€€
+Hamburg,HAM,31,Hummer Pedersen,4.5,236,German,€€ - €€€
+Hamburg,HAM,32,Heldenplatz Restaurant,5,110,International,€€€€
+Hamburg,HAM,33,Deichgraf,4.5,225,German,€€ - €€€
+Hamburg,HAM,34,Bekaa Libanesisches Restaurant,4.5,365,Lebanese,€€ - €€€
+Hamburg,HAM,35,Dulf's Burger,4.5,251,American,€€ - €€€
+Hamburg,HAM,36,NIKKEI NINE,4.5,137,Japanese,€€€€
+Hamburg,HAM,37,Sagners Bistro Restaurant,4.5,162,German,€€ - €€€
+Hamburg,HAM,38,Braugasthaus Altes Madchen,4,567,German,€€ - €€€
+Hamburg,HAM,39,FARDi SYRIAN RESTAURANT,4.5,270,Lebanese,€€€€
+Hamburg,HAM,40,clouds - Heaven's Bar & Kitchen,4,672,French,€€€€
+Hamburg,HAM,41,Brauhaus Joh. Albrecht,4,1051,German,€€ - €€€
+Hamburg,HAM,42,Samui Thai Cuisine,4.5,193,Asian,€€ - €€€
+Hamburg,HAM,43,Freudenhaus,4,310,German,€€ - €€€
+Hamburg,HAM,44,Thamer's,4.5,183,German,€€ - €€€
+Hamburg,HAM,45,cantinetta ristorante & bar,4.5,239,Italian,€€ - €€€
+Hamburg,HAM,46,Block House,4,494,American,€€ - €€€
+Hamburg,HAM,47,Restaurant L'Orient,4.5,262,Lebanese,€€ - €€€
+Hamburg,HAM,48,Moe-Grill,4.5,142,German,€
+Hamburg,HAM,49,Heritage,4.5,182,French,€€€€
+Hamburg,HAM,50,VLET in der Speicherstadt,4.5,416,German,€€€€
+Hamburg,HAM,51,Il Forno - Pizza Autentica,4.5,128,Italian,€
+Hamburg,HAM,52,Le Plat Du Jour,4.5,370,French,€€ - €€€
+Hamburg,HAM,53,Hofbraeuhaus Hamburg,4,647,Brew Pub,€€ - €€€
+Hamburg,HAM,54,Delta Bistro,4.5,224,Steakhouse,€€€€
+Hamburg,HAM,55,Schlachterborse,4.5,445,Steakhouse,€€ - €€€
+Hamburg,HAM,56,Fischmarkt,4.5,373,German,€€ - €€€
+Hamburg,HAM,57,Strandperle,4.5,200,German,€€ - €€€
+Hamburg,HAM,58,Schiffer Borse,4,432,German,€€ - €€€
+Hamburg,HAM,59,Ti Breizh Haus der Bretagne,4.5,415,French,€€ - €€€
+Hamburg,HAM,60,TEOLINO,4.5,173,Italian,€€ - €€€
+Hamburg,HAM,61,Lieblingsplatz,4.5,140,German,€
+Hamburg,HAM,62,StrandPauli,4.5,294,German,€€ - €€€
+Hamburg,HAM,63,Neumann's Bistro & Weinbar,4.5,152,German,€€ - €€€
+Hamburg,HAM,64,Opitz,4.5,152,German,€€ - €€€
+Hamburg,HAM,65,King of India,4,339,Indian,€€ - €€€
+Hamburg,HAM,66,Cafe May,4.5,194,German,€
+Hamburg,HAM,67,Thai & Indisches Restaurant Curry lounge,4.5,173,Indian,€
+Hamburg,HAM,68,Nil,4.5,242,International,€€ - €€€
+Hamburg,HAM,69,Hard Rock Cafe,4,1327,American,€€ - €€€
+Hamburg,HAM,70,Max und Consorten,4.5,143,German,€
+Hamburg,HAM,71,ROK Rock Our Kitchen,4.5,99,Italian,€€ - €€€
+Hamburg,HAM,72,Edelcurry,4,268,German,€
+Hamburg,HAM,73,Gasthaus Heimathafen,4,217,Bar,€€ - €€€
+Hamburg,HAM,74,Old Commercial Room,4,470,German,€€ - €€€
+Hamburg,HAM,75,Apples Restaurant & Bar,4.5,321,European,€€€€
+Hamburg,HAM,76,Block Brau,4,793,French,€€ - €€€
+Hamburg,HAM,77,La Mirabelle,4.5,220,French,€€€€
+Hamburg,HAM,78,Saliba,4.5,265,Mediterranean,€€ - €€€
+Hamburg,HAM,79,Restaurant La Sepia,4,310,Seafood,€€ - €€€
+Hamburg,HAM,80,Casa Franco,4.5,227,Seafood,€€ - €€€
+Hamburg,HAM,81,Hummerstand Hanse-Viertel,4.5,101,Seafood,€€ - €€€
+Hamburg,HAM,82,Salt & Silver - Zentrale,5,34,Mexican,€€ - €€€
+Hamburg,HAM,83,Peter Pane,4,302,American,€€ - €€€
+Hamburg,HAM,84,Cornelia Poletto,4.5,109,Italian,€€€€
+Hamburg,HAM,85,Block House Gaensemarkt,4,379,Steakhouse,€€ - €€€
+Hamburg,HAM,86,Jacobs Restaurant,4.5,278,French,€€€€
+Hamburg,HAM,87,Cafe Rossio,4.5,72,Spanish,€€ - €€€
+Hamburg,HAM,88,Rach & Ritchy - Das Grillhaus,4.5,187,Steakhouse,€€€€
+Hamburg,HAM,89,Otto's Burger Grindelhof,4.5,114,German,€€ - €€€
+Hamburg,HAM,90,Atlantic Restaurant,4.5,189,Mediterranean,€€€€
+Hamburg,HAM,91,Peter Pane,4,281,American,€€ - €€€
+Hamburg,HAM,92,Restaurant Franziskaner,4,341,German,€€ - €€€
+Hamburg,HAM,93,La Famiglia,4,217,Italian,€€ - €€€
+Hamburg,HAM,94,La Chance,4.5,87,European,€€ - €€€
+Hamburg,HAM,95,Restaurante Porto,4,318,Seafood,€€ - €€€
+Hamburg,HAM,96,Carls Bistro,4,436,Cafe,€€€€
+Hamburg,HAM,97,NOM vietnamesisches Restaurant,5,59,Asian,€
+Hamburg,HAM,98,Marblau,4.5,115,Seafood,€€ - €€€
+Hamburg,HAM,99,Brooklyn Burger Bar,4,262,Bar,€€ - €€€
+Hamburg,HAM,100,Casse-Croute,4.5,226,French,€€ - €€€
+Helsinki,HEL,1,Finnjavel,4.5,305,European,€€€€
+Helsinki,HEL,2,Olo Ravintola,4.5,615,Contemporary,€€€€
+Helsinki,HEL,3,Restaurant Muru,4.5,449,European,€€€€
+Helsinki,HEL,4,Ragu,4.5,685,European,€€€€
+Helsinki,HEL,5,Ravintola Kuu,4.5,703,European,€€ - €€€
+Helsinki,HEL,6,Passio restaurant,4.5,556,European,€€€€
+Helsinki,HEL,7,Nokka,4.5,378,European,€€€€
+Helsinki,HEL,8,Konstan Molja,4.5,767,Vegetarian,€€ - €€€
+Helsinki,HEL,9,Juuri,4.5,929,European,€€€€
+Helsinki,HEL,10,Aino,4,527,European,€€ - €€€
+Helsinki,HEL,11,Restaurant Lappi,4,994,European,€€ - €€€
+Helsinki,HEL,12,Cafe Bar No 9,4,502,Bar,€
+Helsinki,HEL,13,Restaurant Savoy,4.5,351,French,€€€€
+Helsinki,HEL,14,Farang,4.5,568,Asian,€€€€
+Helsinki,HEL,15,Kappeli,4,1488,Cafe,€€ - €€€
+Helsinki,HEL,16,BLINIt Russian Restaurant,4.5,317,Russian,€
+Helsinki,HEL,17,Savotta,4,894,European,€€ - €€€
+Helsinki,HEL,18,Friends & Brgrs Helsinki,4,429,American,€
+Helsinki,HEL,19,Pompier Espa,4.5,134,European,€€ - €€€
+Helsinki,HEL,20,Bryggeri,4,484,Bar,€€ - €€€
+Helsinki,HEL,21,Gastrobar Emo,4.5,203,European,€€ - €€€
+Helsinki,HEL,22,Kuu Kuu,4,209,European,€€ - €€€
+Helsinki,HEL,23,Copas y Tapas,4.5,320,Scandinavian,€€€€
+Helsinki,HEL,24,Gaijin,4,580,Japanese,€€€€
+Helsinki,HEL,25,Juttutupa,4,429,Bar,€€ - €€€
+Helsinki,HEL,26,Finlandia Caviar,4.5,149,Seafood,€€€€
+Helsinki,HEL,27,Sea Horse,4,741,European,€€ - €€€
+Helsinki,HEL,28,Pizzeria Via Tribunali,4,149,Italian,€€ - €€€
+Helsinki,HEL,29,Strindberg,4,394,European,€€ - €€€
+Helsinki,HEL,30,Baskeri & Basso,4.5,94,European,€€ - €€€
+Helsinki,HEL,31,Restaurant Zetor,4,811,European,€€ - €€€
+Helsinki,HEL,32,Toca,4.5,117,Italian,€€ - €€€
+Helsinki,HEL,33,Vinkkeli,4.5,91,European,€€€€
+Helsinki,HEL,34,Ravintola Aino,4.5,179,European,€€ - €€€
+Helsinki,HEL,35,Hard Rock Cafe,4,790,American,€€ - €€€
+Helsinki,HEL,36,Sandro Kallio,4,383,Moroccan,€€ - €€€
+Helsinki,HEL,37,Kolme Kruunua,4.5,335,European,€€ - €€€
+Helsinki,HEL,38,Ask,4.5,213,European,€€€€
+Helsinki,HEL,39,Natura,4.5,83,European,€€€€
+Helsinki,HEL,40,Naughty Brgr,4,279,American,€€ - €€€
+Helsinki,HEL,41,Restaurant Kannas,4.5,167,European,€€ - €€€
+Helsinki,HEL,42,Restaurant Saaga,4,281,European,€€€€
+Helsinki,HEL,43,Restaurant Pastis,4,241,French,€€ - €€€
+Helsinki,HEL,44,Soppakeittio,4.5,98,Fast Food,€
+Helsinki,HEL,45,Boulevard Social,4,338,Mediterranean,€€€€
+Helsinki,HEL,46,Salve,4,522,Seafood,€€ - €€€
+Helsinki,HEL,47,Aito,4.5,174,European,€€ - €€€
+Helsinki,HEL,48,Restaurant Merimakasiini,4,237,Scandinavian,€€ - €€€
+Helsinki,HEL,49,Maya Bar & Grill,4,302,Brazilian,€€ - €€€
+Helsinki,HEL,50,Restaurant Gron,4.5,63,European,€€ - €€€
+Helsinki,HEL,51,Salutorget,4,356,European,€€ - €€€
+Helsinki,HEL,52,Everest,4,194,Indian,€€ - €€€
+Helsinki,HEL,53,Spis,4.5,142,European,€€€€
+Helsinki,HEL,54,Sushi Wagocoro,5,84,Japanese,€€ - €€€
+Helsinki,HEL,55,Hoku,4.5,212,Hawaiian,€€ - €€€
+Helsinki,HEL,56,Casa Italia,4.5,222,Italian,€€ - €€€
+Helsinki,HEL,57,Brasserie Kamp,4,448,European,€€€€
+Helsinki,HEL,58,Mamma Rosa,4,300,Italian,€€ - €€€
+Helsinki,HEL,59,Fafa's,4.5,211,Street Food,€
+Helsinki,HEL,60,Silvoplee,4.5,150,European,€€ - €€€
+Helsinki,HEL,61,Restaurant Karljohan,4.5,207,European,€€ - €€€
+Helsinki,HEL,62,Restaurant Elite,4,164,European,€€ - €€€
+Helsinki,HEL,63,Restaurant Fig,4.5,39,European,€€ - €€€
+Helsinki,HEL,64,Kuurna,4.5,221,European,€€ - €€€
+Helsinki,HEL,65,Oluthuone Kaisla,4.5,238,Bar,€€ - €€€
+Helsinki,HEL,66,Shelter,4.5,75,European,€€ - €€€
+Helsinki,HEL,67,Cafe Ursula,4,254,Cafe,€€ - €€€
+Helsinki,HEL,68,Sori Taproom,4.5,58,American,€€ - €€€
+Helsinki,HEL,69,Roster,4,190,European,€€ - €€€
+Helsinki,HEL,70,Restaurant Chef & Sommelier,4.5,229,European,€€€€
+Helsinki,HEL,71,Zucchini,4.5,122,European,€€ - €€€
+Helsinki,HEL,72,Manala,4,133,European,€€ - €€€
+Helsinki,HEL,73,Demo,4.5,218,European,€€€€
+Helsinki,HEL,74,Caverna Restaurant,4,103,Japanese,€€ - €€€
+Helsinki,HEL,75,Fisken pa Disken,4.5,81,European,€€ - €€€
+Helsinki,HEL,76,Restaurant Lyon,4.5,81,French,€€€€
+Helsinki,HEL,77,Skiffer Erottaja,4,159,Pizza,€€ - €€€
+Helsinki,HEL,78,Konnichiwa,4,176,Japanese,€€ - €€€
+Helsinki,HEL,79,Kosmos,4,297,European,€€ - €€€
+Helsinki,HEL,80,Bystro,4,107,Russian,€€ - €€€
+Helsinki,HEL,81,Bronda,4,432,European,€€€€
+Helsinki,HEL,82,Treffi Pub & Bistro,4,175,Bar,€€ - €€€
+Helsinki,HEL,83,Linnankellari,4,70,European,€€ - €€€
+Helsinki,HEL,84,Kuja Bar & Bistro,4,133,Bar,€€ - €€€
+Helsinki,HEL,85,Restaurant Loyly,4,237,European,€€ - €€€
+Helsinki,HEL,86,Toscanini,4,394,Italian,€€ - €€€
+Helsinki,HEL,87,Saslik,4,251,Russian,€€€€
+Helsinki,HEL,88,Nepalilainen Ravintola Mountain,4.5,103,Asian,€
+Helsinki,HEL,89,Elite,4,153,European,€€ - €€€
+Helsinki,HEL,90,Bellevue,4,156,European,€€€€
+Helsinki,HEL,91,Presto Trattoria,4.5,37,Italian,€€ - €€€
+Helsinki,HEL,92,Just Vege,4.5,69,Fast Food,€
+Helsinki,HEL,93,Ravintola Factory Aleksi,4,99,European,€
+Helsinki,HEL,94,Doner Harju,4,100,Middle Eastern,€
+Helsinki,HEL,95,Trattoria Sogno,4,206,Italian,€€ - €€€
+Helsinki,HEL,96,Kin Sushi,4,133,Japanese,€€ - €€€
+Helsinki,HEL,97,Lemon Grass,4.5,128,Asian,€€ - €€€
+Helsinki,HEL,98,Restaurant Lasipalatsi,4,153,European,€€ - €€€
+Helsinki,HEL,99,Atelje Finne,4.5,181,European,€€€€
+Helsinki,HEL,100,Lonkka,4,81,International,€€ - €€€
+Krakow,KRK,1,Gossip Cafe,5,171,Polish,€€ - €€€
+Krakow,KRK,2,Old Town Restaurant Wine & Bar,4.5,1092,European,€€ - €€€
+Krakow,KRK,3,Vegab,4.5,555,Diner,€
+Krakow,KRK,4,Nago Sushi & Sake,4.5,329,Japanese,€€€€
+Krakow,KRK,5,Restauracja Starka,4.5,4483,Polish,€€ - €€€
+Krakow,KRK,6,Przystanek Pierogarnia,4.5,592,Polish,€
+Krakow,KRK,7,Dobry Kumpel Pub,4.5,202,Pub,€€ - €€€
+Krakow,KRK,8,Trezo Restauracja,4.5,2081,Polish,€€ - €€€
+Krakow,KRK,9,Zielona Kuchnia,4.5,1044,Contemporary,€€ - €€€
+Krakow,KRK,10,Bianca,4.5,1350,Italian,€€ - €€€
+Krakow,KRK,11,Youmiko Sushi,4.5,544,Japanese,€€ - €€€
+Krakow,KRK,12,Taste of India,4.5,378,Indian,€€ - €€€
+Krakow,KRK,13,Albertina Restaurant & Wine,4.5,321,Mediterranean,€€€€
+Krakow,KRK,14,Sissi Restaurant & Wine,4.5,623,Italian,€€ - €€€
+Krakow,KRK,15,Introligatornia Smaku,4.5,1806,Polish,€€ - €€€
+Krakow,KRK,16,FAB Fusion,4.5,590,Polish,€€ - €€€
+Krakow,KRK,17,Fiorentina,4.5,285,Italian,€€ - €€€
+Krakow,KRK,18,Czarna Kaczka The Black Duck,4.5,1661,Polish,€€ - €€€
+Krakow,KRK,19,Qrudo Food & Wine,4.5,386,Polish,€€ - €€€
+Krakow,KRK,20,Cyrano de Bergerac,4.5,1250,French,€€€€
+Krakow,KRK,21,Movida Cocktail Bar,4.5,480,Italian,€€ - €€€
+Krakow,KRK,22,Restauracja Padre,4.5,760,Italian,€€ - €€€
+Krakow,KRK,23,Szara Ges,4.5,420,Polish,€€€€
+Krakow,KRK,24,Klimaty Poludnia,4.5,675,Polish,€€ - €€€
+Krakow,KRK,25,Amarylis Restaurant,4.5,427,Polish,€€€€
+Krakow,KRK,26,Aqua e Vino,4.5,883,Italian,€€ - €€€
+Krakow,KRK,27,Once Upon a Time,4.5,332,Polish,€€ - €€€
+Krakow,KRK,28,Corse,4.5,547,Seafood,€€ - €€€
+Krakow,KRK,29,Milkbar Tomasza,4.5,1416,Polish,€
+Krakow,KRK,30,Moaburger,4.5,1717,New Zealand,€
+Krakow,KRK,31,Pizza Garden,4.5,532,Italian,€€ - €€€
+Krakow,KRK,32,Leonardo,4.5,250,French,€€ - €€€
+Krakow,KRK,33,Pimiento Argentino Grill - Old Town,4.5,1489,Steakhouse,€€€€
+Krakow,KRK,34,Pod Aniolami,4.5,1759,Polish,€€ - €€€
+Krakow,KRK,35,Pasta Bar,4.5,338,Italian,€€ - €€€
+Krakow,KRK,36,Pod Baranem,4.5,2212,Polish,€€ - €€€
+Krakow,KRK,37,Pizzeria Cyklop,4.5,736,Italian,€€ - €€€
+Krakow,KRK,38,Cafe Camelot,4.5,1541,Polish,€€ - €€€
+Krakow,KRK,39,Smakolyki,4.5,496,Polish,€
+Krakow,KRK,40,Zazie Bistro,4.5,855,French,€€ - €€€
+Krakow,KRK,41,Moo Moo Steak and Burger Club,4.5,1474,American,€€ - €€€
+Krakow,KRK,42,Destino,4.5,575,Italian,€€ - €€€
+Krakow,KRK,43,Scandale Royal,4.5,538,Polish,€€ - €€€
+Krakow,KRK,44,La Grande Mamma,4.5,1028,Italian,€€ - €€€
+Krakow,KRK,45,Szalone Widelce Restaurant,4.5,430,Polish,€€ - €€€
+Krakow,KRK,46,Kuchnia u Doroty,4.5,1034,Polish,€
+Krakow,KRK,47,Boscaiola,4.5,956,Italian,€€ - €€€
+Krakow,KRK,48,Glonojad,4.5,667,Polish,€
+Krakow,KRK,49,Sasiedzi Restaurant,4.5,611,Polish,€€ - €€€
+Krakow,KRK,50,Morskie Oko,4.5,1682,Polish,€€ - €€€
+Krakow,KRK,51,Miodova Restaurant,4.5,539,Polish,€€ - €€€
+Krakow,KRK,52,Pimiento Argentino Grill,4.5,257,Steakhouse,€€ - €€€
+Krakow,KRK,53,Farina Restaurant,4.5,677,Seafood,€€€€
+Krakow,KRK,54,Szara,4.5,1139,Polish,€€ - €€€
+Krakow,KRK,55,Od Jajka Do Jablka,5,194,International,€€ - €€€
+Krakow,KRK,56,Trattoria Mamma Mia,4.5,1374,Italian,€€ - €€€
+Krakow,KRK,57,Miod Malina,4.5,2197,Polish,€€ - €€€
+Krakow,KRK,58,Sioux,4.5,1330,Steakhouse,€€ - €€€
+Krakow,KRK,59,Bistro Bene by Tomasz Lesniak,5,89,Bar,€€ - €€€
+Krakow,KRK,60,Guliwer,4.5,539,Polish,€€ - €€€
+Krakow,KRK,61,Trattoria Soprano,4.5,483,Italian,€€ - €€€
+Krakow,KRK,62,Plac Nowy 1,4.5,891,Italian,€€ - €€€
+Krakow,KRK,63,Pesto Ristorante,4.5,437,Polish,€€ - €€€
+Krakow,KRK,64,GoScinna Chata,4.5,645,Polish,€€ - €€€
+Krakow,KRK,65,Pierogarnia Krakowiacy,4.5,521,Polish,€
+Krakow,KRK,66,Greg & Tom Beer House Pub,4.5,595,Polish,€€ - €€€
+Krakow,KRK,67,PINO,4.5,842,Italian,€€ - €€€
+Krakow,KRK,68,Szara Kazimierz,4.5,654,Polish,€€ - €€€
+Krakow,KRK,69,Kogel Mogel Restaurant,4.5,1035,Polish,€€ - €€€
+Krakow,KRK,70,Wierzynek Restaurant,4.5,965,Polish,€€€€
+Krakow,KRK,71,Papryczki 5,4.5,530,Italian,€€ - €€€
+Krakow,KRK,72,Piano Rouge,4.5,803,Polish,€€ - €€€
+Krakow,KRK,73,Ed Red Steakhouse,4.5,904,Steakhouse,€€ - €€€
+Krakow,KRK,74,Manzana,4.5,765,American,€€ - €€€
+Krakow,KRK,75,Kielbaski pod hala targowa,4.5,274,Polish,€
+Krakow,KRK,76,Chimera,4.5,813,Polish,€
+Krakow,KRK,77,Galicyjska Restaurant,4.5,450,Polish,€€ - €€€
+Krakow,KRK,78,Nolio,4.5,283,Italian,€€ - €€€
+Krakow,KRK,79,Krowarzywa Vegan Burger,4.5,295,Diner,€
+Krakow,KRK,80,TI AMO TI - Pizzeria & Trattoria,4.5,882,Seafood,€
+Krakow,KRK,81,Morela,4.5,401,Polish,€€ - €€€
+Krakow,KRK,82,Nine Kitchen Sushi & Asian Fusion,4.5,295,European,€€ - €€€
+Krakow,KRK,83,Bistro 11 Food & Wine,4.5,424,Polish,€€ - €€€
+Krakow,KRK,84,Kolanko No 6,4,492,Mediterranean,€€ - €€€
+Krakow,KRK,85,M22 Beef'N'Chips,5,114,American,€
+Krakow,KRK,86,Garden Restaurant,4.5,150,International,€€ - €€€
+Krakow,KRK,87,Chata,4.5,1112,Polish,€
+Krakow,KRK,88,Pod Sloncem,4.5,448,Polish,€€ - €€€
+Krakow,KRK,89,Rzeznia - Ribs on fire Restaurant,4.5,424,American,€€ - €€€
+Krakow,KRK,90,Nota Resto by Tomasz Lesniak,4.5,124,Polish,€€ - €€€
+Krakow,KRK,91,Bottiglieria 1881,5,149,European,€€€€
+Krakow,KRK,92,Enoteka Pergamin,4.5,287,Polish,€€ - €€€
+Krakow,KRK,93,Bombonierka,4.5,404,Polish,€€ - €€€
+Krakow,KRK,94,Moment Resto Bar & Music,4.5,438,Polish,€€ - €€€
+Krakow,KRK,95,Il Calzone,4.5,274,Italian,€€ - €€€
+Krakow,KRK,96,Polakowski Self Service Restaurant,4,730,Polish,€
+Krakow,KRK,97,Bar Mleczny,4,436,Polish,€
+Krakow,KRK,98,La Campana,4,642,Italian,€€ - €€€
+Krakow,KRK,99,Bar Italiano - Pizzeria,4.5,523,Italian,€€ - €€€
+Krakow,KRK,100,Singer,4.5,335,Pub,€
+Lisbon,LIS,1,Estamine Art Food Drink,5,327,Bar,€
+Lisbon,LIS,2,BA Wine Bar do Bairro Alto,4.5,1526,Portuguese,€€ - €€€
+Lisbon,LIS,3,La Buvette da Mae d'Agua,5,177,French,€€ - €€€
+Lisbon,LIS,4,Ha Tapas no Mercado!!!,5,423,European,€
+Lisbon,LIS,5,O Vinhaca Tapas & Vinhos,5,235,Seafood,€€ - €€€
+Lisbon,LIS,6,Restaurante Mili,4.5,813,Indian,€
+Lisbon,LIS,7,Leo,4.5,363,Indian,€€ - €€€
+Lisbon,LIS,8,Augusto Lisboa,4.5,706,European,€€ - €€€
+Lisbon,LIS,9,Crisfama,4.5,795,Mediterranean,€
+Lisbon,LIS,10,A Venda Lusitana,4.5,548,Mediterranean,€€ - €€€
+Lisbon,LIS,11,Casa Nepalesa,4.5,1140,Indian,€€ - €€€
+Lisbon,LIS,12,Sanskar Nepal,4.5,296,Indian,€
+Lisbon,LIS,13,Come Prima Restaurante Italiano,4.5,1721,Italian,€€ - €€€
+Lisbon,LIS,14,Salsa Rosa Bistro,4.5,948,Contemporary,€€ - €€€
+Lisbon,LIS,15,Lisboete Restaurante,4.5,418,Mediterranean,€€€€
+Lisbon,LIS,16,Maruto Bar & Bistro,4.5,596,Bar,€€ - €€€
+Lisbon,LIS,17,Il Covo,4.5,359,Italian,€€ - €€€
+Lisbon,LIS,18,Restaurante Ti'Ascencao,4.5,186,Mediterranean,€€ - €€€
+Lisbon,LIS,19,Santa Clara dos Cogumelos,4.5,421,Italian,€€ - €€€
+Lisbon,LIS,20,Clube de Jornalistas,4.5,2110,Mediterranean,€€ - €€€
+Lisbon,LIS,21,Frade dos Mares,4.5,2253,Seafood,€€ - €€€
+Lisbon,LIS,22,Casa da Comida,4.5,546,Mediterranean,€€€€
+Lisbon,LIS,23,Lisbon Winery,4.5,445,Portuguese,€€ - €€€
+Lisbon,LIS,24,Bistro Gato Pardo,4.5,681,Mediterranean,€€ - €€€
+Lisbon,LIS,25,Mini Bar Teatro,4.5,1032,European,€€€€
+Lisbon,LIS,26,Taberna Sal Grosso,4.5,1136,Mediterranean,€€ - €€€
+Lisbon,LIS,27,da Prata 52,4.5,1842,Mediterranean,€€ - €€€
+Lisbon,LIS,28,IIIMPAR,4.5,392,Mediterranean,€€ - €€€
+Lisbon,LIS,29,Restaurante India Gate,4.5,716,Indian,€€ - €€€
+Lisbon,LIS,30,Cantinho Lusitano,4.5,1232,Mediterranean,€€ - €€€
+Lisbon,LIS,31,Restaurante Alma,4.5,466,Mediterranean,€€€€
+Lisbon,LIS,32,Banca de Pau,4.5,396,Mediterranean,€€ - €€€
+Lisbon,LIS,33,Cultura do Hamburguer,4.5,1751,American,€
+Lisbon,LIS,34,Floresta Das Escadinhas,4.5,579,Mediterranean,€
+Lisbon,LIS,35,Belcanto,4.5,1664,Portuguese,€€€€
+Lisbon,LIS,36,Organi Chiado,4.5,383,Mediterranean,€€ - €€€
+Lisbon,LIS,37,Frangasqueira Nacional,4.5,625,Barbecue,€
+Lisbon,LIS,38,Agulha No Palheiro,4.5,210,Mediterranean,€€ - €€€
+Lisbon,LIS,39,Enoteca de Belem,4.5,1173,Mediterranean,€€ - €€€
+Lisbon,LIS,40,Wine Bar do Castelo,4.5,1298,Portuguese,€€ - €€€
+Lisbon,LIS,41,Alto do Bairro,4.5,384,Fusion,€
+Lisbon,LIS,42,Solar 31,4.5,1972,European,€€ - €€€
+Lisbon,LIS,43,Cafe do Rio - Gourmet Burger,4.5,1336,Portuguese,€€ - €€€
+Lisbon,LIS,44,Bairrices - Tapas,4.5,246,Mediterranean,€€ - €€€
+Lisbon,LIS,45,Restaurante Sucolento,4.5,290,Mediterranean,€
+Lisbon,LIS,46,As Velhas,4.5,782,Mediterranean,€€ - €€€
+Lisbon,LIS,47,Churrasqueira da Paz,4.5,707,Mediterranean,€
+Lisbon,LIS,48,The B Temple,4.5,479,American,€€ - €€€
+Lisbon,LIS,49,Os Bons Malandros,4.5,335,Mediterranean,€€ - €€€
+Lisbon,LIS,50,Pesqueiro 25,4.5,283,Seafood,€€ - €€€
+Lisbon,LIS,51,Xapuri,4.5,1046,Contemporary,€€ - €€€
+Lisbon,LIS,52,Lateral Cais Sodre,4.5,484,Mediterranean,€€ - €€€
+Lisbon,LIS,53,The CorkScrew Wine Bar,4.5,726,Mediterranean,€€ - €€€
+Lisbon,LIS,54,Gin Lovers & LESS,4.5,266,International,€€ - €€€
+Lisbon,LIS,55,Petisqueira Conqvistador,4.5,294,Portuguese,€
+Lisbon,LIS,56,Sommelier Lisbon,4.5,987,Steakhouse,€€€€
+Lisbon,LIS,57,Restaurante Momento,4.5,642,Seafood,€€ - €€€
+Lisbon,LIS,58,La Vita e Bella,4.5,272,Italian,€€ - €€€
+Lisbon,LIS,59,Tasca Mastai,5,198,Bar,€
+Lisbon,LIS,60,Leitaria Camponeza,4.5,1111,Mediterranean,€€ - €€€
+Lisbon,LIS,61,Lucimar,4.5,448,Portuguese,€
+Lisbon,LIS,62,Tapa bucho,4.5,682,Mediterranean,€€ - €€€
+Lisbon,LIS,63,Sr. Fado de Alfama,4.5,1072,Portuguese,€€ - €€€
+Lisbon,LIS,64,Taberna do Vilarinho,4.5,495,Mediterranean,€€ - €€€
+Lisbon,LIS,65,Restaurante MOMA,4.5,645,Seafood,€€ - €€€
+Lisbon,LIS,66,O Arco,4.5,961,Seafood,€€ - €€€
+Lisbon,LIS,67,A Cevicheria,4.5,1414,Contemporary,€€ - €€€
+Lisbon,LIS,68,Lisboa Tu & Eu,4.5,1074,Portuguese,€€ - €€€
+Lisbon,LIS,69,Feitoria Restaurant & Wine Bar,4.5,560,European,€€€€
+Lisbon,LIS,70,Canto da Vila,4.5,1103,Mediterranean,€€ - €€€
+Lisbon,LIS,71,Ao 26 Vegan Food Project,4.5,257,European,€€ - €€€
+Lisbon,LIS,72,Duque Restaurante - Lisboa,4.5,202,Mediterranean,€€ - €€€
+Lisbon,LIS,73,Floresta do Salitre,4.5,644,Seafood,€€ - €€€
+Lisbon,LIS,74,Hamburgaria a Gina,4.5,235,American,€
+Lisbon,LIS,75,Volver de Carne Y Alma,4.5,470,Portuguese,€€€€
+Lisbon,LIS,76,Restaurante Forninho Saloio,4.5,652,Mediterranean,€€ - €€€
+Lisbon,LIS,77,Restaurante Sacramento,4.5,3874,Mediterranean,€€ - €€€
+Lisbon,LIS,78,Os Jeronimos,4.5,1312,Seafood,€€ - €€€
+Lisbon,LIS,79,Taberna Anti-Dantas,4.5,495,Mediterranean,€€ - €€€
+Lisbon,LIS,80,Restaurante Vegetariano Psi,4.5,500,Indian,€€ - €€€
+Lisbon,LIS,81,rosa da rua,4.5,794,Mediterranean,€
+Lisbon,LIS,82,Rodas Restaurant,4.5,369,Mediterranean,€
+Lisbon,LIS,83,As Salgadeiras Restaurante,4.5,1214,Mediterranean,€€€€
+Lisbon,LIS,84,Oficina do Duque,4.5,911,Mediterranean,€€ - €€€
+Lisbon,LIS,85,Sr. Lisboa,4.5,322,Mediterranean,€€ - €€€
+Lisbon,LIS,86,JNcQUOI,4.5,273,International,€€€€
+Lisbon,LIS,87,Forno d'Oro,4.5,1217,Pizza,€€ - €€€
+Lisbon,LIS,88,Taberna Moderna,4.5,670,Mediterranean,€€ - €€€
+Lisbon,LIS,89,Quermesse Restaurante,4.5,1622,Mediterranean,€€ - €€€
+Lisbon,LIS,90,O Chiado,4.5,1053,Portuguese,€€ - €€€
+Lisbon,LIS,91,The Old Pharmacy,4.5,681,European,€€ - €€€
+Lisbon,LIS,92,Restaurant D'Bacalhau,4.5,1940,Seafood,€€ - €€€
+Lisbon,LIS,93,Gandhi Palace,4.5,445,Indian,€€ - €€€
+Lisbon,LIS,94,Claras em Castelo,4.5,1231,Mediterranean,€€ - €€€
+Lisbon,LIS,95,El Rei D'frango,4.5,415,European,€
+Lisbon,LIS,96,Bread4You Bistro,4.5,1035,Italian,€
+Lisbon,LIS,97,Restaurante Comptoir Parisien,4.5,558,French,€€ - €€€
+Lisbon,LIS,98,Restaurante Laurentina o Rei do Bacalhau,4.5,3404,Mediterranean,€€ - €€€
+Lisbon,LIS,99,Alpendre,4.5,1038,Seafood,€€ - €€€
+Lisbon,LIS,100,Farol de Santa Luzia,4.5,728,Seafood,€€ - €€€
+Ljubljana,LJU,1,Monstera bistro,4.5,303,European,€€ - €€€
+Ljubljana,LJU,2,Restavracija Strelec,4.5,480,European,€€€€
+Ljubljana,LJU,3,Luda,4.5,384,Contemporary,€€ - €€€
+Ljubljana,LJU,4,Odprta Kuhna,4.5,194,Japanese,€
+Ljubljana,LJU,5,Valvasor,4.5,911,Mediterranean,€€€€
+Ljubljana,LJU,6,Pri Skofu,4.5,360,European,€€ - €€€
+Ljubljana,LJU,7,Pop's Place,4.5,1387,American,€€ - €€€
+Ljubljana,LJU,8,Julija,4.5,2533,Italian,€€ - €€€
+Ljubljana,LJU,9,Robba,4.5,816,European,€€ - €€€
+Ljubljana,LJU,10,Hisa Pod Gradom restaurant,4.5,521,Mediterranean,€€ - €€€
+Ljubljana,LJU,11,Klobasarna,4.5,475,Fast Food,€
+Ljubljana,LJU,12,Le Petit cafe,4.5,600,French,€€ - €€€
+Ljubljana,LJU,13,Kralj Zara,4.5,509,American,€€ - €€€
+Ljubljana,LJU,14,Fari's Delice,5,147,Fast Food,€
+Ljubljana,LJU,15,Most,4.5,756,Mediterranean,€€ - €€€
+Ljubljana,LJU,16,Druga Violina,4.5,1058,European,€
+Ljubljana,LJU,17,Pivnica Union,4.5,517,Steakhouse,€€ - €€€
+Ljubljana,LJU,18,Restaurant Compa,4.5,308,Steakhouse,€€ - €€€
+Ljubljana,LJU,19,Cajna hisa,4.5,252,Cafe,€€ - €€€
+Ljubljana,LJU,20,Restavracija Cubo,4.5,228,Seafood,€€€€
+Ljubljana,LJU,21,Spajza,4.5,981,Seafood,€€€€
+Ljubljana,LJU,22,Abi Falafel,4.5,399,Middle Eastern,€
+Ljubljana,LJU,23,Marley & Me,4.5,1182,Mediterranean,€€ - €€€
+Ljubljana,LJU,24,Pizzeria FoculuS,4,596,Italian,€€ - €€€
+Ljubljana,LJU,25,Sarajevo '84,4,723,Barbecue,€
+Ljubljana,LJU,26,Gostilna As,4.5,668,Seafood,€€€€
+Ljubljana,LJU,27,Vodnikov Hram,4,713,European,€€ - €€€
+Ljubljana,LJU,28,Vinoteka Movia,4.5,219,European,€€ - €€€
+Ljubljana,LJU,29,Manna,4.5,490,European,€€€€
+Ljubljana,LJU,30,Ek Bistro,4.5,87,Cafe,€€ - €€€
+Ljubljana,LJU,31,Vineria Del Ponte,5,81,Wine Bar,€€ - €€€
+Ljubljana,LJU,32,TaBar,4.5,295,Mediterranean,€€ - €€€
+Ljubljana,LJU,33,Gostilna Na gradu,4,445,European,€€ - €€€
+Ljubljana,LJU,34,Sorbara Steak House,4.5,289,Steakhouse,€€ - €€€
+Ljubljana,LJU,35,Hood Burger,4.5,259,American,€
+Ljubljana,LJU,36,Fany & Mary,4,325,American,€
+Ljubljana,LJU,37,Gostilna Dela,4.5,127,Mediterranean,€
+Ljubljana,LJU,38,Das ist Valter,4.5,215,Barbecue,€
+Ljubljana,LJU,39,Wine bar Suklje,5,42,European,€€ - €€€
+Ljubljana,LJU,40,AS Aperitivo,4,296,Italian,€€ - €€€
+Ljubljana,LJU,41,Slovenska Hisa,4.5,197,Bar,€€ - €€€
+Ljubljana,LJU,42,Sushimama,4,223,Japanese,€€ - €€€
+Ljubljana,LJU,43,Zbornica,5,30,International,€
+Ljubljana,LJU,44,Gostilnica 5-6 Kg,4.5,277,Pizza,€€ - €€€
+Ljubljana,LJU,45,Lars&Sven Burgers,4.5,210,American,€€ - €€€
+Ljubljana,LJU,46,Gujzina,4,693,European,€€ - €€€
+Ljubljana,LJU,47,Pizzerija Trta,4.5,227,Italian,€€ - €€€
+Ljubljana,LJU,48,Mediterraneo,4,251,Italian,€€ - €€€
+Ljubljana,LJU,49,Rio Momo,4.5,134,Barbecue,€€ - €€€
+Ljubljana,LJU,50,Azur - tratorija s picami,4.5,156,Italian,€€ - €€€
+Ljubljana,LJU,51,Verace,4,161,Italian,€€ - €€€
+Ljubljana,LJU,52,Gostilna Cad,4,234,Barbecue,€€ - €€€
+Ljubljana,LJU,53,Cafe Romeo,4,413,Mexican,€€ - €€€
+Ljubljana,LJU,54,Atelje,4.5,76,Steakhouse,€€€€
+Ljubljana,LJU,55,Dvorni Bar,4,199,Bar,€€ - €€€
+Ljubljana,LJU,56,Skuhna,4.5,57,African,€€ - €€€
+Ljubljana,LJU,57,Gostilna Sestica,3.5,634,European,€€ - €€€
+Ljubljana,LJU,58,Vander Restaurant,4.5,195,European,€€ - €€€
+Ljubljana,LJU,59,Gostilna Jakob Franc,4.5,60,European,€€ - €€€
+Ljubljana,LJU,60,Zaziv Vegan Bistro,4.5,87,European,€
+Ljubljana,LJU,61,Dezela Okusov,4.5,99,Bar,€€ - €€€
+Ljubljana,LJU,62,Restavracija Valentin,4,361,Seafood,€€ - €€€
+Ljubljana,LJU,63,Nobel burek,4,120,Fast Food,€
+Ljubljana,LJU,64,Organic Garden,4.5,78,Fast Food,€
+Ljubljana,LJU,65,Paninoteka Restaurant,4,528,Italian,€€ - €€€
+Ljubljana,LJU,66,Gostilna Sokol Ljubljana,3.5,2006,European,€€ - €€€
+Ljubljana,LJU,67,Kolibri Cocktail Bar,5,32,American,€€ - €€€
+Ljubljana,LJU,68,Mala Terasa,5,38,European,€
+Ljubljana,LJU,69,Vino & Ribe,4,104,Seafood,€
+Ljubljana,LJU,70,DA BU DA Asian Fusion and Bar,4,161,Asian,€€ - €€€
+Ljubljana,LJU,71,Libanonske meze in drugi uzitki,4.5,146,Lebanese,€€ - €€€
+Ljubljana,LJU,72,Gostilna Kaval,4,160,Italian,€€ - €€€
+Ljubljana,LJU,73,Loving Hut Ljubljana Center,4.5,100,Fast Food,€
+Ljubljana,LJU,74,Gostilna Kovac,4.5,63,European,€€ - €€€
+Ljubljana,LJU,75,Shambala,4,181,Thai,€€ - €€€
+Ljubljana,LJU,76,Lockal,4.5,43,Bar,€€ - €€€
+Ljubljana,LJU,77,Namaste Indian Restaurant,4,287,Indian,€€ - €€€
+Ljubljana,LJU,78,Slon 1552,4,80,European,€€ - €€€
+Ljubljana,LJU,79,Italijanska Restavracija Mirje,4.5,44,Italian,€€ - €€€
+Ljubljana,LJU,80,Restavracija Osterija Pr'Noni,4.5,113,Seafood,€€ - €€€
+Ljubljana,LJU,81,Sato Bento,4.5,35,Japanese,€€ - €€€
+Ljubljana,LJU,82,OnThai,4.5,52,Asian,€€ - €€€
+Ljubljana,LJU,83,JB,4,200,European,€€€€
+Ljubljana,LJU,84,Taj Mahal restaurant,4,136,Indian,€€ - €€€
+Ljubljana,LJU,85,Tokyo Piknik,4,208,Japanese,€€ - €€€
+Ljubljana,LJU,86,Aroma,3.5,320,Italian,€€ - €€€
+Ljubljana,LJU,87,Bistro Zvezda,4.5,191,Mediterranean,€€ - €€€
+Ljubljana,LJU,88,Zlata Ribica,3.5,603,Mediterranean,€€ - €€€
+Ljubljana,LJU,89,Street Food Valentin,4.5,62,Seafood,€
+Ljubljana,LJU,90,Barbarella Arkade Bistro (Vegan and Vegeterian),4.5,33,Cafe,€€ - €€€
+Ljubljana,LJU,91,Gostilna Pod Vrbo,4.5,47,Slovenian,€€ - €€€
+Ljubljana,LJU,92,"Katrca, Hisa piva in kulinarike",4.5,101,Barbecue,€€ - €€€
+Ljubljana,LJU,93,Cantina Restaurantes Mexicana,4,450,Mexican,€€ - €€€
+Ljubljana,LJU,94,Joe Pena's Cantina y Bar,4,147,Mexican,€€ - €€€
+Ljubljana,LJU,95,Mexico Mediterra Place,4.5,42,Mexican,€€ - €€€
+Ljubljana,LJU,96,Pizzeria Osmica,4,110,Italian,€€ - €€€
+Ljubljana,LJU,97,Maru Japonska Restavracija Ljubljana,4.5,66,Japanese,€€ - €€€
+Ljubljana,LJU,98,Hood Burger Center,4,56,American,€
+Ljubljana,LJU,99,Gostilnica in pivnica SISKA,4.5,23,Bar,€€ - €€€
+Ljubljana,LJU,100,Soba 102,4,139,European,€€ - €€€
+London,LON,1,R & H cafe gallery,5,146,Cafe,€€ - €€€
+London,LON,2,Osteria Romana,5,112,Italian,€€€€
+London,LON,3,The Oystermen Seafood Bar & Kitchen,5,255,Seafood,€€ - €€€
+London,LON,4,Liman Restaurant,5,945,Mediterranean,€€ - €€€
+London,LON,5,Holy Smoke,5,433,International,€€ - €€€
+London,LON,6,The Ledbury,4.5,2535,French,€€€€
+London,LON,7,The Clink Restaurant,5,588,European,€€ - €€€
+London,LON,8,Bar 61 Restaurant,5,1730,Mediterranean,€€ - €€€
+London,LON,9,Taste Of Nawab,5,520,Asian,€€ - €€€
+London,LON,10,Pizza Union Aldgate,5,369,Italian,€
+London,LON,11,Core by Clare Smyth,5,99,French,€€€€
+London,LON,12,taNgia,5,539,Moroccan,€€ - €€€
+London,LON,13,Gastronhome,5,572,French,€€€€
+London,LON,14,Fishers Fish and Chips,4.5,647,Seafood,€
+London,LON,15,Zeret Kitchen,5,474,African,€€ - €€€
+London,LON,16,The Golden Chippy,5,1015,Seafood,€
+London,LON,17,The Five Fields,5,1129,European,€€€€
+London,LON,18,Pizza Union Spitalfields,4.5,1211,Pizza,€
+London,LON,19,Peninsula Restaurant,5,228,European,€€€€
+London,LON,20,Kibele Restaurant & Bar,5,273,Mediterranean,€€ - €€€
+London,LON,21,Fiddieâ€™s Italian Kitchen,4.5,955,Italian,€€ - €€€
+London,LON,22,L'oro di Napoli,4.5,425,Italian,€
+London,LON,23,The Prince of Wales,4.5,401,Bar,€€ - €€€
+London,LON,24,Ormer Mayfair,4.5,318,European,€€ - €€€
+London,LON,25,Marianne Restaurant,4.5,510,French,€€€€
+London,LON,26,Chez Elles,4.5,464,Wine Bar,€€ - €€€
+London,LON,27,La Trompette,4.5,866,French,€€€€
+London,LON,28,TortelliniCup London,4.5,841,Italian,€
+London,LON,29,Raison D'etre,4.5,472,French,€
+London,LON,30,Wolkite,4.5,405,African,€
+London,LON,31,Anjanaas,4.5,288,Indian,€€ - €€€
+London,LON,32,Humble Grape,4.5,642,European,€€ - €€€
+London,LON,33,Andy's Greek Taverna,4.5,815,Seafood,€€ - €€€
+London,LON,34,MezzoRoma Lounge,4.5,284,Italian,€€ - €€€
+London,LON,35,Baileys Fish and Chips,4.5,1551,Seafood,€
+London,LON,36,Humble Grape,4.5,265,Mediterranean,€€ - €€€
+London,LON,37,Proud Cabaret Camden,4.5,1444,British,€€ - €€€
+London,LON,38,Mere,4.5,236,European,€€€€
+London,LON,39,Seven Park Place,4.5,630,French,€€€€
+London,LON,40,E Pellicci,4.5,624,Italian,€
+London,LON,41,Iran Restaurant,4.5,1550,Middle Eastern,€€ - €€€
+London,LON,42,The Sitara,4.5,461,Indian,€€ - €€€
+London,LON,43,The Foyer At Claridge's,4.5,1263,European,€€€€
+London,LON,44,Typing Room,4.5,459,European,€€€€
+London,LON,45,Awesome Thai,4.5,491,Asian,€€ - €€€
+London,LON,46,Bel Canto Restaurant,4.5,1059,French,€€€€
+London,LON,47,Leicester Square Kitchen,4.5,518,Mexican,€€€€
+London,LON,48,Afternoon Tea at Claridge's,4.5,888,British,€€€€
+London,LON,49,CERU,4.5,323,Lebanese,€€ - €€€
+London,LON,50,Wiltons,4.5,678,Seafood,€€€€
+London,LON,51,Hankies Cafe,4.5,216,Indian,€€ - €€€
+London,LON,52,Pied a Terre,4.5,971,French,€€€€
+London,LON,53,Alexander The Great,4.5,1103,Mediterranean,€€ - €€€
+London,LON,54,Pizza Union King's Cross,4.5,941,Italian,€
+London,LON,55,Medlar,4.5,840,French,€€€€
+London,LON,56,Lokkanta Meze & Barbeque,4.5,589,Mediterranean,€€ - €€€
+London,LON,57,Wahaca Brixton,4.5,323,Mexican,€€ - €€€
+London,LON,58,The Calabash of Culture,5,196,Cafe,€
+London,LON,59,Launceston Place,4.5,813,French,€€€€
+London,LON,60,Yuu Kitchen,4.5,556,Taiwanese,€€ - €€€
+London,LON,61,Afternoon Tea at One Aldwych,4.5,648,British,€€€€
+London,LON,62,The Goring Dining Room,4.5,747,European,€€€€
+London,LON,63,Mr Piadina,4.5,386,Italian,€
+London,LON,64,Rox Burger - Lewisham,4.5,447,American,€
+London,LON,65,Le Gavroche,4.5,3161,French,€€€€
+London,LON,66,Green Pea,4.5,750,Irish,€€ - €€€
+London,LON,67,Restaurant Gordon Ramsay,4.5,2761,French,€€€€
+London,LON,68,Picture Fitzrovia,4.5,696,European,€€ - €€€
+London,LON,69,Flat Iron Denmark Street,4.5,1282,Steakhouse,€€ - €€€
+London,LON,70,Smiths Brasserie - Smiths Wapping,4.5,1218,British,€€€€
+London,LON,71,Indian Express. West Kensington,4.5,872,Indian,€€ - €€€
+London,LON,72,The George on the Strand,4.5,487,Gastropub,€€ - €€€
+London,LON,73,Texture,4.5,723,European,€€€€
+London,LON,74,Mattarello Restaurant,4.5,502,Italian,€€ - €€€
+London,LON,75,Clos Maggiore,4.5,3289,French,€€€€
+London,LON,76,The Andover Arms,4.5,1174,Bar,€€ - €€€
+London,LON,77,Park Terrace Restaurant,4.5,707,European,€€€€
+London,LON,78,Afternoon Tea at The Library Lounge,4.5,553,British,€€ - €€€
+London,LON,79,Gauthier Soho,4.5,1158,French,€€€€
+London,LON,80,Chez Bruce,4.5,1314,French,€€€€
+London,LON,81,Angler,4.5,766,Seafood,€€€€
+London,LON,82,Roux at Parliament Square,4.5,838,French,€€€€
+London,LON,83,Pappa Roma,4.5,324,Italian,€€ - €€€
+London,LON,84,Nipa Thai,4.5,576,Asian,€€€€
+London,LON,85,Omnino Leadenhall,4.5,381,Steakhouse,€€ - €€€
+London,LON,86,Flat Iron Curtain Road,4.5,229,Steakhouse,€€ - €€€
+London,LON,87,Regency Cafe,4.5,1002,Cafe,€
+London,LON,88,Sketch Lecture Room and Library,4.5,816,French,€€€€
+London,LON,89,Roux at The Landau,4.5,1825,French,€€€€
+London,LON,90,Flat Iron Covent Garden,4.5,1971,Steakhouse,€€€€
+London,LON,91,MAMIE'S,4.5,446,French,€
+London,LON,92,Cappadocia,4.5,229,Cafe,€
+London,LON,93,Goodman Canary Wharf,4.5,703,American,€€€€
+London,LON,94,Strut and Cluck,4.5,186,Mediterranean,€€ - €€€
+London,LON,95,Cookhouse Joe,4.5,848,Lebanese,€
+London,LON,96,Italian Pizza Connection,4.5,1103,Italian,€€ - €€€
+London,LON,97,Kazan Kitchen,4.5,414,Mediterranean,€€ - €€€
+London,LON,98,About Thyme Restaurant,4.5,800,Mediterranean,€€ - €€€
+London,LON,99,Town House,4.5,460,British,€€ - €€€
+London,LON,100,The Ritz Hotel Restaurant,4.5,1859,French,€€€€
+Luxembourg,LUX,1,Lux'Burgers,4.5,280,American,€€ - €€€
+Luxembourg,LUX,2,Clairefontaine,4.5,543,French,€€€€
+Luxembourg,LUX,3,Cyrano,4.5,258,Italian,€€ - €€€
+Luxembourg,LUX,4,Le Sud,4.5,613,French,€€€€
+Luxembourg,LUX,5,Athena Restaurant Grec,4.5,589,Mediterranean,€€ - €€€
+Luxembourg,LUX,6,Ambrosia,4.5,291,Mediterranean,€€ - €€€
+Luxembourg,LUX,7,Delirio Culinario,4,652,Italian,€€ - €€€
+Luxembourg,LUX,8,La Porte du Bengale,4.5,360,Indian,€€ - €€€
+Luxembourg,LUX,9,Batucada,4.5,350,Grill,€€ - €€€
+Luxembourg,LUX,10,Essenza,4.5,367,Bar,€€ - €€€
+Luxembourg,LUX,11,Brasserie Guillaume,4,607,French,€€ - €€€
+Luxembourg,LUX,12,Bistro Podenco,4.5,434,Mediterranean,€€ - €€€
+Luxembourg,LUX,13,Orchidee,4.5,407,Indian,€€ - €€€
+Luxembourg,LUX,14,Matelots,4.5,153,Bar,€€ - €€€
+Luxembourg,LUX,15,RESTAURANT PIZZERIA BELLA NAPOLI,4,556,Italian,€€ - €€€
+Luxembourg,LUX,16,Yamayu Santatsu,4,385,Japanese,€€ - €€€
+Luxembourg,LUX,17,La Boucherie,4,607,French,€€ - €€€
+Luxembourg,LUX,18,Fu Lu Shou Inn,4.5,262,Chinese,€€ - €€€
+Luxembourg,LUX,19,Picanha Plaza,4.5,114,Steakhouse,€€ - €€€
+Luxembourg,LUX,20,Come a la Maison - Italian BeautyFood,4,431,Italian,€€ - €€€
+Luxembourg,LUX,21,TWO6TWO,4.5,240,French,€€€€
+Luxembourg,LUX,22,Sapori Ristorante,4.5,214,Italian,€€ - €€€
+Luxembourg,LUX,23,Restaurant New Delhi,4.5,177,Indian,€€ - €€€
+Luxembourg,LUX,24,Brasserie L'Annexe,4.5,276,French,€€ - €€€
+Luxembourg,LUX,25,Le Bouquet Garni,4,272,French,€€€€
+Luxembourg,LUX,26,Jolly Restaurant,4.5,135,Italian,€€ - €€€
+Luxembourg,LUX,27,A La Soupe,4,249,European,€
+Luxembourg,LUX,28,RESTAURANT BASTA COSI,4,313,Italian,€€ - €€€
+Luxembourg,LUX,29,Restaurant L'Adresse,4.5,130,French,€€ - €€€
+Luxembourg,LUX,30,Pizzeria bei der Auer,5,39,Italian,€€ - €€€
+Luxembourg,LUX,31,Oro e Argento,4.5,184,Mediterranean,€€€€
+Luxembourg,LUX,32,Golden Chopsticks,4.5,203,Japanese,€€ - €€€
+Luxembourg,LUX,33,Star of Asia,4.5,243,Indian,€€ - €€€
+Luxembourg,LUX,34,Namaste,4,311,Indian,€€ - €€€
+Luxembourg,LUX,35,Snooze,4,308,American,€€ - €€€
+Luxembourg,LUX,36,Cafe Bel Air,4.5,216,Vegetarian,€€ - €€€
+Luxembourg,LUX,37,La Locanda,4.5,163,Italian,€€ - €€€
+Luxembourg,LUX,38,Um Plateau,4,284,French,€€€€
+Luxembourg,LUX,39,Charles Sandwiches,4,169,American,€€ - €€€
+Luxembourg,LUX,40,beet,4,230,European,€€ - €€€
+Luxembourg,LUX,41,Bosso,4,348,German,€€ - €€€
+Luxembourg,LUX,42,Mosconi,4,312,Italian,€€€€
+Luxembourg,LUX,43,Nirvana Cafe,4.5,81,Indian,€
+Luxembourg,LUX,44,Kamakura,4,259,Japanese,€€€€
+Luxembourg,LUX,45,Taj Mahal Luxembourg,4,208,Indian,€€ - €€€
+Luxembourg,LUX,46,Goethe Stuff,4,220,French,€€ - €€€
+Luxembourg,LUX,47,Am Tiirmschen,4,219,European,€€ - €€€
+Luxembourg,LUX,48,Kbeef,4,147,Steakhouse,€€ - €€€
+Luxembourg,LUX,49,Aka Cite,4,355,Japanese,€€ - €€€
+Luxembourg,LUX,50,Restaurant Um Dierfgen,4,126,European,€€ - €€€
+Luxembourg,LUX,51,La Mirabelle,4,211,French,€€€€
+Luxembourg,LUX,52,Au P'tit Max,4.5,45,French,€€ - €€€
+Luxembourg,LUX,53,Come Prima,4.5,155,Italian,€€ - €€€
+Luxembourg,LUX,54,Restaurant Tibet,4.5,109,Indian,€€ - €€€
+Luxembourg,LUX,55,Lao Autre Saveur,4.5,57,Asian,€
+Luxembourg,LUX,56,Restaurant Roma,4,259,Italian,€€€€
+Luxembourg,LUX,57,Cafe Restaurant Bodega,4,148,Mediterranean,€€ - €€€
+Luxembourg,LUX,58,La Briscola,4.5,69,Italian,€€ - €€€
+Luxembourg,LUX,59,Brauerei - Big Beer Company,4,264,German,€€ - €€€
+Luxembourg,LUX,60,Urban City,4,187,American,€€ - €€€
+Luxembourg,LUX,61,Bei De Bouwen,4.5,79,European,€€ - €€€
+Luxembourg,LUX,62,Restaurant Bistronome,4,159,French,€€€€
+Luxembourg,LUX,63,Manso,4.5,242,Mediterranean,€€ - €€€
+Luxembourg,LUX,64,Siam RestoClub,4.5,74,Spanish,€€ - €€€
+Luxembourg,LUX,65,La Cristallerie,4.5,110,French,€€€€
+Luxembourg,LUX,66,Mamacita,3.5,367,Mexican,€€ - €€€
+Luxembourg,LUX,67,Onesto,4,322,Italian,€€ - €€€
+Luxembourg,LUX,68,Bistro Carthago,4.5,28,Mediterranean,€€ - €€€
+Luxembourg,LUX,69,Culturando,4.5,98,Italian,€€ - €€€
+Luxembourg,LUX,70,Brooklyn,4.5,99,American,€€ - €€€
+Luxembourg,LUX,71,Simply Thai,4.5,194,Italian,€€ - €€€
+Luxembourg,LUX,72,Restaurant Amelys,4,58,French,€€€€
+Luxembourg,LUX,73,Le Grand Cafe by RedBeef,4,107,French,€€ - €€€
+Luxembourg,LUX,74,La Pomme Cannelle,4.5,143,French,€€€€
+Luxembourg,LUX,75,Lisboa II,4,211,Seafood,€€ - €€€
+Luxembourg,LUX,76,La Piazzetta,5,27,Italian,€
+Luxembourg,LUX,77,L'Osteria,4,225,Italian,€€ - €€€
+Luxembourg,LUX,78,Restaurant RED FACE,4.5,31,Chinese,€€ - €€€
+Luxembourg,LUX,79,Vinissimo,4.5,24,Mediterranean,€€€€
+Luxembourg,LUX,80,Bonifas,4.5,81,French,€€ - €€€
+Luxembourg,LUX,81,Confucius Restaurant,4,62,Chinese,€€ - €€€
+Luxembourg,LUX,82,Restaurant Madeira Stuff,4.5,45,European,€€ - €€€
+Luxembourg,LUX,83,Restaurant-Pizzeria Bacchus,3.5,336,Italian,€€ - €€€
+Luxembourg,LUX,84,Dipso - the Wine Republic,4.5,107,European,€€ - €€€
+Luxembourg,LUX,85,Bistrot de la Presse,4,93,Bar,€
+Luxembourg,LUX,86,Notaro ristorante,4,374,Italian,€€ - €€€
+Luxembourg,LUX,87,Limbo,4.5,122,International,€€ - €€€
+Luxembourg,LUX,88,Ukulele,4,150,Asian,€€ - €€€
+Luxembourg,LUX,89,Le Zai,4,104,Chinese,€€ - €€€
+Luxembourg,LUX,90,Yamas,4.5,50,Mediterranean,€€ - €€€
+Luxembourg,LUX,91,Konrad Cafe & Bar,4,141,Cafe,€€ - €€€
+Luxembourg,LUX,92,Aubergine,4.5,105,French,€€ - €€€
+Luxembourg,LUX,93,Chez Bacano,4,219,Seafood,€€ - €€€
+Luxembourg,LUX,94,Vapiano Gare,4,243,Italian,€€ - €€€
+Luxembourg,LUX,95,Aux delices du Wok,4.5,30,Chinese,€€ - €€€
+Luxembourg,LUX,96,Colisee,5,15,Mediterranean,€€ - €€€
+Luxembourg,LUX,97,La Commedia Dell'arte,4,188,Italian,€€ - €€€
+Luxembourg,LUX,98,Al Bacio,4.5,121,Italian,€€ - €€€
+Luxembourg,LUX,99,DIVINO,4,94,Italian,€€ - €€€
+Luxembourg,LUX,100,Strogoff,4,40,Italian,€€ - €€€
+Lyon,LYS,1,Aromatic,5,347,French,€€ - €€€
+Lyon,LYS,2,le Neuvieme Art,4.5,502,French,€€€€
+Lyon,LYS,3,L'Archange,4.5,869,French,€€€€
+Lyon,LYS,4,Danton,4.5,579,French,€€ - €€€
+Lyon,LYS,5,Manto,4.5,280,French,€€ - €€€
+Lyon,LYS,6,Le Musee,4.5,1235,French,€€ - €€€
+Lyon,LYS,7,L'Instant Fromage,4.5,449,French,€€ - €€€
+Lyon,LYS,8,Les Saveurs Du Bistrot,4.5,207,French,€€ - €€€
+Lyon,LYS,9,L'inaTTendu,4.5,341,French,€€ - €€€
+Lyon,LYS,10,L'ARGOT,4.5,526,French,€€ - €€€
+Lyon,LYS,11,Burgundy Lounge,4.5,590,French,€€€€
+Lyon,LYS,12,Le boeuf d'argent,4.5,353,French,€€€€
+Lyon,LYS,13,Takao Takano,4.5,592,French,€€€€
+Lyon,LYS,14,Le Poivron Bleu,4.5,389,French,€€ - €€€
+Lyon,LYS,15,Pani JO,4.5,355,Italian,€€ - €€€
+Lyon,LYS,16,Jeremy Galvan Restaurant,4.5,604,French,€€€€
+Lyon,LYS,17,Guy Lassausaie,4.5,635,French,€€€€
+Lyon,LYS,18,Gourmix,4.5,526,French,€
+Lyon,LYS,19,Bouchon Des Cordeliers,4.5,514,French,€€ - €€€
+Lyon,LYS,20,La Mere Brazier,4.5,753,French,€€€€
+Lyon,LYS,21,Flair,4.5,516,French,€€€€
+Lyon,LYS,22,Mamamia Pizza,4.5,497,Italian,€
+Lyon,LYS,23,Miko Sushi,4.5,372,Japanese,€€ - €€€
+Lyon,LYS,24,Au Petit Bouchon Chez Georges,4.5,615,French,€€ - €€€
+Lyon,LYS,25,La Scala Siciliana,4.5,500,Italian,€€ - €€€
+Lyon,LYS,26,Italia e Sapore,4.5,344,Italian,€€ - €€€
+Lyon,LYS,27,L'Institut Restaurant,4.5,426,French,€€€€
+Lyon,LYS,28,Zappo,4.5,175,Italian,€€ - €€€
+Lyon,LYS,29,Le Gourmet de Seze,4.5,459,French,€€€€
+Lyon,LYS,30,Les Terrasses de Lyon,4.5,652,French,€€€€
+Lyon,LYS,31,Arsenic,4.5,432,French,€€ - €€€
+Lyon,LYS,32,Notre Maison,4.5,487,French,€€ - €€€
+Lyon,LYS,33,Le Supreme,5,146,French,€€€€
+Lyon,LYS,34,Petit Ogre,4.5,343,Lebanese,€€ - €€€
+Lyon,LYS,35,La Table 101,4.5,313,French,€€€€
+Lyon,LYS,36,Balthaz'art,4.5,460,French,€€ - €€€
+Lyon,LYS,37,Au 14 Fevrier Vieux Lyon,4.5,419,French,€€€€
+Lyon,LYS,38,La Gargotte,4.5,745,French,€€ - €€€
+Lyon,LYS,39,La Maison Marie,4.5,559,French,€€ - €€€
+Lyon,LYS,40,Le PaillerOn,4,585,French,€€ - €€€
+Lyon,LYS,41,Le Dandy,4.5,313,French,€€ - €€€
+Lyon,LYS,42,Le Tire-Bouchon,4.5,444,French,€€ - €€€
+Lyon,LYS,43,Les Trois Domes,4.5,621,French,€€€€
+Lyon,LYS,44,La mere Jean,4.5,711,French,€€ - €€€
+Lyon,LYS,45,Fiston,4.5,696,French,€€ - €€€
+Lyon,LYS,46,Le Poelon d'Or,4.5,566,French,€€ - €€€
+Lyon,LYS,47,La Cuisinerie,4.5,191,French,€€ - €€€
+Lyon,LYS,48,Le Garet,4.5,536,French,€€ - €€€
+Lyon,LYS,49,Les Adrets,4.5,480,French,€€ - €€€
+Lyon,LYS,50,L'Oenotheque de Lyon,4.5,270,Diner,€€ - €€€
+Lyon,LYS,51,M Restaurant,4.5,313,French,€€ - €€€
+Lyon,LYS,52,Le Canut et Les Gones,4.5,441,French,€€ - €€€
+Lyon,LYS,53,Chez Paul,4,741,French,€€ - €€€
+Lyon,LYS,54,Restaurant Un Deux Trois,4.5,750,French,€€ - €€€
+Lyon,LYS,55,Les Frangins,4.5,307,French,€€ - €€€
+Lyon,LYS,56,Pizzeria Napoli Chez Nicolo & Franco Morreale,4.5,482,Italian,€€ - €€€
+Lyon,LYS,57,Cafe des Federations,4,958,French,€€ - €€€
+Lyon,LYS,58,L'Atelier Cote Rhone,4.5,182,French,€€ - €€€
+Lyon,LYS,59,L'Emulsion,4.5,148,French,€€ - €€€
+Lyon,LYS,60,Casa Nobile,4.5,452,Italian,€€ - €€€
+Lyon,LYS,61,L'Ourson Qui Boit,4.5,548,French,€€ - €€€
+Lyon,LYS,62,Christian Tetedoie,4,1093,French,€€€€
+Lyon,LYS,63,Les Fines Gueules,4,489,French,€€ - €€€
+Lyon,LYS,64,Le Bouchon Des Filles,4,695,French,€€ - €€€
+Lyon,LYS,65,Yaafa,4.5,324,Fast Food,€
+Lyon,LYS,66,Le Val d'Isere,4,348,French,€€ - €€€
+Lyon,LYS,67,La Bouteillerie,5,247,French,€€ - €€€
+Lyon,LYS,68,Mr Edgar,4.5,168,French,€€ - €€€
+Lyon,LYS,69,"Aux 24 Colonnes, Le Bistrot du Palais.",4.5,485,French,€€ - €€€
+Lyon,LYS,70,Victoria Hall,4.5,376,French,€€€€
+Lyon,LYS,71,Engimono,4.5,181,Chinese,€€ - €€€
+Lyon,LYS,72,LE 126,4.5,208,French,€€€€
+Lyon,LYS,73,Cafe Comptoir Abel,4,1133,French,€€ - €€€
+Lyon,LYS,74,Les Lyonnais Bouchon,4,827,French,€€ - €€€
+Lyon,LYS,75,La Brasserie des Confluences,4,393,French,€€ - €€€
+Lyon,LYS,76,Le Book-Lard,5,86,French,€
+Lyon,LYS,77,Bmd,4.5,178,French,€€ - €€€
+Lyon,LYS,78,Bistrot d'Abel,4.5,259,French,€€ - €€€
+Lyon,LYS,79,Bateau Hermes,4.5,222,French,€€€€
+Lyon,LYS,80,Les Loges,4.5,378,French,€€€€
+Lyon,LYS,81,Le Passe Temps,4.5,255,French,€€€€
+Lyon,LYS,82,Le Jean Moulin,4.5,318,French,€€ - €€€
+Lyon,LYS,83,Two Amigos,4.5,175,American,€€ - €€€
+Lyon,LYS,84,Bollywood Tandoor,4.5,186,Indian,€
+Lyon,LYS,85,Les Ventres Jaunes,4,727,French,€€ - €€€
+Lyon,LYS,86,Casa Iberica,4.5,98,European,€
+Lyon,LYS,87,L'Atelier des Augustins,4.5,247,French,€€€€
+Lyon,LYS,88,Cafe Restaurant Du Soleil,4,366,French,€€ - €€€
+Lyon,LYS,89,PRaiRiaL,4.5,290,French,€€€€
+Lyon,LYS,90,Le Marelie,4.5,191,French,€€ - €€€
+Lyon,LYS,91,L'artiste et le cuisinier,4.5,185,International,€€€€
+Lyon,LYS,92,Daniel & Denise - Saint-Jean,4,811,French,€€ - €€€
+Lyon,LYS,93,Wasabi,4.5,320,Japanese,€€€€
+Lyon,LYS,94,Restaurant la Rotonde,4.5,205,French,€€€€
+Lyon,LYS,95,L'Etoile d'Asie,4.5,182,Asian,€€ - €€€
+Lyon,LYS,96,Cuisine en Ville,4.5,159,French,€€ - €€€
+Lyon,LYS,97,Mozzato,4,556,Italian,€€ - €€€
+Lyon,LYS,98,Restaurant Chez Grand Mere,4,531,French,€€ - €€€
+Lyon,LYS,99,Les Paves de Saint Jean,4,645,French,€€ - €€€
+Lyon,LYS,100,Tracteur et Bigoudis,4.5,93,French,€€ - €€€
+Madrid,MAD,1,Cebo,5,352,Mediterranean,€€€€
+Madrid,MAD,2,DSTAGE,4.5,1724,International,€€€€
+Madrid,MAD,3,Los Montes de Galicia,4.5,3795,International,€€ - €€€
+Madrid,MAD,4,Astor,5,302,International,€€ - €€€
+Madrid,MAD,5,Restaurante Nuevo Horno de Santa Teresa,4.5,357,Mediterranean,€€ - €€€
+Madrid,MAD,6,Burnout,4.5,413,American,€€ - €€€
+Madrid,MAD,7,Salmon Guru,4.5,160,Bar,€€ - €€€
+Madrid,MAD,8,Toga,4.5,377,Mediterranean,€€ - €€€
+Madrid,MAD,9,Maitia,4.5,690,Spanish,€€€€
+Madrid,MAD,10,Grama Lounge,4.5,337,Latin,€€ - €€€
+Madrid,MAD,11,Moratin Vinoteca Bistrot,4.5,837,Mediterranean,€€ - €€€
+Madrid,MAD,12,La Candela Resto,4.5,860,Spanish,€€€€
+Madrid,MAD,13,Mu! El Placer De La Carne,4.5,1497,Steakhouse,€€ - €€€
+Madrid,MAD,14,Kuoco 360,4.5,345,Peruvian,€€ - €€€
+Madrid,MAD,15,CalidaDe Madrid,4.5,220,Mediterranean,€
+Madrid,MAD,16,La General,4.5,194,Cafe,€€ - €€€
+Madrid,MAD,17,Cacao Restobar,4.5,923,Latin,€€ - €€€
+Madrid,MAD,18,Taberna Mas Al Sur,4.5,2067,Mediterranean,€€ - €€€
+Madrid,MAD,19,Algarabia,4.5,761,Mediterranean,€€ - €€€
+Madrid,MAD,20,The Market Madrid,4.5,395,Mediterranean,€€ - €€€
+Madrid,MAD,21,Alright,4.5,1328,American,€€ - €€€
+Madrid,MAD,22,DiverXO,4.5,1476,European,€€€€
+Madrid,MAD,23,Taberna el Sur,4.5,3538,Mediterranean,€€ - €€€
+Madrid,MAD,24,Ramon Freixa Madrid,4.5,657,Mediterranean,€€€€
+Madrid,MAD,25,Restaurante La Tena,4.5,325,Mediterranean,€€ - €€€
+Madrid,MAD,26,Casa 9 Restaurante,4.5,1557,Mediterranean,€€ - €€€
+Madrid,MAD,27,Origen Taberna,4.5,1132,Mediterranean,€€ - €€€
+Madrid,MAD,28,niMU Barquillo,4.5,387,Mediterranean,€€ - €€€
+Madrid,MAD,29,Everest Tandoori Nepali-Indian Restaurant,4.5,626,Indian,€€ - €€€
+Madrid,MAD,30,Oven Atocha,4.5,440,Italian,€€ - €€€
+Madrid,MAD,31,Eiffel,4.5,649,Spanish,€€ - €€€
+Madrid,MAD,32,Amicis,4.5,179,Mediterranean,€€ - €€€
+Madrid,MAD,33,La Tasqueria de Javi Estevez,4.5,774,Mediterranean,€€ - €€€
+Madrid,MAD,34,Gandario,4.5,341,Fast Food,€
+Madrid,MAD,35,Atelier Belge Restaurant,4.5,332,Mediterranean,€€€€
+Madrid,MAD,36,Steakburger Atocha,4.5,1580,American,€€ - €€€
+Madrid,MAD,37,Tacos & Tapas,4.5,486,Mexican,€€ - €€€
+Madrid,MAD,38,La Taberna de Mister Pinkleton,4.5,559,Bar,€€ - €€€
+Madrid,MAD,39,El miniBAR,4.5,838,Bar,€
+Madrid,MAD,40,Bahia Taberna,4.5,908,Mediterranean,€€ - €€€
+Madrid,MAD,41,Restaurante La Tragantua,4.5,1778,International,€€ - €€€
+Madrid,MAD,42,Meson Restaurante La Mi Venta,4.5,1493,Mediterranean,€€ - €€€
+Madrid,MAD,43,Restaurante PAIPAI,4.5,334,European,€€ - €€€
+Madrid,MAD,44,Steakburger Gran Via,4.5,420,American,€€ - €€€
+Madrid,MAD,45,Vinos de Bellota,4.5,690,Contemporary,€€ - €€€
+Madrid,MAD,46,La Cabana Argentina,4.5,1236,Steakhouse,€€ - €€€
+Madrid,MAD,47,Inclan Brutal Bar,4.5,1712,Mediterranean,€€ - €€€
+Madrid,MAD,48,The Spanish Farm,4.5,188,Mediterranean,€€ - €€€
+Madrid,MAD,49,Alcaravea Gaztambide,4.5,406,Mediterranean,€€ - €€€
+Madrid,MAD,50,Steakburger - Luchana,4.5,606,American,€€ - €€€
+Madrid,MAD,51,Casa Jaguar Madrid,4.5,410,Peruvian,€€ - €€€
+Madrid,MAD,52,Metro Bistro - Templo de Debod,4.5,1056,Mediterranean,€€ - €€€
+Madrid,MAD,53,La Sifoneria,4.5,255,Mediterranean,€€ - €€€
+Madrid,MAD,54,Sublime Dreams Food,4.5,412,American,€€ - €€€
+Madrid,MAD,55,Steakburger - Virgen de los Peligros,4.5,990,American,€€ - €€€
+Madrid,MAD,56,Steakburger Preciados,4.5,237,Argentinean,€€ - €€€
+Madrid,MAD,57,Angelita Madrid,4.5,338,International,€€ - €€€
+Madrid,MAD,58,Restaurante Gastrovia 61,4.5,682,Mediterranean,€€ - €€€
+Madrid,MAD,59,Metro Bistro - Plaza Mayor,4.5,1387,Mediterranean,€€ - €€€
+Madrid,MAD,60,Tinto y Tapas,4.5,746,Mediterranean,€
+Madrid,MAD,61,Casa Benigna,4.5,656,Mediterranean,€€€€
+Madrid,MAD,62,Rosi La Loca Taberna,4.5,3101,International,€€ - €€€
+Madrid,MAD,63,La Tercera Taberna,4.5,528,Bar,€€ - €€€
+Madrid,MAD,64,La Berenjena,4.5,797,Mediterranean,€€ - €€€
+Madrid,MAD,65,Restaurante Del Olivo,4.5,450,Seafood,€€ - €€€
+Madrid,MAD,66,Casa Lucas,4.5,1053,Mediterranean,€€ - €€€
+Madrid,MAD,67,Latasia,4.5,226,Spanish,€€ - €€€
+Madrid,MAD,68,Atico Restaurant,4.5,700,Mediterranean,€€€€
+Madrid,MAD,69,La Manduca de Azagra,4.5,479,Mediterranean,€€€€
+Madrid,MAD,70,Shalakabula,4.5,350,Mediterranean,€€ - €€€
+Madrid,MAD,71,El Club Allard,4.5,1650,European,€€€€
+Madrid,MAD,72,La Pizzateca,4.5,729,Italian,€
+Madrid,MAD,73,Gramabar,4.5,643,American,€€ - €€€
+Madrid,MAD,74,EL COGOLLO DE LA DESCARGA,4.5,469,Mediterranean,€€ - €€€
+Madrid,MAD,75,Takos Al Pastor,4.5,720,Mexican,€
+Madrid,MAD,76,Restaurante Ronda 14,4.5,570,Japanese,€€ - €€€
+Madrid,MAD,77,Restaurante lakasa,4.5,762,Spanish,€€ - €€€
+Madrid,MAD,78,Cafe Melo's,4.5,400,Spanish,€
+Madrid,MAD,79,Bacoa,4.5,854,American,€€ - €€€
+Madrid,MAD,80,Sr.Ito,4.5,437,Japanese,€€ - €€€
+Madrid,MAD,81,Oven Gran Via,4.5,1514,Italian,€€€
+Madrid,MAD,82,Taberna la Concha,4.5,942,Mediterranean,€€ - €€€
+Madrid,MAD,83,Naomi,4.5,571,Japanese,€€ - €€€
+Madrid,MAD,84,Meson Molinero,5,201,Steakhouse,€€ - €€€
+Madrid,MAD,85,Oven Mozzarella Bar,4.5,1525,Italian,€€ - €€€
+Madrid,MAD,86,PICCOLO DIAVOLO,4.5,429,Italian,€€ - €€€
+Madrid,MAD,87,Bayres Beef Argentina en tapas,4.5,737,Steakhouse,€€ - €€€
+Madrid,MAD,88,Miyama,4.5,636,Japanese,€€€€
+Madrid,MAD,89,Matilda Cafe Cantina,4.5,464,Cafe,€
+Madrid,MAD,90,Trattoria Malatesta,4.5,1521,Italian,€€ - €€€
+Madrid,MAD,91,La Hummuseria,4.5,388,Mediterranean,€€ - €€€
+Madrid,MAD,92,H10-Bar,4.5,378,Bar,€
+Madrid,MAD,93,Foodtruck,4.5,417,American,€€ - €€€
+Madrid,MAD,94,Miyama,4.5,649,Japanese,€€€€
+Madrid,MAD,95,RECREO Espartinas,4.5,168,Mediterranean,€€ - €€€
+Madrid,MAD,96,La Terraza de Oscar,4.5,779,Mediterranean,€€€€
+Madrid,MAD,97,El Rincon de Esteban,4.5,865,Spanish,€€ - €€€
+Madrid,MAD,98,DokiDoki,4.5,720,Japanese,€€ - €€€
+Madrid,MAD,99,Pizzeria Vesuvio -Hortaleza,4.5,522,Italian,€
+Madrid,MAD,100,Tandoori Station,4.5,1698,Indian,€€ - €€€
+Milan,MIL,1,Dersett,5,103,Italian,€€ - €€€
+Milan,MIL,2,Sapori Solari,4.5,1007,Italian,€€ - €€€
+Milan,MIL,3,Macelleria Equina Da Vito,4.5,509,Italian,€
+Milan,MIL,4,VUN Andrea Aprea,4.5,539,Italian,€€€€
+Milan,MIL,5,Contraste,4.5,609,Mediterranean,€€€€
+Milan,MIL,6,Seta,4.5,576,Italian,€€€€
+Milan,MIL,7,Piadineria Artigianale Pascoli,4.5,510,Italian,€
+Milan,MIL,8,Iyo,4.5,2487,Japanese,€€€€
+Milan,MIL,9,Rizzocomeacasa Rizzo Come A Casa,4.5,432,Italian,€€ - €€€
+Milan,MIL,10,Nerino Dieci Trattoria,4.5,3964,Italian,€€ - €€€
+Milan,MIL,11,L'Immagine Ristorante Bistrot,4.5,2222,Steakhouse,€€ - €€€
+Milan,MIL,12,Boccondivino,4.5,630,Italian,€€ - €€€
+Milan,MIL,13,Da Vic - Ristorante Guerrini,4.5,1739,Italian,€€€€
+Milan,MIL,14,Mr Panozzo,4.5,1172,Italian,€
+Milan,MIL,15,Sapori Stellari,5,135,Gluten Free,€€ - €€€
+Milan,MIL,16,MooKuzai,4.5,490,Sushi,€€ - €€€
+Milan,MIL,17,Piz,4.5,2800,Italian,€
+Milan,MIL,18,Bottega Sicula Milano,4.5,373,Mediterranean,€€ - €€€
+Milan,MIL,19,G.B. Bar,4.5,802,Italian,€
+Milan,MIL,20,Pizzium,4.5,1049,Pizza,€€ - €€€
+Milan,MIL,21,Ristorante Glauco,4.5,584,Italian,€€€€
+Milan,MIL,22,Pizza AM,4.5,3228,Italian,€
+Milan,MIL,23,Trippa,4.5,516,Italian,€€ - €€€
+Milan,MIL,24,Il Principe dei Navigli,4.5,1440,Italian,€€ - €€€
+Milan,MIL,25,De Santis,4.5,623,Italian,€€€
+Milan,MIL,26,Mi-Ramen Bistro Col di lana,4.5,264,Japanese,€
+Milan,MIL,27,Ristorante Parentesi,4.5,889,Italian,€€ - €€€
+Milan,MIL,28,Savana Ristorante Eritreo,4.5,715,African,€€ - €€€
+Milan,MIL,29,Entree,4.5,417,Italian,€€ - €€€
+Milan,MIL,30,Mani Bistrot,4.5,303,Italian,€€ - €€€
+Milan,MIL,31,Ristorante Omega 3,4.5,419,Italian,€€ - €€€
+Milan,MIL,32,Nuovo Yacht,4.5,532,Italian,€€ - €€€
+Milan,MIL,33,Panino LAB,4.5,571,Italian,€€ - €€€
+Milan,MIL,34,Il Prime Milano,4.5,587,Italian,€€ - €€€
+Milan,MIL,35,Nishiki,4.5,679,Japanese,€€ - €€€
+Milan,MIL,36,Pizzeria Snuppi,4.5,253,Italian,€
+Milan,MIL,37,Ristorante Il Delfino,4.5,908,Italian,€€ - €€€
+Milan,MIL,38,Il Luogo di Aimo e Nadia,4.5,919,Italian,€€€€
+Milan,MIL,39,Essenza,4.5,391,Italian,€€€€
+Milan,MIL,40,Paranoia Cafe,4.5,536,Italian,€
+Milan,MIL,41,Cibario,4.5,180,Italian,€
+Milan,MIL,42,Risoelatte,4.5,1292,Italian,€€ - €€€
+Milan,MIL,43,Ristorante Berton,4.5,653,Italian,€€€€
+Milan,MIL,44,Ristorante Sa Mesa,4.5,843,Italian,€€ - €€€
+Milan,MIL,45,Beirut Ristorante,4.5,349,Lebanese,€€ - €€€
+Milan,MIL,46,Trattoria la Vecchia Guardia,4.5,843,Italian,€€ - €€€
+Milan,MIL,47,Il Panzerotto,4.5,544,Italian,€
+Milan,MIL,48,El Porteno,4.5,2541,Steakhouse,€€€€
+Milan,MIL,49,Burger Wave Colonne,4.5,863,American,€€ - €€€
+Milan,MIL,50,Pasta d'Autore,4.5,385,Italian,€
+Milan,MIL,51,Yokohama Flavour Journey Cuisine,4.5,1368,Fusion,€€ - €€€
+Milan,MIL,52,Il Capestrano Ristorante Abruzzese,4.5,893,Barbecue,€€ - €€€
+Milan,MIL,53,Platina,4.5,1082,Italian,€€ - €€€
+Milan,MIL,54,Trattoria de la Trebia,4.5,754,Steakhouse,€€ - €€€
+Milan,MIL,55,Alice Ristorante,4.5,1225,Italian,€€€€
+Milan,MIL,56,Rita,4.5,524,Italian,€€ - €€€
+Milan,MIL,57,Armani Bamboo Bar,4.5,688,Italian,€€€€
+Milan,MIL,58,Verace,4.5,408,Italian,€
+Milan,MIL,59,San Mauri,4.5,453,Italian,€€ - €€€
+Milan,MIL,60,Trattoria Arlati dal 1936,4.5,914,Italian,€€ - €€€
+Milan,MIL,61,Tre Cristi Milano,4.5,280,Seafood,€€€€
+Milan,MIL,62,Faccio Cose Vedo Gente,4.5,376,Italian,€€ - €€€
+Milan,MIL,63,Portobello,4.5,691,Italian,€
+Milan,MIL,64,Poporoya Sushi Bar E Alimentari Giapponesi,4.5,1955,Japanese,€€ - €€€
+Milan,MIL,65,Ristorante Pizzeria One Way della Speranza,4.5,802,Italian,€€ - €€€
+Milan,MIL,66,Osteria Conchetta,4.5,1031,Italian,€€ - €€€
+Milan,MIL,67,Spazio,4.5,611,Italian,€€€
+Milan,MIL,68,Noblesse Oblige,4.5,879,Italian,€€ - €€€
+Milan,MIL,69,Botinero,4.5,1189,Italian,€€€€
+Milan,MIL,70,C'era una Volta una Piada,4.5,1207,Italian,€
+Milan,MIL,71,Sikelaia Ristorante,5,154,Italian,€€€€
+Milan,MIL,72,Gong Oriental Attitude,4.5,620,Chinese,€€€€
+Milan,MIL,73,El Gaucho,4,720,Steakhouse,€€€€
+Milan,MIL,74,Ristorante Nabucco,4.5,1402,Italian,€€€€
+Milan,MIL,75,Al Porto,4.5,783,Italian,€€€€
+Milan,MIL,76,Ristorante Xiongdi,4.5,1598,Chinese,€€ - €€€
+Milan,MIL,77,El Porteno Arena,4.5,1044,Steakhouse,€€€€
+Milan,MIL,78,Toasteria Mi Casa,4.5,993,Fast Food,€
+Milan,MIL,79,Osteria Al Molo 13,4.5,1314,Italian,€€ - €€€
+Milan,MIL,80,Mao Hunan,4.5,619,Chinese,€
+Milan,MIL,81,Ravioleria Sarpi,4.5,407,Chinese,€
+Milan,MIL,82,Joia,4.5,1668,Italian,€€€€
+Milan,MIL,83,Guyot,4.5,446,Italian,€€ - €€€
+Milan,MIL,84,Vento di Sardegna,4.5,444,Italian,€€ - €€€
+Milan,MIL,85,Ciaccia Coi Ciccioli,4.5,374,Delicatessen,€€ - €€€
+Milan,MIL,86,Da Zero,4.5,251,Pizza,€€ - €€€
+Milan,MIL,87,La Rava e la Fava,4,1122,Italian,€€ - €€€
+Milan,MIL,88,Da Salvatore Trattoria Siciliana,4.5,543,Italian,€€ - €€€
+Milan,MIL,89,Trattoria Bertame,4.5,475,Italian,€€ - €€€
+Milan,MIL,90,Rossini Restaurant Pizzeria,4.5,427,Italian,€€ - €€€
+Milan,MIL,91,Langosteria,4.5,1326,Italian,€€€€
+Milan,MIL,92,Gli Orti Del Belvedere,4.5,317,Italian,€€ - €€€
+Milan,MIL,93,Le Striatelle,4.5,528,Italian,€
+Milan,MIL,94,Ristorante Pizzeria O' Surdato 'Nnammurato,4.5,254,Italian,€
+Milan,MIL,95,La Collina d'Oro,4.5,578,Chinese,€€ - €€€
+Milan,MIL,96,Il Politico,4.5,193,Italian,€
+Milan,MIL,97,Galleria Restaurant & Pizza,4.5,1343,Italian,€€ - €€€
+Milan,MIL,98,Valentino Legend Milano,4.5,855,Italian,€€ - €€€
+Milan,MIL,99,Casa Ramen,4.5,851,Japanese,€€ - €€€
+Milan,MIL,100,La Prosciutteria Milano Brera,4.5,1132,Delicatessen,€
+Munich,MUC,1,Broeding,4.5,812,Austrian,€€€€
+Munich,MUC,2,Schwarzreiter Tagesbar & Restaurant,4.5,745,German,€€€€
+Munich,MUC,3,Naxos Taverna,4.5,705,Seafood,€€ - €€€
+Munich,MUC,4,Mariannenhof,4.5,267,German,€€ - €€€
+Munich,MUC,5,Taverna Limani,4.5,631,Seafood,€€ - €€€
+Munich,MUC,6,Savanna,4.5,371,Steakhouse,€€ - €€€
+Munich,MUC,7,Servus Heidi,4.5,273,German,€€ - €€€
+Munich,MUC,8,Thalassa,4.5,579,Mediterranean,€€ - €€€
+Munich,MUC,9,Little London Bar& Grill,4.5,557,Steakhouse,€€€€
+Munich,MUC,10,Thalassa,4.5,299,Seafood,€€ - €€€
+Munich,MUC,11,Longgrain Thai Cuisine,4.5,320,Asian,€€ - €€€
+Munich,MUC,12,Steinheil 16,4.5,531,German,€
+Munich,MUC,13,Nam Giao 31,4.5,636,Asian,€€ - €€€
+Munich,MUC,14,Vinothek by Geisel,4.5,515,German,€€ - €€€
+Munich,MUC,15,Trattoria Da Fausto,4.5,758,Italian,€€ - €€€
+Munich,MUC,16,Goerreshof,4.5,556,German,€€ - €€€
+Munich,MUC,17,El Gaucho,4.5,490,Steakhouse,€€€€
+Munich,MUC,18,Andy's Krablergarten,4.5,792,German,€
+Munich,MUC,19,Zwickl - Gastlichkeit am Viktualienmarkt,4.5,1129,German,€€ - €€€
+Munich,MUC,20,Wirtshaus In Der Au,4.5,1091,German,€€ - €€€
+Munich,MUC,21,Restaurant Laurin,4.5,297,German,€€ - €€€
+Munich,MUC,22,Mystikon,4.5,391,Seafood,€€ - €€€
+Munich,MUC,23,Tantris,4.5,612,French,€€€€
+Munich,MUC,24,Chopan Schwabing,5,255,Middle Eastern,€€ - €€€
+Munich,MUC,25,Limoni,4.5,321,Italian,€€€€
+Munich,MUC,26,Zum Durnbraeu,4.5,1229,German,€€ - €€€
+Munich,MUC,27,Hamburgerei,4.5,455,American,€€ - €€€
+Munich,MUC,28,Wirtshaus Zum Straubinger,4.5,827,German,€€ - €€€
+Munich,MUC,29,Shane's Restaurant,4.5,400,European,€€€€
+Munich,MUC,30,Vinpasa,4.5,436,Italian,€€€€
+Munich,MUC,31,Mr. Pancake,4.5,410,American,€
+Munich,MUC,32,Chopan - am Gasteig,4.5,195,Middle Eastern,€€ - €€€
+Munich,MUC,33,Muenchner Suppenkueche,4.5,264,German,€
+Munich,MUC,34,Wirtshaus Ayingers,4.5,1208,German,€€ - €€€
+Munich,MUC,35,Ratskeller Munchen,4,4028,German,€€ - €€€
+Munich,MUC,36,EssZimmer - Fine Dining Restaurant in der BMW Welt,4.5,185,European,€€€€
+Munich,MUC,37,Augustiner-Keller,4,3525,German,€€ - €€€
+Munich,MUC,38,Opatija,4,797,Italian,€€ - €€€
+Munich,MUC,39,Augustiner Klosterwirt,4,895,German,€€ - €€€
+Munich,MUC,40,Paulaner Braeuhaus,4,801,German,€€ - €€€
+Munich,MUC,41,Mimmo E Co,4.5,338,Italian,€€ - €€€
+Munich,MUC,42,Spatenhaus,4,1715,German,€€ - €€€
+Munich,MUC,43,Zum Brunnstein,4.5,319,German,€€ - €€€
+Munich,MUC,44,Hans Im Gluck,4,334,American,€€ - €€€
+Munich,MUC,45,Block House Leopoldstrasse,4,472,American,€€ - €€€
+Munich,MUC,46,Les Deux,4.5,232,French,€€€€
+Munich,MUC,47,Haxnbauer,4,2713,German,€€ - €€€
+Munich,MUC,48,Andechser am Dom,4,1012,German,€€ - €€€
+Munich,MUC,49,Cotidiano,4,280,Mediterranean,€€ - €€€
+Munich,MUC,50,Oanh,5,96,Asian,€€ - €€€
+Munich,MUC,51,Ristorante Cupido,4.5,142,Pizza,€€ - €€€
+Munich,MUC,52,Leoli-Restaurant,4.5,176,Seafood,€€ - €€€
+Munich,MUC,53,CA`D`ORO Ristorante,4,908,Grill,€€ - €€€
+Munich,MUC,54,Ruff's Burger,4,426,American,€
+Munich,MUC,55,Restaurant Shandiz,4.5,340,Barbecue,€€ - €€€
+Munich,MUC,56,Risotto Restaurant Munich,5,168,Italian,€€ - €€€
+Munich,MUC,57,Yum - Thai Kitchen & Bar,4.5,464,Thai,€€ - €€€
+Munich,MUC,58,Der Pschorr,4,1675,German,€€ - €€€
+Munich,MUC,59,Il Gattopardo - Cucina e Vini,4.5,163,Italian,€€ - €€€
+Munich,MUC,60,Hofbraeuhaus,4,16478,German,€€ - €€€
+Munich,MUC,61,Indian Village,4.5,117,Asian,€€ - €€€
+Munich,MUC,62,Be Thai Style Thai Restaurant,4.5,214,Asian,€€ - €€€
+Munich,MUC,63,Augustiner Braustuben,4,1960,German,€€ - €€€
+Munich,MUC,64,Gaststatte Nurnberger Bratwurst Glockl am Dom,4,807,German,€€ - €€€
+Munich,MUC,65,Restaurant Jasmin,4.5,319,Asian,€€ - €€€
+Munich,MUC,66,Gourmet Restaurant Koenigshof,4.5,222,French,€€€€
+Munich,MUC,67,Hard Rock Cafe Munich,4,1616,American,€€ - €€€
+Munich,MUC,68,Shami,4.5,97,Asian,€€ - €€€
+Munich,MUC,69,Zum Alten Markt,4.5,358,German,€€ - €€€
+Munich,MUC,70,Alter Hof Restaurant,4.5,414,Wine Bar,€€ - €€€
+Munich,MUC,71,Witte,4.5,290,Delicatessen,€€ - €€€
+Munich,MUC,72,Biergarten Viktualienmarkt,4.5,386,German,€
+Munich,MUC,73,Tian,4.5,241,European,€€€€
+Munich,MUC,74,Weisses Brauhaus,4,1957,German,€€ - €€€
+Munich,MUC,75,Dinnerhopping,5,163,Italian,€€ - €€€
+Munich,MUC,76,zum Spockmeier,4,1225,German,€€ - €€€
+Munich,MUC,77,Brenner Grill,4,1507,Italian,€€ - €€€
+Munich,MUC,78,Restaurant Pils Corner,5,104,German,€€ - €€€
+Munich,MUC,79,La Fontana,4.5,132,Italian,€€ - €€€
+Munich,MUC,80,Atelier Gourmet,4.5,192,French,€€€€
+Munich,MUC,81,Thai - Fresh Cuisine,4.5,92,Asian,€
+Munich,MUC,82,Zum Augustiner,4,4694,German,€€ - €€€
+Munich,MUC,83,Restaurant Le Stollberg,4.5,120,French,€€€€
+Munich,MUC,84,Restaurant Kafer-Schanke,4.5,445,German,€€€€
+Munich,MUC,85,Schneider & Sohn,4,326,German,€€ - €€€
+Munich,MUC,86,Synantisis,4.5,105,Seafood,€€ - €€€
+Munich,MUC,87,Ksara,4.5,167,Lebanese,€€ - €€€
+Munich,MUC,88,Saffer's Fattoria,4.5,123,Italian,€€ - €€€
+Munich,MUC,89,Simon Pure,5,60,Healthy,€€ - €€€
+Munich,MUC,90,Sendlinger Augustiner,4.5,152,International,€€ - €€€
+Munich,MUC,91,Nepal Haus,4.5,74,Nepali,€€ - €€€
+Munich,MUC,92,Indian Mango,4,286,Indian,€€ - €€€
+Munich,MUC,93,Wirtshaus Zur Brez'n,4,471,German,€€ - €€€
+Munich,MUC,94,L'Angolo della Pizza,4,356,Italian,€€ - €€€
+Munich,MUC,95,Kashmir Inn,4.5,163,Indian,€€ - €€€
+Munich,MUC,96,Takumi Japanese,4,230,Japanese,€€ - €€€
+Munich,MUC,97,Brasserie Chez Fritz,4,198,French,€€€€
+Munich,MUC,98,Yuki hana munich,4.5,269,Japanese,€€ - €€€
+Munich,MUC,99,Cafe Glockenspiel,4,625,German,€€ - €€€
+Munich,MUC,100,L'Osteria,4,1024,Italian,€€ - €€€
+Oporto,OPO,1,MUU Steakhouse,5,331,Steakhouse,€€€€
+Oporto,OPO,2,Petisqueira Voltaria,4.5,239,Mediterranean,€€ - €€€
+Oporto,OPO,3,O Paparico,4.5,2142,European,€€€€
+Oporto,OPO,4,Dama Pe de Cabra,4.5,907,Mediterranean,€€ - €€€
+Oporto,OPO,5,Tapabento - Bar Restaurant,4.5,3206,Seafood,€€ - €€€
+Oporto,OPO,6,Essencia Restaurante Vegetariano,4.5,1157,Mediterranean,€€ - €€€
+Oporto,OPO,7,Wine Quay Bar,4.5,2088,Mediterranean,€€ - €€€
+Oporto,OPO,8,Bacchus Vini,4.5,345,European,€€ - €€€
+Oporto,OPO,9,Taberna dos Mercadores,4.5,1421,Seafood,€€ - €€€
+Oporto,OPO,10,A Bolina,4.5,656,Bar,€€ - €€€
+Oporto,OPO,11,Saboriccia - Produtos Regionais,4.5,261,Portuguese,€€ - €€€
+Oporto,OPO,12,Tabua Rasa,4.5,360,Portuguese,€€ - €€€
+Oporto,OPO,13,Tapabento Trindade,4.5,732,Mediterranean,€€ - €€€
+Oporto,OPO,14,Camafeu,4.5,969,European,€€ - €€€
+Oporto,OPO,15,Belos Aires Restaurante,4.5,650,Steakhouse,€€ - €€€
+Oporto,OPO,16,A Despensa,4.5,586,Italian,€€ - €€€
+Oporto,OPO,17,Cervejaria Gazela,4.5,547,Fast Food,€
+Oporto,OPO,18,All in Porto,4.5,983,Portuguese,€€ - €€€
+Oporto,OPO,19,Jimao Tapas e Vinhos,4.5,1871,Mediterranean,€€ - €€€
+Oporto,OPO,20,Ode Porto Wine House,4.5,1700,Mediterranean,€€€€
+Oporto,OPO,21,Rua- Tapas & Music Bar,4.5,710,Bar,€€ - €€€
+Oporto,OPO,22,eLeBe Baixa,4.5,1589,European,€€ - €€€
+Oporto,OPO,23,As 7 Maravilhas,4.5,480,Fusion,€€ - €€€
+Oporto,OPO,24,Restaurante Celta Endovelico,4.5,402,Brew Pub,€€ - €€€
+Oporto,OPO,25,A Sandeira,4.5,934,European,€
+Oporto,OPO,26,Ribeira Square,4.5,793,Mediterranean,€€ - €€€
+Oporto,OPO,27,caBARe,4.5,383,Bar,€€ - €€€
+Oporto,OPO,28,Taberna do Largo,4.5,513,Mediterranean,€€ - €€€
+Oporto,OPO,29,Papavinhos,4.5,1251,Mediterranean,€€ - €€€
+Oporto,OPO,30,Terra Nova,5,98,Mediterranean,€€ - €€€
+Oporto,OPO,31,Restaurante Augusto,4.5,342,Mediterranean,€
+Oporto,OPO,32,Churrasqueira Cidade,4.5,334,Mediterranean,€€ - €€€
+Oporto,OPO,33,Folias de Baco,4.5,737,Mediterranean,€
+Oporto,OPO,34,Zenith Brunch & Cocktails Bar,4.5,830,Cafe,€€ - €€€
+Oporto,OPO,35,Caldeireiros,4.5,875,Mediterranean,€€ - €€€
+Oporto,OPO,36,eLeBe,4.5,775,Portuguese,€€ - €€€
+Oporto,OPO,37,Tentacoes no Prato,4.5,266,Mediterranean,€
+Oporto,OPO,38,Lareira Baixa,4.5,456,Portuguese,€
+Oporto,OPO,39,Essencia Lusa Restaurante Tradicional,4.5,483,Seafood,€€ - €€€
+Oporto,OPO,40,DeGema Hamburgueria Artesanal (Porto Almada),4.5,791,Portuguese,€
+Oporto,OPO,41,Costume Bistro,4.5,520,Mediterranean,€€ - €€€
+Oporto,OPO,42,Yours Bistro,4.5,729,Mediterranean,€€ - €€€
+Oporto,OPO,43,Casa Guedes,4.5,1700,Portuguese,€
+Oporto,OPO,44,Intrigo,4.5,126,European,€€ - €€€
+Oporto,OPO,45,Marisqueira do Porto - Gambamar,4.5,645,Seafood,€€ - €€€
+Oporto,OPO,46,Cafeina,4.5,1341,International,€€€€
+Oporto,OPO,47,Puro 4050 - restaurant & mozzarella bar,4.5,391,Italian,€€ - €€€
+Oporto,OPO,48,Brick Clerigos,4.5,347,Mediterranean,€€ - €€€
+Oporto,OPO,49,Esta-se Bem,4.5,406,Mediterranean,€€ - €€€
+Oporto,OPO,50,Real Hamburgueria Portuguesa,4.5,727,American,€€ - €€€
+Oporto,OPO,51,Brasao Cervejaria Aliados,4.5,1542,European,€€ - €€€
+Oporto,OPO,52,BUGO Art Burgers,4.5,762,American,€€ - €€€
+Oporto,OPO,53,Portu's,4.5,1022,Mediterranean,€€ - €€€
+Oporto,OPO,54,Yuko,4.5,470,European,€€ - €€€
+Oporto,OPO,55,Raiz,4.5,928,Mediterranean,€€ - €€€
+Oporto,OPO,56,Ze Bota,4.5,744,Mediterranean,€€ - €€€
+Oporto,OPO,57,Taberna Santo Antonio,4.5,827,European,€
+Oporto,OPO,58,Cruel Restaurante,4.5,368,European,€€ - €€€
+Oporto,OPO,59,Puorto,5,77,American,€
+Oporto,OPO,60,Rui Paula DOP,4.5,1266,Mediterranean,€€€€
+Oporto,OPO,61,La Ricotta,4.5,1319,Italian,€€ - €€€
+Oporto,OPO,62,Porta 4,4.5,211,European,€€ - €€€
+Oporto,OPO,63,Tasco,4.5,1503,Portuguese,€€ - €€€
+Oporto,OPO,64,FLOW restaurant & bar,4.5,869,International,€€€€
+Oporto,OPO,65,Ostras & Coisas,4.5,495,Seafood,€€ - €€€
+Oporto,OPO,66,Vinhas D' Alho,4.5,1626,Mediterranean,€€ - €€€
+Oporto,OPO,67,Terra,4.5,583,Japanese,€€€€
+Oporto,OPO,68,O Caracas,4.5,595,Mediterranean,€
+Oporto,OPO,69,O Cacula,4,587,Mediterranean,€€ - €€€
+Oporto,OPO,70,Tasca Caseira,4.5,529,International,€€ - €€€
+Oporto,OPO,71,Reitoria,4.5,780,Steakhouse,€€ - €€€
+Oporto,OPO,72,Antunes,4.5,927,European,€€ - €€€
+Oporto,OPO,73,Cantina 32,4.5,1254,Mediterranean,€€ - €€€
+Oporto,OPO,74,Hungry biker,5,95,Cafe,€
+Oporto,OPO,75,O Rapido 100% Portuguese Food,4.5,265,Mediterranean,€
+Oporto,OPO,76,Lado B Cafe,4.5,1185,Bar,€€ - €€€
+Oporto,OPO,77,Casa Agricola,4.5,582,Mediterranean,€€ - €€€
+Oporto,OPO,78,Flor dos Congregados,4.5,615,European,€€ - €€€
+Oporto,OPO,79,Terreiro,4,454,Seafood,€€ - €€€
+Oporto,OPO,80,Tapas na Boca,4.5,466,European,€€ - €€€
+Oporto,OPO,81,Ora Viva Restaurante,4,938,Mediterranean,€€ - €€€
+Oporto,OPO,82,Cafe Santiago F,4.5,859,Cafe,€€ - €€€
+Oporto,OPO,83,A Grade,4.5,931,Seafood,€€ - €€€
+Oporto,OPO,84,Sushihana & The Gin House,4.5,257,Sushi,€€ - €€€
+Oporto,OPO,85,Restaurante Abadia Do Porto,4.5,3162,Mediterranean,€€ - €€€
+Oporto,OPO,86,Laurear,5,71,European,€€ - €€€
+Oporto,OPO,87,Pregar,4.5,158,Bar,€
+Oporto,OPO,88,Euskalduna Studio,5,86,European,€€€€
+Oporto,OPO,89,Pedro Lemos Restaurante,4.5,545,Mediterranean,€€€€
+Oporto,OPO,90,The Wine Box - Vinhos & Tapas,4.5,1019,Mediterranean,€€ - €€€
+Oporto,OPO,91,Churrasqueira Paraiso,4.5,233,Mediterranean,€
+Oporto,OPO,92,Molete Bread & Breakfast Sao Lazaro,4.5,150,Cafe,€
+Oporto,OPO,93,Cantinho Do Avillez - Porto,4,1319,Portuguese,€€€€
+Oporto,OPO,94,Restaurante Maria Rita,4.5,637,Mediterranean,€€ - €€€
+Oporto,OPO,95,Adega de Sao Nicolau,4,1355,Mediterranean,€€ - €€€
+Oporto,OPO,96,Bacalhau,4.5,1378,Mediterranean,€€ - €€€
+Oporto,OPO,97,Restaurante Pedro dos Frangos,4,753,Mediterranean,€
+Oporto,OPO,98,Cafe Santiago,4,3133,Portuguese,€
+Oporto,OPO,99,Postigo do Carvao,4,1691,Seafood,€€ - €€€
+Oporto,OPO,100,Taberna d'Avo,4.5,427,Mediterranean,€€ - €€€
+Oslo,OSL,1,Statholdergaarden,4.5,578,Contemporary,€€€€
+Oslo,OSL,2,Maaemo,4.5,412,European,€€€€
+Oslo,OSL,3,hos Thea,5,1062,French,€€€€
+Oslo,OSL,4,Ruffino Ristorante Italiano,4.5,1696,Italian,€€ - €€€
+Oslo,OSL,5,Le Benjamin Bar & Bistro,4.5,570,French,€€ - €€€
+Oslo,OSL,6,TUNCO,4.5,166,Fast Food,€
+Oslo,OSL,7,Fjord Restaurant,4.5,600,Seafood,€€€€
+Oslo,OSL,8,IndiSpice Restaurant,4.5,414,Indian,€€ - €€€
+Oslo,OSL,9,Der Peppern Gror,4.5,956,Indian,€€ - €€€
+Oslo,OSL,10,Freddy Fuego Burrito Bar,4.5,375,Mexican,€
+Oslo,OSL,11,Mister India,4.5,722,Indian,€€ - €€€
+Oslo,OSL,12,Mother India,4.5,691,Indian,€€ - €€€
+Oslo,OSL,13,Brasserie France,4.5,561,French,€€ - €€€
+Oslo,OSL,14,Den Glade Gris,4.5,867,Gastropub,€€ - €€€
+Oslo,OSL,15,VulkanFisk,4.5,343,Seafood,€€ - €€€
+Oslo,OSL,16,Hanami,4.5,603,Asian,€€€€
+Oslo,OSL,17,Alex Sushi,4.5,824,Japanese,€€€€
+Oslo,OSL,18,Mamma Pizza,4.5,1265,Italian,€
+Oslo,OSL,19,Klosteret Restaurant,4.5,629,French,€€€€
+Oslo,OSL,20,Theatercafeen,4.5,595,European,€€€€
+Oslo,OSL,21,Dognvill Burger Tjuvholmen,4.5,491,American,€€ - €€€
+Oslo,OSL,22,Elias Mat & Sant,4.5,967,European,€€ - €€€
+Oslo,OSL,23,Dinner Bar & Restaurant,4.5,1391,Chinese,€€€€
+Oslo,OSL,24,Engebret Cafe,4,567,Seafood,€€€€
+Oslo,OSL,25,Brasserie Paleo,4.5,280,European,€€ - €€€
+Oslo,OSL,26,Benares Indisk Restaurant,4.5,100,Indian,€€ - €€€
+Oslo,OSL,27,Kverneriet Majorstua,4.5,379,Mexican,€€ - €€€
+Oslo,OSL,28,Mehfel Restaurant,4.5,285,Pakistani,€€ - €€€
+Oslo,OSL,29,Fiskeriet Youngstorget,4.5,795,Seafood,€€ - €€€
+Oslo,OSL,30,Arakataka,4.5,446,European,€€€€
+Oslo,OSL,31,Asia Aker Brygge,4,502,Asian,€€ - €€€
+Oslo,OSL,32,Rorbua,4,662,Seafood,€€ - €€€
+Oslo,OSL,33,Jaipur Indian Restaurant,4,666,Indian,€€ - €€€
+Oslo,OSL,34,Habits Coffee,5,81,Cafe,€
+Oslo,OSL,35,Dognvill Bar & Burger,4,447,American,€€ - €€€
+Oslo,OSL,36,Ekebergrestauranten,4,696,European,€€€€
+Oslo,OSL,37,Aymara,4.5,233,Peruvian,€€ - €€€
+Oslo,OSL,38,Illegal Burger,4,650,American,€
+Oslo,OSL,39,Louise Restaurant & Bar,4,1328,Seafood,€€ - €€€
+Oslo,OSL,40,Bacchus,4,307,European,€€ - €€€
+Oslo,OSL,41,Eik Annen Etage,4.5,224,European,€€€€
+Oslo,OSL,42,Cafe Sara,4,328,Bar,€€ - €€€
+Oslo,OSL,43,Restaurant Sawan,4.5,312,Sushi,€€€€
+Oslo,OSL,44,Amundsen Bryggeri & Spiseri,4,500,Bar,€€ - €€€
+Oslo,OSL,45,Lofoten Fiskerestaurant,4,971,Seafood,€€€€
+Oslo,OSL,46,Lemongrass Caribbean Restaurant & Lounge,4,311,Caribbean,€€ - €€€
+Oslo,OSL,47,Olivia Aker Brygge,4,1165,Italian,€€ - €€€
+Oslo,OSL,48,Restaurant Kontrast,4.5,212,European,€€€€
+Oslo,OSL,49,Asian Box,4.5,146,Japanese,€€ - €€€
+Oslo,OSL,50,Diamond Indian Cuisine,4.5,72,Indian,€€ - €€€
+Oslo,OSL,51,Brasserie Blanche,4.5,315,French,€€ - €€€
+Oslo,OSL,52,Cafe Skansen,4,554,European,€€ - €€€
+Oslo,OSL,53,Villa Paradiso Grunerlokka,4,695,Italian,€€ - €€€
+Oslo,OSL,54,Cafe Cathedral,4,602,Italian,€€ - €€€
+Oslo,OSL,55,Xich Lo,4.5,534,Asian,€€ - €€€
+Oslo,OSL,56,La Sangria,4,242,Mediterranean,€€ - €€€
+Oslo,OSL,57,Chez Colin,4.5,162,French,€€ - €€€
+Oslo,OSL,58,Festningen Restaurant,4,406,European,€€€€
+Oslo,OSL,59,Bun's Burger Bar,4,195,American,€€ - €€€
+Oslo,OSL,60,Publiko,4.5,126,Scandinavian,€€ - €€€
+Oslo,OSL,61,Restaurant Foodie,5,40,International,€€€€
+Oslo,OSL,62,Restaurant Eik,4,246,European,€€€€
+Oslo,OSL,63,Crowbar og Bryggeri,4.5,214,Bar,€€ - €€€
+Oslo,OSL,64,Frognerseteren Restaurant and Cafe,4,476,Cafe,€€ - €€€
+Oslo,OSL,65,Way Down South,4.5,92,American,€€ - €€€
+Oslo,OSL,66,Statholderens Mat & Vinkjeller,4.5,197,European,€€€€
+Oslo,OSL,67,Trancher,4,330,Steakhouse,€€ - €€€
+Oslo,OSL,68,Gangnam Korean Restaurant,4.5,112,Asian,€€ - €€€
+Oslo,OSL,69,Smia Galleri,4.5,201,European,€€ - €€€
+Oslo,OSL,70,Trattoria Popolare,4,379,Italian,€€ - €€€
+Oslo,OSL,71,Rice Bowl Thai Cafe,4,377,Asian,€
+Oslo,OSL,72,Rent Mel Bakeri & Pizzeria,4,157,Italian,€€ - €€€
+Oslo,OSL,73,Markveien Mat & Vinhus,4.5,159,European,€€ - €€€
+Oslo,OSL,74,Kamai,4.5,145,Japanese,€€ - €€€
+Oslo,OSL,75,Restaurant A L'aise,4.5,49,French,€€€€
+Oslo,OSL,76,Izakaya,4.5,91,Japanese,€€ - €€€
+Oslo,OSL,77,Creperie de Mari,4.5,137,European,€€ - €€€
+Oslo,OSL,78,Borggarden Biffrestaurant,4,208,Steakhouse,€€ - €€€
+Oslo,OSL,79,Solsiden,4,499,Seafood,€€€€
+Oslo,OSL,80,Bokbacka,4.5,100,Contemporary,€€€€
+Oslo,OSL,81,Restaurant Fangst,5,40,Japanese,€€ - €€€
+Oslo,OSL,82,Jewel of India,4,353,Indian,€€ - €€€
+Oslo,OSL,83,Vaaghals,4,246,European,€€€€
+Oslo,OSL,84,Pjoltergeist,4.5,137,European,€€ - €€€
+Oslo,OSL,85,Barcia Bistro Bar By San Leandro,4.5,74,Mediterranean,€€ - €€€
+Oslo,OSL,86,Bon Lio,4.5,137,Mediterranean,€€€€
+Oslo,OSL,87,Ostebutikken,4.5,142,French,€€ - €€€
+Oslo,OSL,88,New Anarkali,4,277,Indian,€€ - €€€
+Oslo,OSL,89,Hard Rock Cafe Oslo,3.5,1154,American,€€ - €€€
+Oslo,OSL,90,Olivia Tjuvholmen,4,404,Italian,€€ - €€€
+Oslo,OSL,91,Kaffistova,3.5,386,European,€€ - €€€
+Oslo,OSL,92,Dim Sum By Taste Of China,4,112,Chinese,€€ - €€€
+Oslo,OSL,93,Tjuvholmen Sjomagasin,4,307,Seafood,€€€€
+Oslo,OSL,94,Feinschmecker,4.5,140,French,€€€€
+Oslo,OSL,95,Jarmann Gastropub,4,122,Bar,€€ - €€€
+Oslo,OSL,96,Happolati,4.5,116,Asian,€€ - €€€
+Oslo,OSL,97,Eldhuset Kristiania Skjenkestue,4,225,American,€€ - €€€
+Oslo,OSL,98,Pinerolo Americano,4.5,91,American,€€ - €€€
+Oslo,OSL,99,Funky Fresh Foods - DogA,4.5,148,Cafe,€€ - €€€
+Oslo,OSL,100,Wallmans Oslo,4,150,European,€€€€
+Paris,PAR,1,La Meduse,5,178,French,€€ - €€€
+Paris,PAR,2,Le Cappiello,5,208,French,€€ - €€€
+Paris,PAR,3,ASPIC,5,427,French,€€€€
+Paris,PAR,4,Les Apotres de Pigalle,5,1152,South American,€€ - €€€
+Paris,PAR,5,Epicure,5,2305,French,€€€€
+Paris,PAR,6,Sourire Le Restaurant,5,198,French,€€€€
+Paris,PAR,7,Le Cinq,4.5,1887,French,€€€€
+Paris,PAR,8,Il Etait Un Square,5,1600,French,€€ - €€€
+Paris,PAR,9,Boutary,5,533,French,€€€€
+Paris,PAR,10,Kei Restaurant,4.5,689,French,€€€€
+Paris,PAR,11,Le Gabriel,4.5,338,French,€€€€
+Paris,PAR,12,Bateau le Calife,4.5,2154,French,€€€€
+Paris,PAR,13,L'Affineur' Affine,4.5,752,French,€€ - €€€
+Paris,PAR,14,La Bonne Excuse,4.5,662,French,€€€€
+Paris,PAR,15,Pur' - Jean-Francois Rouquette,4.5,841,French,€€€€
+Paris,PAR,16,L'Abeille,4.5,410,French,€€€€
+Paris,PAR,17,Alliance,5,267,French,€€€€
+Paris,PAR,18,Sacree fleur,4.5,2471,French,€€ - €€€
+Paris,PAR,19,Le 114 Faubourg,4.5,1386,French,€€€€
+Paris,PAR,20,Restaurant H,5,264,French,€€€€
+Paris,PAR,21,Restaurant L'INITIAL,4.5,295,French,€€€€
+Paris,PAR,22,Pierre Gagnaire,4.5,805,French,€€€€
+Paris,PAR,23,Etude,4.5,268,French,€€€€
+Paris,PAR,24,Le Bistrot d'Indochine,4.5,310,Asian,€€ - €€€
+Paris,PAR,25,Bar Italia Brasserie,4.5,915,Italian,€€ - €€€
+Paris,PAR,26,Le Bistrot d'Yves,4.5,284,French,€€ - €€€
+Paris,PAR,27,Flesh Restaurant et Canal Saint Martin,4.5,206,Barbecue,€€ - €€€
+Paris,PAR,28,Paris Picnic,4.5,451,French,€€ - €€€
+Paris,PAR,29,New Jawad Longchamp,4.5,291,Indian,€€ - €€€
+Paris,PAR,30,Fromagerie Danard,4.5,561,Wine Bar,€€ - €€€
+Paris,PAR,31,Le Clos Y,4.5,400,French,€€€€
+Paris,PAR,32,AlKaram,4.5,548,Lebanese,€€ - €€€
+Paris,PAR,33,Cezembre,4.5,439,French,€€€€
+Paris,PAR,34,Le George,4.5,283,Mediterranean,€€€€
+Paris,PAR,35,Seb'on,4.5,940,French,€€ - €€€
+Paris,PAR,36,Petite Fleur,4.5,140,French,€€ - €€€
+Paris,PAR,37,La boite aux lettres,4.5,500,French,€€ - €€€
+Paris,PAR,38,L'Envie du jour,4.5,371,French,€€ - €€€
+Paris,PAR,39,Pedzouille,4.5,293,French,€€ - €€€
+Paris,PAR,40,Le Taillevent,4.5,821,French,€€€€
+Paris,PAR,41,PerBacco,5,105,Italian,€€ - €€€
+Paris,PAR,42,Ristorante Lo Spaghettino,4.5,461,Italian,€€ - €€€
+Paris,PAR,43,La Trattoria Dell'isola,4.5,460,Italian,€€ - €€€
+Paris,PAR,44,Tous,4.5,257,French,€€ - €€€
+Paris,PAR,45,Les Canailles,4.5,496,French,€€ - €€€
+Paris,PAR,46,Pop's,4.5,220,Italian,€€ - €€€
+Paris,PAR,47,New York a Paris,4.5,485,French,€€ - €€€
+Paris,PAR,48,La Petite Rose des Sables,4.5,693,French,€
+Paris,PAR,49,Pane olio e pomodoro,4.5,305,Italian,€€ - €€€
+Paris,PAR,50,La Veraison,4.5,513,French,€€ - €€€
+Paris,PAR,51,La Vache et Le Cuisinier,4.5,764,French,€€ - €€€
+Paris,PAR,52,Le Florimond,4.5,896,French,€€ - €€€
+Paris,PAR,53,Happy Caffe,4.5,259,French,€
+Paris,PAR,54,Le Jeroboam,4.5,462,French,€€ - €€€
+Paris,PAR,55,Pizza Julia,4.5,406,Italian,€
+Paris,PAR,56,Mancini,4.5,505,Italian,€€ - €€€
+Paris,PAR,57,Le Chemise,4.5,597,Contemporary,€€ - €€€
+Paris,PAR,58,Joe Burger,4.5,455,American,€
+Paris,PAR,59,Bistro Paradis,4.5,325,French,€€ - €€€
+Paris,PAR,60,Restaurant Guy Savoy,4.5,498,French,€€€€
+Paris,PAR,61,Chez Toinette,4.5,1370,French,€€ - €€€
+Paris,PAR,62,Auberge des Pyrenees Cevennes,4.5,378,French,€€ - €€€
+Paris,PAR,63,Les Trublions,4.5,252,French,€€ - €€€
+Paris,PAR,64,Ristorante Al Caratello,4.5,1180,Italian,€€ - €€€
+Paris,PAR,65,Restaurant Mariette,4.5,1222,French,€€€€
+Paris,PAR,66,Chez Trassoudaine,4.5,343,French,€€ - €€€
+Paris,PAR,67,Invictus,4.5,477,French,€€ - €€€
+Paris,PAR,68,Les Papilles,4.5,1928,French,€€ - €€€
+Paris,PAR,69,King Marcel - Paris 2eme,4.5,475,French,€€ - €€€
+Paris,PAR,70,Chez Gabrielle,4.5,864,French,€€€
+Paris,PAR,71,Apicius,4.5,555,French,€€€€
+Paris,PAR,72,Papelli,4.5,607,Italian,€€ - €€€
+Paris,PAR,73,Ze Kitchen Galerie,4.5,1155,French,€€€€
+Paris,PAR,74,L'Oiseau Blanc Restaurant,4.5,683,French,€€€€
+Paris,PAR,75,La Crete,4.5,906,Mediterranean,€€ - €€€
+Paris,PAR,76,La Cuisine de Philippe,4.5,1059,French,€€ - €€€
+Paris,PAR,77,La Mandigotte,4.5,653,French,€€ - €€€
+Paris,PAR,78,Chez Imogene,4.5,407,French,€€ - €€€
+Paris,PAR,79,Bistrotters,4.5,2045,French,€€ - €€€
+Paris,PAR,80,L'Alsacien,4.5,652,Wine Bar,€€ - €€€
+Paris,PAR,81,Cobea,4.5,609,French,€€€€
+Paris,PAR,82,Le Quinzieme,4.5,968,French,€€€€
+Paris,PAR,83,Le Pavillon de la Grande Cascade,4.5,791,French,€€€€
+Paris,PAR,84,Loubnane,4.5,952,Lebanese,€€ - €€€
+Paris,PAR,85,L'Aubergeade,4.5,761,French,€€ - €€€
+Paris,PAR,86,Thai Spices,4.5,441,Thai,€€ - €€€
+Paris,PAR,87,Les Climats,4.5,633,French,€€€€
+Paris,PAR,88,Au Bon Accueil,4.5,754,French,€€ - €€€
+Paris,PAR,89,Papelli,5,135,Pizza,€€ - €€€
+Paris,PAR,90,Sur Mesure,4.5,765,French,€€€€
+Paris,PAR,91,Bistrot Chez France,4.5,708,French,€€ - €€€
+Paris,PAR,92,The Hardware Societe,4.5,209,Cafe,€€ - €€€
+Paris,PAR,93,Roomies,4.5,841,American,€
+Paris,PAR,94,Midi 12,4.5,539,French,€
+Paris,PAR,95,Mobster Diner,4.5,525,American,€
+Paris,PAR,96,L'Ange 20,4.5,2279,French,€€ - €€€
+Paris,PAR,97,Les Rupins,4.5,322,Steakhouse,€€ - €€€
+Paris,PAR,98,Mancora Cebicheria,4.5,323,Peruvian,€€ - €€€
+Paris,PAR,99,le papacionu,4.5,428,Italian,€€ - €€€
+Paris,PAR,100,L'Annexe,4.5,540,French,€€ - €€€
+Prague,PRG,1,Wine O'Clock Shop Prague,5,967,Italian,€€ - €€€
+Prague,PRG,2,Namaste India Indian Restaurant,5,377,Indian,€€ - €€€
+Prague,PRG,3,Be Bop Lobby Bar,5,797,International,€€ - €€€
+Prague,PRG,4,Portfolio restaurant,5,884,International,€€€€
+Prague,PRG,5,Etnosvet,4.5,1485,International,€€ - €€€
+Prague,PRG,6,Indian By Nature,4.5,912,Indian,€€ - €€€
+Prague,PRG,7,Bellevue,4.5,3151,International,€€€€
+Prague,PRG,8,Blue Wagon,4.5,436,French,€€ - €€€
+Prague,PRG,9,Restaurant Alcron,4.5,1388,French,€€€€
+Prague,PRG,10,Ristorante Pagana,4.5,1352,Seafood,€€ - €€€
+Prague,PRG,11,SOVA,4.5,366,European,€€ - €€€
+Prague,PRG,12,DIVINE bistronomy twist,4.5,779,International,€€ - €€€
+Prague,PRG,13,U Kunstatu - Craft beer in Old Town,4.5,585,Bar,€€ - €€€
+Prague,PRG,14,K The Two Brothers,4.5,2162,Indian,€€ - €€€
+Prague,PRG,15,Vegan's Restaurant Prague,4.5,852,European,€€ - €€€
+Prague,PRG,16,BadJeff's Barbeque,4.5,849,American,€€ - €€€
+Prague,PRG,17,Terasa u Zlate Studne,4.5,1808,International,€€€€
+Prague,PRG,18,V Zatisi,4.5,1789,International,€€€€
+Prague,PRG,19,Da Tarquinio,4.5,308,Italian,€
+Prague,PRG,20,Bila krava,4.5,865,French,€€ - €€€
+Prague,PRG,21,Mlynec Restaurant,4.5,2673,European,€€€€
+Prague,PRG,22,La Veranda,4.5,1003,Italian,€€€€
+Prague,PRG,23,Sad Man's Tongue Bar & Bistro,4.5,1530,International,€
+Prague,PRG,24,ART&FOOD Had,4.5,811,European,€€ - €€€
+Prague,PRG,25,Chilli Point,4.5,806,International,€€ - €€€
+Prague,PRG,26,La Finestra,4.5,1397,Italian,€€€€
+Prague,PRG,27,La Rotonde Restaurant,4.5,702,French,€€€€
+Prague,PRG,28,Field Restaurant,4.5,1189,European,€€€€
+Prague,PRG,29,Pastar Restaurant and Food Shop,4.5,906,Italian,€€ - €€€
+Prague,PRG,30,Estrella restaurant,4.5,935,European,€€ - €€€
+Prague,PRG,31,Nase maso,4.5,2142,European,€
+Prague,PRG,32,The Street Restaurant & Cocktail Bar,4.5,313,American,€€ - €€€
+Prague,PRG,33,Le Grill Restaurant,4.5,877,European,€€€€
+Prague,PRG,34,George Prime Steak,4.5,2036,American,€€€€
+Prague,PRG,35,ROESEL - craft beer & cake,4.5,186,Bar,€
+Prague,PRG,36,VENUE,4.5,317,Wine Bar,€€ - €€€
+Prague,PRG,37,Cisty stul,4.5,364,International,€€ - €€€
+Prague,PRG,38,St.Martin,4.5,1176,International,€
+Prague,PRG,39,Coda Restaurant,4.5,713,European,€€€€
+Prague,PRG,40,Zdenek's Oyster Bar,4.5,645,Mediterranean,€€€€
+Prague,PRG,41,Lehka Hlava - Clear Head,4.5,2475,European,€€ - €€€
+Prague,PRG,42,BEEF BAR Prague,4.5,398,Steakhouse,€€ - €€€
+Prague,PRG,43,BeerGeek Bar,4.5,253,American,€€ - €€€
+Prague,PRG,44,Kampa Park,4.5,3040,European,€€€€
+Prague,PRG,45,DEN NOC,4.5,516,Wine Bar,€
+Prague,PRG,46,Restaurant Pod Vezi,4.5,1942,European,€€ - €€€
+Prague,PRG,47,Tempo Allegro,4.5,354,Italian,€€ - €€€
+Prague,PRG,48,Atelier Red & Wine,4.5,609,French,€€ - €€€
+Prague,PRG,49,U Kroka,4.5,4932,Diner,€€ - €€€
+Prague,PRG,50,Palanda,4.5,916,American,€€ - €€€
+Prague,PRG,51,Yami Sushi House,4.5,509,Japanese,€€ - €€€
+Prague,PRG,52,Bistro Sisters,4.5,352,Cafe,€
+Prague,PRG,53,U Bulinu,4.5,835,European,€€ - €€€
+Prague,PRG,54,U Modre Kachnicky II.,4.5,1671,European,€€ - €€€
+Prague,PRG,55,Il Capitano Ristorante,4.5,354,Mediterranean,€€ - €€€
+Prague,PRG,56,Meat & Greet Burgerhouse,4.5,465,American,€€ - €€€
+Prague,PRG,57,Cloud 9 Sky Bar & Lounge,4.5,618,Bar,€€ - €€€
+Prague,PRG,58,Rilke Restaurant,4.5,1751,International,€€ - €€€
+Prague,PRG,59,Bibimbap Korea,4.5,298,Asian,€
+Prague,PRG,60,La Bottega Linka,4.5,344,Italian,€€ - €€€
+Prague,PRG,61,Divinis,4.5,545,Italian,€€€€
+Prague,PRG,62,Bugsy's bar,4.5,500,Bar,€€€€
+Prague,PRG,63,The Tavern Bar,4.5,750,Barbecue,€€ - €€€
+Prague,PRG,64,Agave Restaurant,4.5,1008,Mexican,€€ - €€€
+Prague,PRG,65,Krystal Bistro,4.5,393,European,€€ - €€€
+Prague,PRG,66,Maitrea,4.5,2066,Mexican,€€ - €€€
+Prague,PRG,67,Alriso Risotteria Italiana,4.5,888,Italian,€€ - €€€
+Prague,PRG,68,Dish Fine Burger Bistro,4.5,777,American,€€ - €€€
+Prague,PRG,69,Sushi Maru,4.5,313,Korean,€€ - €€€
+Prague,PRG,70,Sansho,4.5,666,Asian,€€€€
+Prague,PRG,71,La Bottega Di Finestra,4.5,915,Italian,€€ - €€€
+Prague,PRG,72,Cicala Trattoria,4.5,751,Mediterranean,€€ - €€€
+Prague,PRG,73,Restaurace Eska,4.5,441,European,€€ - €€€
+Prague,PRG,74,Restaurant U Modre kachnicky,4.5,781,European,€€€€
+Prague,PRG,75,U Magistra Kelly,4.5,1116,European,€
+Prague,PRG,76,Hanabi Sushi House,4.5,589,Japanese,€€ - €€€
+Prague,PRG,77,Cafe Lounge,4.5,659,European,€€ - €€€
+Prague,PRG,78,Yori Restaurant,4.5,321,Asian,€
+Prague,PRG,79,Restaurace Pod Vysehradem,4.5,603,Bar,€
+Prague,PRG,80,Cafe Imperial,4.5,4521,International,€€ - €€€
+Prague,PRG,81,Zvonice,4.5,584,European,€€€€
+Prague,PRG,82,La Bottega Bistroteka,4.5,782,Italian,€€ - €€€
+Prague,PRG,83,La Piccola Perla,4.5,2112,Italian,€
+Prague,PRG,84,San Carlo Dittrichova,4.5,722,Italian,€€ - €€€
+Prague,PRG,85,Pivovarsky klub,4.5,825,Bar,€€ - €€€
+Prague,PRG,86,Restaurant Ungelt,4.5,166,French,€€€€
+Prague,PRG,87,Kantyna,4.5,156,Steakhouse,€€ - €€€
+Prague,PRG,88,Hergetova Cihelna,4.5,1227,International,€€€€
+Prague,PRG,89,"Jo""s Bar & Restaurant",4.5,387,Czech,€€ - €€€
+Prague,PRG,90,Brasileiro U Radnice,4.5,1430,Steakhouse,€€ - €€€
+Prague,PRG,91,Tri Stoleti,4.5,1472,European,€€ - €€€
+Prague,PRG,92,La Casa de la Havana vieja,5,276,Latin,€€€
+Prague,PRG,93,Restaurace MINCOVNA,4.5,1778,European,€€ - €€€
+Prague,PRG,94,IL PALAZZO,4.5,567,European,€€ - €€€
+Prague,PRG,95,The Irish Times Bar,4.5,544,Irish,€€ - €€€
+Prague,PRG,96,La Degustation Boheme Bourgeoise,4.5,1121,European,€€€€
+Prague,PRG,97,Pasta Fresca,4.5,3740,Italian,€€ - €€€
+Prague,PRG,98,Next Door by Imperial,4.5,398,Czech,€€ - €€€
+Prague,PRG,99,Restaurace Stoleti,4.5,1168,European,€€ - €€€
+Prague,PRG,100,Nuance Restaurant,4.5,471,European,€€ - €€€
+Rome,ROM,1,Federica & Barbara of BB Kitchen,5,409,Italian,€€ - €€€
+Rome,ROM,2,Pane e Salame,5,4867,Italian,€
+Rome,ROM,3,Two Sizes,5,1186,Fast Food,€
+Rome,ROM,4,Bread-in,5,666,Italian,€
+Rome,ROM,5,Birra e Sale,4.5,520,Mediterranean,€
+Rome,ROM,6,Panino Divino,4.5,2354,Italian,€
+Rome,ROM,7,PanDivino - Street Food,4.5,565,Italian,€
+Rome,ROM,8,Baguetteria del Fico,4.5,1169,Italian,€
+Rome,ROM,9,I Pizzicaroli,4.5,1338,Italian,€€ - €€€
+Rome,ROM,10,Lost Food Factory,4.5,497,Italian,€
+Rome,ROM,11,My-Ale Craft Beer and Street Food,4.5,453,Italian,€
+Rome,ROM,12,Il Tamburello di Pulcinella,4.5,1032,Italian,€€ - €€€
+Rome,ROM,13,Il Panino Ingegnoso,4.5,586,Italian,€
+Rome,ROM,14,L'uliveto Shop,5,489,Italian,€
+Rome,ROM,15,Pinsa 'Mpo,4.5,754,Italian,€
+Rome,ROM,16,Pinsere,4.5,3602,Italian,€
+Rome,ROM,17,Mr. 100 Tiramisu,5,114,Italian,€€ - €€€
+Rome,ROM,18,LABottega Pastificio con Cucina,4.5,281,Italian,€
+Rome,ROM,19,La Salumeria,4.5,473,Italian,€
+Rome,ROM,20,Osti Matti,4.5,300,Italian,€€ - €€€
+Rome,ROM,21,Pizza Zizza Caffetteria Birreria Desserteria,5,1975,Italian,€
+Rome,ROM,22,Paninoteca Slurp,4.5,558,Italian,€
+Rome,ROM,23,Ciacco&Bacco San Lorenzo,4.5,741,Italian,€
+Rome,ROM,24,Io e Valter Pizzeria Le Torri,4.5,343,Italian,€
+Rome,ROM,25,Ristorante Chiaroscuro,4.5,163,Italian,€€ - €€€
+Rome,ROM,26,PataPinsa,4.5,310,Italian,€€ - €€€
+Rome,ROM,27,Pizza Florida,4.5,901,Italian,€
+Rome,ROM,28,Tommi's Burger Joint,4.5,566,Pub,€
+Rome,ROM,29,Mordi e Vai,4.5,614,Italian,€
+Rome,ROM,30,La Prosciutteria Trevi,4.5,4447,Italian,€
+Rome,ROM,31,E.G.G.,4.5,1087,Italian,€
+Rome,ROM,32,La Pergola,4.5,2022,Italian,€€€€
+Rome,ROM,33,Pataclara,4.5,567,Italian,€€ - €€€
+Rome,ROM,34,La Strega Nocciola,4.5,843,Italian,€
+Rome,ROM,35,Que te Pongo,4.5,561,Italian,€
+Rome,ROM,36,La Boccaccia,4.5,620,Italian,€
+Rome,ROM,37,Est Artigiani del Gusto,4.5,1305,Italian,€€ - €€€
+Rome,ROM,38,La Porta Del Principe,4.5,644,Italian,€€€€
+Rome,ROM,39,Taverna Lucifero,4.5,476,Italian,€€ - €€€
+Rome,ROM,40,MILE Restaurant,4.5,287,Italian,€€ - €€€
+Rome,ROM,41,Erzinio Food,4.5,464,Italian,€
+Rome,ROM,42,La Fata Ignorante,4.5,3870,Seafood,€€ - €€€
+Rome,ROM,43,Ad Hoc,4.5,4825,Italian,€€€€
+Rome,ROM,44,Le Felizianerie,4.5,246,Italian,€€ - €€€
+Rome,ROM,45,Paraponzipo Er Pagnottellaro,4.5,427,Street Food,€
+Rome,ROM,46,Fresco coronari,4.5,417,Mediterranean,€€ - €€€
+Rome,ROM,47,Dietrolangolo,4.5,215,Italian,€€ - €€€
+Rome,ROM,48,Tonnarello,4.5,6574,Italian,€€ - €€€
+Rome,ROM,49,Pasta Chef Monti - Street Food Gourmet,4.5,1724,Italian,€€ - €€€
+Rome,ROM,50,La Tavernetta 29 da Tony e Andrea,4.5,594,Italian,€€ - €€€
+Rome,ROM,51,Angrypig Birretta e Porchetta,4.5,1068,Italian,€
+Rome,ROM,52,Mimi e Coco,4.5,3541,Italian,€€ - €€€
+Rome,ROM,53,Ambrosia Restaurant,4.5,521,Italian,€€ - €€€
+Rome,ROM,54,Osteria del Cavaliere,4.5,1564,Italian,€€ - €€€
+Rome,ROM,55,Elettroforno Frontoni,4.5,381,Italian,€€ - €€€
+Rome,ROM,56,Fa-bio,4.5,574,Italian,€
+Rome,ROM,57,RIONE XIV bistrot,5,85,Italian,€€ - €€€
+Rome,ROM,58,Borgo 139,4.5,513,Italian,€
+Rome,ROM,59,MiVa,4.5,1149,Italian,€€ - €€€
+Rome,ROM,60,Pastasciutta,4.5,1549,Italian,€
+Rome,ROM,61,Suppli,4.5,682,Italian,€
+Rome,ROM,62,PANE & VINO COLOSSEO,4.5,1447,Italian,€
+Rome,ROM,63,Ristorante Crispi 19,4.5,2125,Italian,€€€€
+Rome,ROM,64,Nonna Lia Panzerotti,4.5,331,Italian,€
+Rome,ROM,65,Cantina e Cucina,4.5,8927,Italian,€€ - €€€
+Rome,ROM,66,Ombre Rosse,4.5,3809,Italian,€€ - €€€
+Rome,ROM,67,Pizzeria Loffredo,4.5,1440,Italian,€
+Rome,ROM,68,Il Nido del Pettirosso,4.5,816,Italian,€€ - €€€
+Rome,ROM,69,Essenza Wine Bar,4.5,310,Italian,€€ - €€€
+Rome,ROM,70,Metamorfosi Restaurant,4.5,763,Italian,€€€€
+Rome,ROM,71,Il Pastaio di Roma,4.5,1270,Italian,€
+Rome,ROM,72,Arrosticino Pane & Vino,5,101,Italian,€€ - €€€
+Rome,ROM,73,Tavolo Ventisette,4.5,450,Italian,€€ - €€€
+Rome,ROM,74,da Simo..pane e vino,4.5,1682,Fast Food,€
+Rome,ROM,75,Il Tagliere Toscano Navona,4.5,410,Italian,€€ - €€€
+Rome,ROM,76,Osteria Barberini,4.5,3774,Italian,€€ - €€€
+Rome,ROM,77,Okasan,4.5,176,Vegetarian,€€ - €€€
+Rome,ROM,78,Tira e Molla,4.5,633,Italian,€€ - €€€
+Rome,ROM,79,Sushi Doku,4.5,494,Japanese,€€ - €€€
+Rome,ROM,80,Imago at the Hassler,4.5,881,Asian,€€€€
+Rome,ROM,81,Taverna & Vineria,4.5,578,Italian,€€ - €€€
+Rome,ROM,82,Ganesha India,4.5,373,Indian,€€ - €€€
+Rome,ROM,83,Tischi Toschi Roma,4.5,157,Vegetarian,€€ - €€€
+Rome,ROM,84,Ma che siete venuti a fa,4.5,601,Pub,€
+Rome,ROM,85,Virginiae,4.5,1008,Italian,€€ - €€€
+Rome,ROM,86,OiSUSHI,4.5,495,Japanese,€€ - €€€
+Rome,ROM,87,Casa Savoia,4.5,320,Italian,€€ - €€€
+Rome,ROM,88,Il Gatto e L'Uva,4.5,1241,Mediterranean,€€ - €€€
+Rome,ROM,89,Il Gabriello,4.5,1945,Italian,€€ - €€€
+Rome,ROM,90,La Fraschetta di Castel Sant'Angelo,4.5,1869,Italian,€€ - €€€
+Rome,ROM,91,Mami,4.5,381,Italian,€
+Rome,ROM,92,Ilios,4.5,800,Greek,€
+Rome,ROM,93,Fraschetteria Giampiccolo,4.5,300,Italian,€
+Rome,ROM,94,La Pace Del Palato,4.5,749,Italian,€€ - €€€
+Rome,ROM,95,Da Otello in Trastevere Trastevere,4.5,5037,Pizza,€€ - €€€
+Rome,ROM,96,Old Bear,4.5,834,Italian,€€ - €€€
+Rome,ROM,97,La Tana,4.5,537,Italian,€€ - €€€
+Rome,ROM,98,Cajo e Gajo,4.5,6117,Italian,€€ - €€€
+Rome,ROM,99,Il Covo Ristorante,4.5,611,Italian,€€ - €€€
+Rome,ROM,100,eBar,4.5,542,Italian,€
+Stockholm,STO,1,Adam & Albin Matstudio,4.5,165,European,€€ - €€€
+Stockholm,STO,2,Lilla Ego,4.5,549,European,€€€€
+Stockholm,STO,3,Operakallaren,4.5,359,European,€€€€
+Stockholm,STO,4,Bar Nombre,4.5,496,European,€€ - €€€
+Stockholm,STO,5,Smorgastarteriet,4.5,543,European,€€€€
+Stockholm,STO,6,Restaurang Ekstedt,4.5,387,European,€€€€
+Stockholm,STO,7,Mathias Dahlgren - Matbaren,4.5,455,European,€€€€
+Stockholm,STO,8,Stockholms Gastabud,4.5,1784,European,€€ - €€€
+Stockholm,STO,9,Mancini,4.5,523,Italian,€€€€
+Stockholm,STO,10,Wedholms Fisk,4.5,636,Seafood,€€€€
+Stockholm,STO,11,Kajsas Fisk,4.5,910,Seafood,€
+Stockholm,STO,12,Bistro Bestick,4.5,741,European,€€ - €€€
+Stockholm,STO,13,Rolfs Kok,4.5,989,European,€€ - €€€
+Stockholm,STO,14,Aifur Krog & Bar,4.5,1162,Swedish,€€ - €€€
+Stockholm,STO,15,The Hairy Pig Deli,4.5,1005,Swedish,€€ - €€€
+Stockholm,STO,16,Tutto Bello,4.5,630,Italian,€€ - €€€
+Stockholm,STO,17,Lisa Elmqvist,4.5,793,Delicatessen,€€ - €€€
+Stockholm,STO,18,Omnipollos Hatt,4.5,210,Bar,€€ - €€€
+Stockholm,STO,19,Barrels Burgers & Beer,4.5,985,American,€€ - €€€
+Stockholm,STO,20,Nalen Restaurang,4.5,470,European,€€ - €€€
+Stockholm,STO,21,Tradition,4.5,1276,European,€€ - €€€
+Stockholm,STO,22,Restaurang Kryp In,4.5,1382,European,€€ - €€€
+Stockholm,STO,23,Farang,4.5,621,Asian,€€€€
+Stockholm,STO,24,Akkurat Bar & Restaurant,4.5,648,Bar,€€ - €€€
+Stockholm,STO,25,Oaxen Krog,4.5,703,European,€€€€
+Stockholm,STO,26,Ardbeg Embassy,4.5,818,European,€€ - €€€
+Stockholm,STO,27,Operakallarens Bakficka,4.5,647,European,€€ - €€€
+Stockholm,STO,28,Supper,4.5,334,South American,€€ - €€€
+Stockholm,STO,29,Aqui Tapas Bar,4.5,534,Mediterranean,€€ - €€€
+Stockholm,STO,30,Mom's Kitchen,4.5,124,European,€
+Stockholm,STO,31,STHLM TAPAS Vasastan,4.5,212,Bar,€€ - €€€
+Stockholm,STO,32,Fem Sma Hus,4.5,1452,European,€€€€
+Stockholm,STO,33,Gastrologik,4.5,256,European,€€€€
+Stockholm,STO,34,Slingerbulten,4.5,1085,European,€€ - €€€
+Stockholm,STO,35,Giro Pizzeria Napoletana,4.5,559,Pizza,€€ - €€€
+Stockholm,STO,36,Restaurang AG,4.5,677,Steakhouse,€€€€
+Stockholm,STO,37,Nomad Swedish Food & Bar,4.5,318,European,€€ - €€€
+Stockholm,STO,38,Hermans,4,1225,European,€€ - €€€
+Stockholm,STO,39,Bla Dorren,4.5,846,Bar,€€ - €€€
+Stockholm,STO,40,Sushi Sho,4.5,220,Japanese,€€ - €€€
+Stockholm,STO,41,Prinsen,4,924,European,€€€€
+Stockholm,STO,42,Sturehof,4,1290,Seafood,€€€€
+Stockholm,STO,43,Flippin' Burgers,4,567,American,€€ - €€€
+Stockholm,STO,44,Hermitage,4,644,European,€
+Stockholm,STO,45,Smak,4.5,517,European,€€€€
+Stockholm,STO,46,The Hairy Pig Restaurant,4.5,115,European,€€ - €€€
+Stockholm,STO,47,Restaurang Esperanza,4.5,328,Italian,€€ - €€€
+Stockholm,STO,48,The Flying Elk,4,629,Bar,€€ - €€€
+Stockholm,STO,49,Nystekt Stromming,4.5,327,Seafood,€
+Stockholm,STO,50,Punk Royale,4.5,124,European,€€€€
+Stockholm,STO,51,La Neta,4,386,Mexican,€
+Stockholm,STO,52,Restaurang Hemma Vasastan,4.5,283,European,€€ - €€€
+Stockholm,STO,53,Eriks Gondolen,4,1314,European,€€€€
+Stockholm,STO,54,Maestro,4.5,188,Mediterranean,€€ - €€€
+Stockholm,STO,55,Den Gyldene Freden,4,928,International,€€€€
+Stockholm,STO,56,Pubologi,4.5,397,European,€€€€
+Stockholm,STO,57,Ristorante Da Peppe Due,4,418,Italian,€€ - €€€
+Stockholm,STO,58,Waipo Stockholm,4,610,Chinese,€€ - €€€
+Stockholm,STO,59,Meatballs - For the People,4,822,European,€€ - €€€
+Stockholm,STO,60,Knut Restaurang & Bar,4.5,311,European,€€ - €€€
+Stockholm,STO,61,Kvarnen,4,685,Bar,€€ - €€€
+Stockholm,STO,62,Griffins Steakhouse,4,854,Steakhouse,€€ - €€€
+Stockholm,STO,63,Paganini,4,892,Italian,€€ - €€€
+Stockholm,STO,64,Restaurang Nook,4.5,203,European,€€ - €€€
+Stockholm,STO,65,Wardshuset Ulla Winbladh,4,645,European,€€€€
+Stockholm,STO,66,Greasy Spoon,4.5,245,American,€€ - €€€
+Stockholm,STO,67,Kaffegillet i Gamla Stan,4,376,European,€€ - €€€
+Stockholm,STO,68,Corvina,4.5,158,Italian,€€ - €€€
+Stockholm,STO,69,Stockholm Fisk,4,680,Seafood,€€ - €€€
+Stockholm,STO,70,Pelikan,4,1461,European,€€ - €€€
+Stockholm,STO,71,Speceriet,4.5,173,European,€€ - €€€
+Stockholm,STO,72,Riche,4,791,Swedish,€€ - €€€
+Stockholm,STO,73,Verandan,4.5,530,European,€€€€
+Stockholm,STO,74,Meno Male Vasastan,4.5,104,Italian,€€ - €€€
+Stockholm,STO,75,Restaurant C.C.,4,276,European,€€ - €€€
+Stockholm,STO,76,Kott Och Fiskbaren,4,406,Seafood,€€ - €€€
+Stockholm,STO,77,Magnus Ladulas,4,285,European,€€ - €€€
+Stockholm,STO,78,Osterlanggatan 17 Bar & Kvarterskrog,4,277,European,€€ - €€€
+Stockholm,STO,79,Restaurang Esperia,4.5,170,Mediterranean,€€ - €€€
+Stockholm,STO,80,Chutney,4.5,284,European,€€ - €€€
+Stockholm,STO,81,Nytorget 6,4,424,European,€€ - €€€
+Stockholm,STO,82,Under Kastanjen,4,519,Cafe,€€ - €€€
+Stockholm,STO,83,Masala Masala,4.5,65,Indian,€€ - €€€
+Stockholm,STO,84,Spisa hos Helena,4,357,European,€€ - €€€
+Stockholm,STO,85,Mathias Dahlgrens Rutabaga,4.5,465,European,€€€€
+Stockholm,STO,86,Tranan,4,468,European,€€ - €€€
+Stockholm,STO,87,Kagges,5,59,European,€€€€
+Stockholm,STO,88,Nybrogatan 38,4.5,382,European,€€ - €€€
+Stockholm,STO,89,Grill,4,1033,Steakhouse,€€ - €€€
+Stockholm,STO,90,Le Nom,4.5,104,European,€€ - €€€
+Stockholm,STO,91,Da Peppe Ristorante,4,401,Italian,€€ - €€€
+Stockholm,STO,92,Luzette,4,439,French,€€ - €€€
+Stockholm,STO,93,Lebanon Meza Lounge,4,324,Lebanese,€€ - €€€
+Stockholm,STO,94,Aloe,4.5,115,European,€€€€
+Stockholm,STO,95,Pharmarium,4.5,241,European,€€ - €€€
+Stockholm,STO,96,Restaurant Tegelbacken,4.5,89,European,€€€€
+Stockholm,STO,97,Bun Bo Hue,4.5,85,Asian,€€ - €€€
+Stockholm,STO,98,Tva Sma Svin,4.5,119,European,€€ - €€€
+Stockholm,STO,99,Cafe Facile,4.5,189,French,€€ - €€€
+Stockholm,STO,100,Restaurang Hantverket,4.5,82,European,€€ - €€€
+Vienna,VIE,1,Casino Restaurant Wien,5,241,Austrian,€€€€
+Vienna,VIE,2,Die Metzgerei,4.5,785,Austrian,€€ - €€€
+Vienna,VIE,3,Vinothek W-Einkehr,4.5,444,Austrian,€€ - €€€
+Vienna,VIE,4,Restaurant Lebenbauer,4.5,471,Fusion,€€ - €€€
+Vienna,VIE,5,Mini,4.5,1623,International,€€ - €€€
+Vienna,VIE,6,Restaurant Rote Bar,4.5,430,German,€€€€
+Vienna,VIE,7,ef16 Restaurant Weinbar,4.5,1277,German,€€ - €€€
+Vienna,VIE,8,Skopik & Lohn,4.5,542,Austrian,€€ - €€€
+Vienna,VIE,9,Schachtelwirt,4.5,463,Austrian,€
+Vienna,VIE,10,Wiener Wiaz Haus,4.5,399,German,€€ - €€€
+Vienna,VIE,11,Buxbaum Restaurant,4.5,512,Austrian,€€ - €€€
+Vienna,VIE,12,Al Borgo,4.5,1224,Italian,€€ - €€€
+Vienna,VIE,13,Trattoria Toscana La No,4.5,745,Italian,€€ - €€€
+Vienna,VIE,14,Loca,4.5,896,International,€€€€
+Vienna,VIE,15,Stephan Die Gastwirtschaft Mit Bar,4.5,388,Austrian,€€ - €€€
+Vienna,VIE,16,Paul Restaurant Brasserie Bar,4.5,503,Austrian,€€ - €€€
+Vienna,VIE,17,Restaurant Mythos Fisch und Lamm,4.5,408,Mediterranean,€€ - €€€
+Vienna,VIE,18,Lola Spanisches Tapas Restaurant,4.5,496,Mediterranean,€€ - €€€
+Vienna,VIE,19,LeBurger,4.5,482,American,€€ - €€€
+Vienna,VIE,20,Steirereck,4.5,1544,Austrian,€€€€
+Vienna,VIE,21,Dstrikt Steakhouse,4.5,1071,Austrian,€€€€
+Vienna,VIE,22,Zum Alten Fassl,4.5,371,German,€€ - €€€
+Vienna,VIE,23,Grill house da Max,4.5,335,Steakhouse,€€ - €€€
+Vienna,VIE,24,Natraj Indisches Restaurant,4.5,393,Indian,€€ - €€€
+Vienna,VIE,25,Rosnovskyundco,4.5,524,German,€€ - €€€
+Vienna,VIE,26,Le Ciel by Toni Morwald,4.5,623,French,€€€€
+Vienna,VIE,27,Ribs of Vienna,4.5,2927,American,€€ - €€€
+Vienna,VIE,28,The Bank Brasserie & Bar,4.5,423,Austrian,€€€€
+Vienna,VIE,29,XXL Restaurant Leopoldauer Alm,4.5,1476,German,€€ - €€€
+Vienna,VIE,30,Schillinger's Swing Kitchen,4.5,304,American,€
+Vienna,VIE,31,Trzesniewski,4.5,1076,Austrian,€
+Vienna,VIE,32,Gasthaus Kopp,4.5,739,Austrian,€
+Vienna,VIE,33,Mochi,4.5,445,Japanese,€€ - €€€
+Vienna,VIE,34,Restaurant Ofenloch,4.5,862,German,€€ - €€€
+Vienna,VIE,35,Ilona Stuberl,4.5,814,Austrian,€€ - €€€
+Vienna,VIE,36,Huth Gastwirtschaft,4.5,812,German,€€ - €€€
+Vienna,VIE,37,Gasthaus Reinthaler,4.5,449,German,€€ - €€€
+Vienna,VIE,38,1516 Brewing Company,4,1325,American,€€ - €€€
+Vienna,VIE,39,TIAN Experience Taste,4.5,915,European,€€€€
+Vienna,VIE,40,Melker Stiftskeller,4.5,413,Gastropub,€€ - €€€
+Vienna,VIE,41,Pizzeria Osteria da Giovanni,4.5,819,Italian,€€ - €€€
+Vienna,VIE,42,Door No 8 Restaurant,4.5,236,Steakhouse,€€€€
+Vienna,VIE,43,Edvard,4.5,230,International,€€€€
+Vienna,VIE,44,Julius Meinl am Graben,4.5,437,Austrian,€€ - €€€
+Vienna,VIE,45,el Hans,4.5,498,Mediterranean,€€ - €€€
+Vienna,VIE,46,Purstner,4.5,2490,Austrian,€€ - €€€
+Vienna,VIE,47,Salm Braeu,4.5,4685,Austrian,€€ - €€€
+Vienna,VIE,48,Silvio Nickol Gourmet Restaurant Palais Coburg,4.5,437,European,€€€€
+Vienna,VIE,49,Wiener,4.5,250,German,€€ - €€€
+Vienna,VIE,50,Gmoakeller,4.5,923,German,€€ - €€€
+Vienna,VIE,51,Marienhof,4.5,393,German,€€ - €€€
+Vienna,VIE,52,DO & CO Stephansplatz,4,1218,Japanese,€€€€
+Vienna,VIE,53,Zum Weissen Rauchfangkehrer - The White Chimneysweep,4,1078,German,€€ - €€€
+Vienna,VIE,54,Liebsteinsky,4.5,199,Steakhouse,€€ - €€€
+Vienna,VIE,55,Bier & Bierli Restaurant,4,490,German,€€ - €€€
+Vienna,VIE,56,Restaurant Fromme Helene,4,888,German,€€ - €€€
+Vienna,VIE,57,ULRICH,4,587,Austrian,€€ - €€€
+Vienna,VIE,58,Hungry Guy,4,356,International,€
+Vienna,VIE,59,Crossfield's Australian Pub,4,534,Bar,€€ - €€€
+Vienna,VIE,60,Da Capo,4,1137,Italian,€€ - €€€
+Vienna,VIE,61,Schnitzelwirt,4,1177,German,€
+Vienna,VIE,62,Figlmuller,4,7140,German,€€ - €€€
+Vienna,VIE,63,Bitzinger Wurstelstand Albertina,4,765,German,€
+Vienna,VIE,64,Hopferl,4,420,German,€€ - €€€
+Vienna,VIE,65,Glacis Beisl,4,1156,German,€€ - €€€
+Vienna,VIE,66,Zum Schwarzen Kameel,4,1245,Austrian,€€€€
+Vienna,VIE,67,Pho Saigon,4.5,401,Asian,€€ - €€€
+Vienna,VIE,68,Medusa Restaurant & Club,4,795,Italian,€€ - €€€
+Vienna,VIE,69,L'Osteria,4,547,Italian,€€ - €€€
+Vienna,VIE,70,Figlmueller,4,3452,German,€€ - €€€
+Vienna,VIE,71,Plachutta Wollzeile,4,4937,German,€€ - €€€
+Vienna,VIE,72,Cafe Landtmann,4,2442,Austrian,€€ - €€€
+Vienna,VIE,73,Tian Bistro,4.5,224,European,€€ - €€€
+Vienna,VIE,74,Miznon,4.5,317,Grill,€€ - €€€
+Vienna,VIE,75,Zu ebener Erde und erster Stock,4.5,411,Austrian,€€ - €€€
+Vienna,VIE,76,Cantinetta Antinori,4,682,Italian,€€€€
+Vienna,VIE,77,Plachutta Hietzing,4.5,591,Austrian,€€ - €€€
+Vienna,VIE,78,Reinthaler's Beisl,4,1066,German,€€ - €€€
+Vienna,VIE,79,Der Hannes,4.5,186,Austrian,€€ - €€€
+Vienna,VIE,80,7 Stern Braeu,4,2244,German,€€ - €€€
+Vienna,VIE,81,Gasthaus Poschl,4,891,German,€€ - €€€
+Vienna,VIE,82,Sixta Restaurant,4.5,128,Austrian,€€ - €€€
+Vienna,VIE,83,Fabios,4,975,Italian,€€€€
+Vienna,VIE,84,Restaurant Anna Sacher,4.5,270,Austrian,€€€€
+Vienna,VIE,85,Schillinger's Swing Kitchen,4.5,88,Healthy,€
+Vienna,VIE,86,Via Toledo Enopizzeria,4.5,140,Italian,€€ - €€€
+Vienna,VIE,87,Yori,4.5,236,Barbecue,€€ - €€€
+Vienna,VIE,88,Neni am Naschmarkt,4,784,Mediterranean,€€ - €€€
+Vienna,VIE,89,Vapiano,4,553,Italian,€€ - €€€
+Vienna,VIE,90,Plachuttas Gasthaus zur Oper,4,2204,German,€€ - €€€
+Vienna,VIE,91,Motto am Fluss,4,1445,Austrian,€€ - €€€
+Vienna,VIE,92,Restaurant Salzamt,4.5,477,Austrian,€€ - €€€
+Vienna,VIE,93,Gasthaus Pfudl,4,661,German,€€ - €€€
+Vienna,VIE,94,Pizzeria Scarabocchio,4.5,366,Italian,€€ - €€€
+Vienna,VIE,95,Lugeck,4,1231,German,€€ - €€€
+Vienna,VIE,96,Block House Am Naschmarkt,4.5,146,Austrian,€€ - €€€
+Vienna,VIE,97,Santos Wieden I Mexican Grill & Bar,4.5,260,Mexican,€€ - €€€
+Vienna,VIE,98,Patara - Fine Thai Cuisine,4,508,Asian,€€€€
+Vienna,VIE,99,Bangkok-Vienna,4.5,490,Asian,€€ - €€€
+Vienna,VIE,100,Danieli,4,720,Italian,€€ - €€€
+Warsaw,WAW,1,San Thai,5,108,Thai,€
+Warsaw,WAW,2,Soto Sushi - Warynskiego,4.5,281,Japanese,€€ - €€€
+Warsaw,WAW,3,Amber Room,4.5,357,Polish,€€€€
+Warsaw,WAW,4,N31restaurant&bar by Robert Sowa,4.5,354,Polish,€€ - €€€
+Warsaw,WAW,5,Polska Rozana,4.5,2356,Polish,€€€€
+Warsaw,WAW,6,Stolica,4.5,309,Polish,€€ - €€€
+Warsaw,WAW,7,Maho Restaurant,4.5,293,Mediterranean,€€ - €€€
+Warsaw,WAW,8,Mr India - Indian Restaurant,4.5,468,Indian,€€ - €€€
+Warsaw,WAW,9,Hoza,4.5,693,Steakhouse,€€ - €€€
+Warsaw,WAW,10,Culiinaria Italiana,4.5,277,Italian,€€ - €€€
+Warsaw,WAW,11,InAzia,4.5,455,Japanese,€€€€
+Warsaw,WAW,12,Soul Kitchen,4.5,488,Polish,€€ - €€€
+Warsaw,WAW,13,Stary Dom Restaurant,4.5,1447,Polish,€€ - €€€
+Warsaw,WAW,14,Bulke przez Bibulke Restaurant,4.5,785,American,€€ - €€€
+Warsaw,WAW,15,Przy Zamku,4.5,838,Polish,€€ - €€€
+Warsaw,WAW,16,Ukiuki,4.5,298,Japanese,€€ - €€€
+Warsaw,WAW,17,Delicja Polska,4.5,544,Polish,€€€€
+Warsaw,WAW,18,Youmiko Vegan Sushi,4.5,205,Japanese,€€ - €€€
+Warsaw,WAW,19,Specjaly Regionalne,4.5,1508,Polish,€€ - €€€
+Warsaw,WAW,20,Stara Kamienica,4.5,801,Polish,€€ - €€€
+Warsaw,WAW,21,Same Krafty,4.5,335,Pub,€
+Warsaw,WAW,22,Platter by Karol Okrasa,4.5,393,Polish,€€€€
+Warsaw,WAW,23,Prodiz Warszawski,4.5,296,Polish,€€ - €€€
+Warsaw,WAW,24,Krowarzywa Vegan Burger,4.5,642,Fast Food,€
+Warsaw,WAW,25,Bistro de Paris,4.5,294,French,€€€€
+Warsaw,WAW,26,Portretowa,4.5,683,Polish,€€ - €€€
+Warsaw,WAW,27,Barn Burger,4.5,809,American,€€€
+Warsaw,WAW,28,Wabu Sushi & Japanese Tapas,4.5,289,Japanese,€€ - €€€
+Warsaw,WAW,29,Tel Aviv Food & Wine,4.5,562,Mediterranean,€€ - €€€
+Warsaw,WAW,30,Zapiecek Polskie Pierogarnie,4.5,1215,Polish,€€ - €€€
+Warsaw,WAW,31,Nolita Restaurant,4.5,245,European,€€€€
+Warsaw,WAW,32,Manekin,4.5,732,Polish,€
+Warsaw,WAW,33,Der Elefant,4.5,923,Seafood,€€ - €€€
+Warsaw,WAW,34,Senses Restaurant,4.5,375,Polish,€€€€
+Warsaw,WAW,35,Momencik,4.5,346,Fast Food,€
+Warsaw,WAW,36,Radio Cafe,4.5,762,Polish,€€ - €€€
+Warsaw,WAW,37,Zapiecek,4.5,763,Polish,€€ - €€€
+Warsaw,WAW,38,"Grand Kredens, Restauracja",4,448,Polish,€€ - €€€
+Warsaw,WAW,39,Gospoda Kwiaty Polskie,4,498,Polish,€€ - €€€
+Warsaw,WAW,40,Gosciniec Polskie Pierogi,4.5,554,Polish,€€ - €€€
+Warsaw,WAW,41,Restauracja Dom Polski,4.5,666,Polish,€€€€
+Warsaw,WAW,42,Folk Gospoda,4,1550,Polish,€€ - €€€
+Warsaw,WAW,43,Warszawa Wschodnia by Mateusz Gessler,4.5,721,Polish,€€€€
+Warsaw,WAW,44,Zapiecek,4,1882,Polish,€
+Warsaw,WAW,45,Bubbles,4.5,159,French,€€ - €€€
+Warsaw,WAW,46,AiOLI Cantine Bar Cafe Deli Swietokrzyska,4,1228,Italian,€€ - €€€
+Warsaw,WAW,47,Thaisty,4,487,Asian,€€ - €€€
+Warsaw,WAW,48,Restauracja Elixir by Dom Wodki,4.5,192,Polish,€€€€
+Warsaw,WAW,49,Opasly Tom Restauracja Autorska,4.5,278,Contemporary,€€ - €€€
+Warsaw,WAW,50,Restauracja Zapiecek,4,453,Polish,€€ - €€€
+Warsaw,WAW,51,Atelier Amaro,4.5,513,Polish,€€€€
+Warsaw,WAW,52,Restauracja Dawne Smaki,4,610,Polish,€€ - €€€
+Warsaw,WAW,53,Zapiecek,4,412,Polish,€
+Warsaw,WAW,54,Butchery and Wine,4.5,734,Steakhouse,€€€€
+Warsaw,WAW,55,Cafe Bristol,4.5,259,Polish,€€ - €€€
+Warsaw,WAW,56,Restauracja Belvedere,4.5,442,Polish,€€€€
+Warsaw,WAW,57,Vege Miasto,4.5,209,Polish,€
+Warsaw,WAW,58,Bombaj Masala,4,504,Indian,€€ - €€€
+Warsaw,WAW,59,Czerwony Wieprz,4,919,Polish,€€ - €€€
+Warsaw,WAW,60,Dziurka od Klucza,4.5,277,Italian,€€ - €€€
+Warsaw,WAW,61,Podwale Kompania Piwna,4,2070,Polish,€€ - €€€
+Warsaw,WAW,62,Rusiko Restaurant,4.5,170,Georgian,€€ - €€€
+Warsaw,WAW,63,Pizzeria Ciao a Tutti,4.5,194,Italian,€€ - €€€
+Warsaw,WAW,64,Thai Me Up!,4.5,93,Asian,€€ - €€€
+Warsaw,WAW,65,Shipudei Berek,4,335,Middle Eastern,€€ - €€€
+Warsaw,WAW,66,La Brasserie Moderne,4.5,204,Polish,€€€€
+Warsaw,WAW,67,Ole! Restaurant & Cocktail Bar,4.5,154,Mediterranean,€€€€
+Warsaw,WAW,68,Le Cedre 84,4.5,180,Lebanese,€€ - €€€
+Warsaw,WAW,69,Sloik Restaurant,4,359,Polish,€€ - €€€
+Warsaw,WAW,70,Pod Gigantami Exclusive Restaurant,4.5,140,European,€€€€
+Warsaw,WAW,71,Restaurant El Greco,4,468,Mediterranean,€€ - €€€
+Warsaw,WAW,72,Brasserie Warszawska,4.5,209,European,€€€€
+Warsaw,WAW,73,Halka,4.5,261,Polish,€€ - €€€
+Warsaw,WAW,74,Trattoria Rucola,4,299,Italian,€€ - €€€
+Warsaw,WAW,75,Ciao Napoli,4.5,122,Italian,€
+Warsaw,WAW,76,U Szwejka,4,1077,Polish,€€ - €€€
+Warsaw,WAW,77,Benihana,4.5,137,Japanese,€€ - €€€
+Warsaw,WAW,78,Hard Rock Cafe Warsaw,4,1333,American,€€ - €€€
+Warsaw,WAW,79,PAPU,4.5,197,Polish,€€€€
+Warsaw,WAW,80,Delizia,4.5,443,Italian,€€ - €€€
+Warsaw,WAW,81,Piw Paw,4.5,293,Bar,€€ - €€€
+Warsaw,WAW,82,Maka i Woda,4,537,Italian,€€ - €€€
+Warsaw,WAW,83,Zascianek,4.5,190,Polish,€€ - €€€
+Warsaw,WAW,84,Why Thai Food & Wine,4.5,368,Asian,€€ - €€€
+Warsaw,WAW,85,Spacca Napoli,4,256,Italian,€€ - €€€
+Warsaw,WAW,86,Ale Wino,4.5,131,European,€€ - €€€
+Warsaw,WAW,87,Thai Thai,4,257,Asian,€€€€
+Warsaw,WAW,88,Restaurant Canton,4.5,150,Chinese,€€ - €€€
+Warsaw,WAW,89,Miss Kimchi,4.5,115,Asian,€
+Warsaw,WAW,90,Zielnik,4.5,175,Polish,€€ - €€€
+Warsaw,WAW,91,Sushi Zushi,4.5,302,Japanese,€€ - €€€
+Warsaw,WAW,92,Dom Polski Restaurant,4.5,162,Polish,€€€€
+Warsaw,WAW,93,Miedzy Bulkami,4.5,153,American,€€ - €€€
+Warsaw,WAW,94,La Dolce Vita,4,462,Pizza,€€ - €€€
+Warsaw,WAW,95,Hoppiness Beer & Food,4.5,149,American,€€ - €€€
+Warsaw,WAW,96,Beef 'n' Roll,4.5,82,American,€€ - €€€
+Warsaw,WAW,97,Bez Tytulu,4.5,70,French,€€ - €€€
+Warsaw,WAW,98,Spring Roll Asian Cuisine,4.5,346,Chinese,€€ - €€€
+Warsaw,WAW,99,Chianti,4.5,225,Italian,€€ - €€€
+Warsaw,WAW,100,Veg Deli,4.5,154,Polish,€€ - €€€
+Zurich,ZRH,1,La Fonte,4.5,704,Italian,€€ - €€€
+Zurich,ZRH,2,Tamarind Hill Indian Restaurant,4.5,418,Indian,€€ - €€€
+Zurich,ZRH,3,Differente Hotel Krone Unterstrass,4.5,505,Swiss,€€ - €€€
+Zurich,ZRH,4,Haus zum Rueden,4.5,157,Mediterranean,€€€€
+Zurich,ZRH,5,Didi's Frieden,4.5,546,French,€€€€
+Zurich,ZRH,6,My Kitchen,4.5,361,Asian,€€ - €€€
+Zurich,ZRH,7,"Gustav Restaurant & Bar, Cafe & Confiserie",4.5,196,Mediterranean,€€€€
+Zurich,ZRH,8,Kindli,4.5,492,Swiss,€€€€
+Zurich,ZRH,9,Raclette Factory - Rindermarkt,4.5,146,Swiss,€€ - €€€
+Zurich,ZRH,10,Haus Hiltl,4.5,3085,Indian,€€ - €€€
+Zurich,ZRH,11,tibits,4,685,European,€€ - €€€
+Zurich,ZRH,12,Rolli's Steakhouse Oerlikon,4.5,591,American,€€ - €€€
+Zurich,ZRH,13,Restaurant Zunfthaus zur Waag,4.5,288,French,€€€€
+Zurich,ZRH,14,Ristorante Da Angela,4.5,200,Italian,€€€€
+Zurich,ZRH,15,La Pasta,4.5,596,Italian,€€ - €€€
+Zurich,ZRH,16,Cantinetta Antinori,4,812,Italian,€€€€
+Zurich,ZRH,17,YAMAS,4.5,145,Mediterranean,€€ - €€€
+Zurich,ZRH,18,Kronenhalle,4,991,French,€€€€
+Zurich,ZRH,19,Zeughauskeller,4,3951,German,€€ - €€€
+Zurich,ZRH,20,Ristorante Bindella,4.5,495,Italian,€€€€
+Zurich,ZRH,21,Hummer & Austernbar Zurich,4.5,309,French,€€€€
+Zurich,ZRH,22,Le Dezaley,4,661,Swiss,€€ - €€€
+Zurich,ZRH,23,Restaurant Nihao,5,68,Chinese,€€ - €€€
+Zurich,ZRH,24,YEN'S,4.5,348,Japanese,€€ - €€€
+Zurich,ZRH,25,Mesa,4.5,261,International,€€€€
+Zurich,ZRH,26,Restaurant Swiss Chuchi,4,1974,Swiss,€€ - €€€
+Zurich,ZRH,27,Cicchetteria da Rosa,4.5,93,Spanish,€€ - €€€
+Zurich,ZRH,28,The Artisan - Kitchen and Urban Garden,4.5,176,Central European,€€ - €€€
+Zurich,ZRH,29,Restaurant Ach'i,4.5,375,Chinese,€
+Zurich,ZRH,30,Ecco,5,90,European,€€€€
+Zurich,ZRH,31,Thach Restaurant,4.5,71,Chinese,€
+Zurich,ZRH,32,Kokoro,4.5,104,Japanese,€€ - €€€
+Zurich,ZRH,33,asiaway vietnamese cuisine,4.5,240,Asian,€€ - €€€
+Zurich,ZRH,34,Carlton Restaurants & Bar,4.5,193,Swiss,€€€€
+Zurich,ZRH,35,Ristorante Da Cono,4,275,Swiss,€€ - €€€
+Zurich,ZRH,36,Restaurant Weisses Rossli,4.5,203,Swiss,€€€€
+Zurich,ZRH,37,Restaurant Pavillon,4.5,238,French,€€€€
+Zurich,ZRH,38,Mesob Restaurant and Bar,4.5,173,African,€€ - €€€
+Zurich,ZRH,39,Rive Gauche,4.5,235,European,€€€€
+Zurich,ZRH,40,Restaurant Baerengasse,4.5,270,Steakhouse,€€€€
+Zurich,ZRH,41,Restaurant Opera,4.5,236,European,€€€€
+Zurich,ZRH,42,Restaurant Orsini,4.5,173,Italian,€€€€
+Zurich,ZRH,43,Restaurant Bar Helvetia,4.5,268,Mediterranean,€€ - €€€
+Zurich,ZRH,44,Sternen Grill,4,582,German,€
+Zurich,ZRH,45,Lindenhofkeller,4.5,297,European,€€€€
+Zurich,ZRH,46,Jules Verne Panoramabar,4,376,Bar,€€ - €€€
+Zurich,ZRH,47,Bianchi,4.5,312,Seafood,€€€€
+Zurich,ZRH,48,La Tavolata Zum Grobe Ernst,4.5,75,Italian,€€ - €€€
+Zurich,ZRH,49,Za'atar,5,71,Lebanese,€
+Zurich,ZRH,50,Restaurant Miracle,4.5,201,Italian,€€ - €€€
+Zurich,ZRH,51,The Bite,4,358,American,€€ - €€€
+Zurich,ZRH,52,LOFT FIVE,4,478,American,€€ - €€€
+Zurich,ZRH,53,La Taqueria,4.5,161,Mexican,€€ - €€€
+Zurich,ZRH,54,Ban Song Thai,4.5,310,Asian,€€ - €€€
+Zurich,ZRH,55,Tadka Indian Restaurant,5,80,Indian,€€ - €€€
+Zurich,ZRH,56,Pizzeria Dal Nastro,4.5,271,Italian,€€ - €€€
+Zurich,ZRH,57,Raclette Stube,4,359,Swiss,€€ - €€€
+Zurich,ZRH,58,Restaurant Huhnerhimmel,4.5,117,Swiss,€€ - €€€
+Zurich,ZRH,59,AuGust,4,326,Swiss,€€ - €€€
+Zurich,ZRH,60,Kafi Dihei,4.5,134,Cafe,€€ - €€€
+Zurich,ZRH,61,Marcellino Pane e Vino,4.5,214,Italian,€€ - €€€
+Zurich,ZRH,62,Brasserie Lipp,4,727,French,€€€€
+Zurich,ZRH,63,Zunfthaus zur Zimmerleuten,4,343,Swiss,€€ - €€€
+Zurich,ZRH,64,Brasserie Louis,4,449,French,€€ - €€€
+Zurich,ZRH,65,Restaurant La Soupiere,4.5,172,Swiss,€€€€
+Zurich,ZRH,66,Restaurant Heugumper,4.5,143,Swiss,€€€€
+Zurich,ZRH,67,Drei Stuben,4.5,237,Swiss,€€€€
+Zurich,ZRH,68,Maison Manesse,4.5,376,Contemporary,€€€€
+Zurich,ZRH,69,Metropol,4.5,193,Japanese,€€€€
+Zurich,ZRH,70,Restaurant zum Kropf,4,403,Swiss,€€ - €€€
+Zurich,ZRH,71,Brasserie O,4.5,99,French,€€ - €€€
+Zurich,ZRH,72,Clouds,4,1023,French,€€€€
+Zurich,ZRH,73,White Elephant,4,371,Asian,€€ - €€€
+Zurich,ZRH,74,Marktkuche,4.5,159,International,€€ - €€€
+Zurich,ZRH,75,Hiltl Dachterrasse,4,135,Indian,€€ - €€€
+Zurich,ZRH,76,Le Chef,4.5,217,European,€€€€
+Zurich,ZRH,77,LaZoupa,4.5,131,Cafe,€€ - €€€
+Zurich,ZRH,78,EquiTable im Sankt Meinrad,4.5,167,Swiss,€€€€
+Zurich,ZRH,79,Hotel Restaurant Frohsinn,4.5,147,Swiss,€€ - €€€
+Zurich,ZRH,80,Wunderbrunnen,4.5,103,Swiss,€€ - €€€
+Zurich,ZRH,81,Taverne da Angelo,4.5,103,Italian,€€ - €€€
+Zurich,ZRH,82,Holy Cow! Gourmet Burger Company,4,568,American,€
+Zurich,ZRH,83,Santa Lucia,3.5,663,Italian,€€ - €€€
+Zurich,ZRH,84,Au Gratin Restaurant,4,199,Swiss,€€ - €€€
+Zurich,ZRH,85,20/20 by Movenpick Wein Restaurant,4,206,European,€€ - €€€
+Zurich,ZRH,86,Baltho Kuche & Bar,4.5,101,Bar,€€ - €€€
+Zurich,ZRH,87,Restaurant Enit,4.5,61,European,€€ - €€€
+Zurich,ZRH,88,Restaurant Au Premier,4,184,Swiss,€€€€
+Zurich,ZRH,89,Maori - Pacific Rim Cuisine,4.5,176,Sushi,€€ - €€€
+Zurich,ZRH,90,Luca2,5,58,Italian,€€ - €€€
+Zurich,ZRH,91,The Restaurant,4.5,288,International,€€€€
+Zurich,ZRH,92,Restaurant Burgli,4.5,200,Swiss,€€ - €€€
+Zurich,ZRH,93,Grain,4.5,67,American,€€ - €€€
+Zurich,ZRH,94,NENI Zurich,4,109,Israeli,€€ - €€€
+Zurich,ZRH,95,Vees Bistro - Thai Food,4.5,131,Asian,€€ - €€€
+Zurich,ZRH,96,Restaurant Bahnhof Wiedikon,4.5,86,Swiss,€
+Zurich,ZRH,97,Nagasui,4.5,185,Chinese,€€ - €€€
+Zurich,ZRH,98,Italian Monkey,4,103,Mediterranean,€€ - €€€
+Zurich,ZRH,99,Bu's,4.5,200,Swiss,€€€€
+Zurich,ZRH,100,Frau Gerolds Garten,4,242,Swiss,€€ - €€€
