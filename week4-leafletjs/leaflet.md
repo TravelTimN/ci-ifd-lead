@@ -29,10 +29,10 @@ Images are served through a web server (*some examples below*), with a URL like 
 
 ### **ATTRIBUTION**
 
+Whichever map tile provider you decide to use, proper **Attribution** is *mandatory*! If you are using multiple map tile providers, you must supply proper attribution for each layer. Some examples of attribution are below, but be sure to double-check for updated attribution details per vendor.
+
 ##### *example of multiple map tile attributions*
 ![Attribution Example](https://github.com/TravelTimN/ci-ifd-lead/blob/master/week4-leafletjs/example-project/img/attribution.png)
-
-Whichever map tile provider you decide to use, proper **Attribution** is *mandatory*! If you are using multiple map tile providers, you must supply proper attribution for each layer. Some examples of attribution are below, but be sure to double-check for updated attribution details per vendor.
 
 *NOTE*: Some map tile providers are starting to embed attribution automatically. By default, *Leaflet* attribution is built-in, and with certain plugins like the *Esri Geosearch control*.
 
@@ -47,3 +47,50 @@ Whichever map tile provider you decide to use, proper **Attribution** is *mandat
 
 ##
 
+### **COORDINATES**
+
+If you aren't using a dataset with pre-determined latitude/longitude coordinates, then the easiest way to find coordinates is to use **[Google Maps](https://www.google.com/maps)**. Find a specific place, *right-click* and select `What's here?`. It'll bring a pop-up at the bottom of the page with details about where you've clicked, along with the coordinates.
+
+![Example Coordinates on Google Maps](https://github.com/TravelTimN/ci-ifd-lead/blob/master/week4-leafletjs/example-project/img/latlng.png)
+
+You can copy/paste from the pop-up, or click directly on the link to get the coordinates larger on screen. Be careful copying any coordinates from the pop-up at the bottom, and remove any blank spaces that may have accidentally been copied from Google.
+
+##
+
+### **BASIC MAP**
+
+Believe it or not, you can have your own map with as little as a few lines of code!
+For demo purposes, I'm going to use the **World Street Map** provided by *ArcGIS | Esri*. This example uses the LeafletJS CDN for version 1.4.0 which is the current version at the time of this build (April 2019).
+
+<details>
+  <summary>HTML</summary>
+~~~~html
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.4.0/dist/leaflet.css" type="text/css">
+<div id="map"></div>
+<script src="https://unpkg.com/leaflet@1.4.0/dist/leaflet.js"></script>
+~~~~
+</details>
+
+<details>
+  <summary>CSS</summary>
+~~~~css
+#map {
+    height: 500px;
+}
+~~~~
+</details>
+
+<details>
+  <summary>JS</summary>
+~~~~js
+var mapTileLayers = L.tileLayer("http://services.arcgisonline.com/arcgis/rest/services/World_Street_Map/MapServer/tile/{z}/{y}/{x}", {
+    attribution: "Powered by <a href='https://developers.arcgis.com/terms/attribution/' target='_blank' rel='noopener'>Esri</a>"
+});
+
+var map = L.map("map", {
+    layers: [mapTileLayers],
+    center: [23.5, 12],
+    zoom: 2
+});
+~~~~
+</details>
