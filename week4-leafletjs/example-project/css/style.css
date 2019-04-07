@@ -1,0 +1,58 @@
+* {
+    margin: 0 auto;
+    padding: 0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+/*----- NAV BAR -----*/
+nav {
+    height: 10vh;
+    background-color: #000;
+    color: #fff;
+    text-align: center;
+}
+
+nav ul li {
+    display: inline-block;
+    margin: 3vh 4vw;
+    text-transform: uppercase;
+    font-weight: bold;
+    letter-spacing: 2px;
+}
+
+
+/*----- MAP -----*/
+/*--------------------------------------------- ! IMPORTANT ! */
+/* you must specify at least *height* for your map to display */
+#map {
+    height: 85vh;
+    width: 100%;
+    background-color: #eee;
+}
+
+/* optional hover to match the zoom icons, but on the search control */
+.leaflet-touch .geocoder-control-input:hover {
+    background-color: #F4F4F4;
+}
+
+
+
+/*----- FOOTER -----*/
+footer {
+    height: 5vh;
+    background-color: #000;
+    color: #fff;
+    text-align: center;
+    font-size: 0.75em;
+    line-height: 5vh;
+}
+
+footer a {
+    color: #fff;
+    font-weight: bolder;
+    text-decoration: none;
+}
+
+footer a:hover {
+    text-decoration: underline;
+}
