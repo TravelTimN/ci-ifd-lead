@@ -88,3 +88,128 @@ var map = L.map("map", {
     zoom: 2
 });
 ```
+
+Et voila! That's it! You've got a simple map of Earth!
+
+##
+
+### **MAP OVERLAY**
+
+If adding a map **overlay**, it must come *after* the map settings above in your JavaScript file.
+
+```js
+var mapOverlay = L.tileLayer("http://services.arcgisonline.com/arcgis/rest/services/Reference/World_Boundaries_and_Places/MapServer/tile/{z}/{y}/{x}");
+mapOverlay.bringToFront().addTo(map).setZIndex(9);
+```
+
+Note that it's setting `.bringToFront()` and `.setZIndex(9)` so it sits on top of the basemap layer.
+
+##
+
+### **MARKERS**
+
+You can add a simple **marker** with the following code:
+
+```js
+var myMarker = L.marker([-22.951993, -43.210439]).addTo(map);
+```
+
+That will add a basic marker on *Christ the Redeemer* in Rio de Janeiro.
+
+If you'd like to add a few additional items to the marker for user-interaction, just append them to the same line, immediately after `.addTo(map)`
+
+- `.bindPopup("Christ the Redeemer")` // pop-up with text once clicked
+- `.bindTooltip("Rio de Janeiro")` // tooltip with text on hover
+- `.openPopup()` // sets the pop-up to be automatically opened when the map loads
+
+##
+
+### **CUSTOM MARKERS**
+
+You can have the marker be whatever image you'd like with a few extra lines of code!
+
+```js
+var rioIcon = new L.Icon({
+    iconUrl: "img/rio.png", // image location in your directory
+    iconSize: [50, 50], // image size (width: 50px; height: 50px;)
+    iconAnchor: [25, 50] // sets location of marker respective to LatLng coordinates [X, Y]
+});
+rioMarker.setIcon(rioIcon); // append custom icon to marker
+```
+
+##
+
+### **CIRCLES**
+
+Drawing a **circle** radius on your map is simple, with a few optional properties listed below.
+
+```js
+var myCircle = L.circle([53.349807, -6.260255], { // LatLng of circle (Dublin Spire)
+        color: "#000", // stroke color
+        opacity: 0.5, // opacity from 0-1
+        fillColor: "#0f0", // fill color
+        fillOpacity: 0.5, // fill opacity
+        radius: 50 // radius of circle
+    }).addTo(map).bindPopup("Dublin Spire").bindTooltip("Dublin"); // append with pop-up and tooltip
+```
+
+##
+
+### **POLYLINES**
+
+A **polyline** is a straight line from one coordinate to another.
+
+Note: It will not bend or arc as it would normally do on a sphere. Actual physical straight line on screen.
+
+```js
+var myPolyline = L.polyline([
+    [-22.951993, -43.210439], // starting coordinates of polyline (Rio)
+    [40.676698, 117.241585] // ending coordinates of polyline (Beijing)
+], {
+    color: "red", // color can be #HEX, name, RGB(A), etc.
+    weight: 5, // stroke or width of line
+    opacity: 1 // opacity of line
+}).addTo(map).bindPopup("<b>Christ the Redeemer<br>- to -<br>Great Wall of China</b>").bindTooltip("Rio to Beijing");
+```
+
+##
+
+## **POLYGONS**
+
+**Polygons** are multi-sided shapes that take several coordinates to render.
+
+My sincere apologies to the Kazakh nation for this crappy rendition of their wonderful country, which I had the pleasure of visiting in 2017!
+
+```js
+var kazakhPoly = L.polygon([
+    [41.791686, 52.532313],
+    [44.613073, 50.300030],
+    [45.962637, 53.090383],
+    [47.042953, 52.462554],
+    [46.228697, 49.567562],
+    [49.276056, 46.533053],
+    [51.780782, 51.032498],
+    [51.216236, 59.717473],
+    [54.072007, 61.356805],
+    [55.321612, 70.425454],
+    [53.869636, 73.317153],
+    [54.304194, 76.736554],
+    [50.953315, 79.947535],
+    [50.986721, 83.119436],
+    [49.184949, 87.481489],
+    [47.220813, 85.740977],
+    [47.220813, 83.005456],
+    [45.330319, 82.264586],
+    [45.008892, 79.871005],
+    [42.283878, 80.191691],
+    [43.272062, 74.235027],
+    [40.716621, 68.437327],
+    [43.655295, 65.110162],
+    [43.564289, 61.955585],
+    [45.597759, 58.496693],
+    [45.046214, 56.011634],
+    [41.321885, 55.497063],
+    [42.403493, 54.075143]
+]).addTo(map).bindPopup("Kazakhstan").bindTooltip("Kazakhstan");
+```
+

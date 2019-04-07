@@ -18,7 +18,7 @@ $(document).ready(function () {
         center: [23.5, 12], // central lat-lng once loaded
         zoom: 2, // smaller numbers = zoomOut // larger numbers = zoomIn
         minZoom: 2, // max zoomOut permitted
-        maxZoom: 12, // max zoomIn permitted
+        maxZoom: 18, // max zoomIn permitted
         maxBounds: [ // stops map from infinite scrolling at edges
             [-75, -190],
             [90, 190]
@@ -77,7 +77,7 @@ $(document).ready(function () {
 
     //----------------------------------------------------------- MARKERS + CUSTOM ICONS
     // set variable with Latitute and Longitude, plus any options bindings
-    var rioMarker = L.marker([-22.951993, -43.210439]).addTo(map).bindPopup("Christ the Redeemer").bindTooltip("Rio de Janeiro")/*.openPopup()*/;
+    var rioMarker = L.marker([-22.951993, -43.210439]).addTo(map).bindPopup("Christ the Redeemer").bindTooltip("Rio de Janeiro") /*.openPopup()*/ ;
     // set custom icon per marker
     var rioIcon = new L.Icon({
         iconUrl: "img/rio.png", // image location
@@ -86,7 +86,7 @@ $(document).ready(function () {
     });
     rioMarker.setIcon(rioIcon); // append custom icon to marker
 
-    var beijingMarker = L.marker([40.676698, 117.241585]).addTo(map).bindPopup("Great Wall of China").bindTooltip("Beijing")/*.openPopup()*/;
+    var beijingMarker = L.marker([40.676698, 117.241585]).addTo(map).bindPopup("Great Wall of China").bindTooltip("Beijing") /*.openPopup()*/ ;
     var beijingIcon = new L.Icon({
         iconUrl: "img/beijing.png",
         iconSize: [50, 50],
@@ -94,7 +94,7 @@ $(document).ready(function () {
     });
     beijingMarker.setIcon(beijingIcon);
 
-    var cairoMarker = L.marker([29.979213, 31.134357]).addTo(map).bindPopup("Pyramids of Giza").bindTooltip("Cairo")/*.openPopup()*/;
+    var cairoMarker = L.marker([29.979213, 31.134357]).addTo(map).bindPopup("Pyramids of Giza").bindTooltip("Cairo") /*.openPopup()*/ ;
     var cairoIcon = new L.Icon({
         iconUrl: "img/cairo.png",
         iconSize: [50, 50],
@@ -102,7 +102,7 @@ $(document).ready(function () {
     });
     cairoMarker.setIcon(cairoIcon);
 
-    var parisMarker = L.marker([48.858314, 2.294546]).addTo(map).bindPopup("Eiffel Tower").bindTooltip("Paris")/*.openPopup()*/;
+    var parisMarker = L.marker([48.858314, 2.294546]).addTo(map).bindPopup("Eiffel Tower").bindTooltip("Paris") /*.openPopup()*/ ;
     var parisIcon = new L.Icon({
         iconUrl: "img/paris.png",
         iconSize: [50, 50],
@@ -110,7 +110,7 @@ $(document).ready(function () {
     });
     parisMarker.setIcon(parisIcon);
 
-    var desertMarker = L.marker([36.990464, -110.095567]).addTo(map).bindPopup("Monument Valley").bindTooltip("Arizona")/*.openPopup()*/;
+    var desertMarker = L.marker([36.990464, -110.095567]).addTo(map).bindPopup("Monument Valley").bindTooltip("Arizona") /*.openPopup()*/ ;
     var desertIcon = new L.Icon({
         iconUrl: "img/desert.png",
         iconSize: [50, 50],
@@ -118,7 +118,7 @@ $(document).ready(function () {
     });
     desertMarker.setIcon(desertIcon);
 
-    var easterMarker = L.marker([-27.125710, -109.276806]).addTo(map).bindPopup("Hanga Roa").bindTooltip("Easter Island")/*.openPopup()*/;
+    var easterMarker = L.marker([-27.125710, -109.276806]).addTo(map).bindPopup("Hanga Roa").bindTooltip("Easter Island") /*.openPopup()*/ ;
     var easterIcon = new L.Icon({
         iconUrl: "img/easter.png",
         iconSize: [50, 50],
@@ -126,7 +126,7 @@ $(document).ready(function () {
     });
     easterMarker.setIcon(easterIcon);
 
-    var sydneyMarker = L.marker([-33.856963, 151.215136]).addTo(map).bindPopup("Syndey Opera House").bindTooltip("Sydney")/*.openPopup()*/;
+    var sydneyMarker = L.marker([-33.856963, 151.215136]).addTo(map).bindPopup("Syndey Opera House").bindTooltip("Sydney") /*.openPopup()*/ ;
     var sydneyIcon = new L.Icon({
         iconUrl: "img/sydney.png",
         iconSize: [50, 50],
@@ -134,7 +134,7 @@ $(document).ready(function () {
     });
     sydneyMarker.setIcon(sydneyIcon);
 
-    var penguinMarker = L.marker([-69.512083, -65.713293]).addTo(map).bindPopup("Here be Penguins!").bindTooltip("Antarctica")/*.openPopup()*/;
+    var penguinMarker = L.marker([-69.512083, -65.713293]).addTo(map).bindPopup("Here be Penguins!").bindTooltip("Antarctica") /*.openPopup()*/ ;
     var penguinIcon = new L.Icon({
         iconUrl: "img/penguin.png",
         iconSize: [50, 50],
@@ -142,7 +142,7 @@ $(document).ready(function () {
     });
     penguinMarker.setIcon(penguinIcon);
 
-    var okavangoMarker = L.marker([-19.649958, 22.905784]).addTo(map).bindPopup("Okavango Delta").bindTooltip("Botswana")/*.openPopup()*/;
+    var okavangoMarker = L.marker([-19.649958, 22.905784]).addTo(map).bindPopup("Okavango Delta").bindTooltip("Botswana") /*.openPopup()*/ ;
     var okavangoIcon = new L.Icon({
         iconUrl: "img/okavango.png",
         iconSize: [50, 50],
@@ -150,7 +150,7 @@ $(document).ready(function () {
     });
     okavangoMarker.setIcon(okavangoIcon);
 
-    var polarMarker = L.marker([78.235721, 15.491337]).addTo(map).bindPopup("Here be Polar Bears!").bindTooltip("Svalbard")/*.openPopup()*/;
+    var polarMarker = L.marker([78.235721, 15.491337]).addTo(map).bindPopup("Here be Polar Bears!").bindTooltip("Svalbard") /*.openPopup()*/ ;
     var polarIcon = new L.Icon({
         iconUrl: "img/polar.png",
         iconSize: [50, 50],
@@ -179,6 +179,14 @@ $(document).ready(function () {
         fillOpacity: 0.5,
         radius: 200000
     }).addTo(map).bindPopup("Top-Right Bound");
+
+    var myCircle = L.circle([53.349807, -6.260255], { // LatLng of circle (Dublin Spire)
+        color: "#000", // stroke color
+        opacity: 0.5, // opacity from 0-1
+        fillColor: "#0f0", // fill color
+        fillOpacity: 0.5, // fill opacity
+        radius: 50 // radius of circle
+    }).addTo(map).bindPopup("Dublin Spire").bindTooltip("Dublin"); // append circle to "map" #div with pop-up
 
 
 
