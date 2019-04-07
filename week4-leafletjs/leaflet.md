@@ -64,25 +64,25 @@ For demo purposes, I'm going to use the **World Street Map** provided by *ArcGIS
 
 <details>
   <summary>HTML</summary>
-~~~~html
+```html
 <link rel="stylesheet" href="https://unpkg.com/leaflet@1.4.0/dist/leaflet.css" type="text/css">
 <div id="map"></div>
 <script src="https://unpkg.com/leaflet@1.4.0/dist/leaflet.js"></script>
-~~~~
+```
 </details>
 
 <details>
   <summary>CSS</summary>
-~~~~css
+```css
 #map {
     height: 500px;
 }
-~~~~
+```
 </details>
 
 <details>
   <summary>JS</summary>
-~~~~js
+```js
 var mapTileLayers = L.tileLayer("http://services.arcgisonline.com/arcgis/rest/services/World_Street_Map/MapServer/tile/{z}/{y}/{x}", {
     attribution: "Powered by <a href='https://developers.arcgis.com/terms/attribution/' target='_blank' rel='noopener'>Esri</a>"
 });
@@ -92,5 +92,5 @@ var map = L.map("map", {
     center: [23.5, 12],
     zoom: 2
 });
-~~~~
+```
 </details>
