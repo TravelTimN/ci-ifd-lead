@@ -62,26 +62,21 @@ You can copy/paste from the pop-up, or click directly on the link to get the coo
 Believe it or not, you can have your own map with as little as a few lines of code!
 For demo purposes, I'm going to use the **World Street Map** provided by *ArcGIS | Esri*. This example uses the LeafletJS CDN for version 1.4.0 which is the current version at the time of this build (April 2019).
 
-<details>
-  <summary>HTML</summary>
+**HTML**
 ```html
 <link rel="stylesheet" href="https://unpkg.com/leaflet@1.4.0/dist/leaflet.css" type="text/css">
 <div id="map"></div>
 <script src="https://unpkg.com/leaflet@1.4.0/dist/leaflet.js"></script>
 ```
-</details>
 
-<details>
-  <summary>CSS</summary>
+**CSS**
 ```css
 #map {
     height: 500px;
 }
 ```
-</details>
 
-<details>
-  <summary>JS</summary>
+**JS**
 ```js
 var mapTileLayers = L.tileLayer("http://services.arcgisonline.com/arcgis/rest/services/World_Street_Map/MapServer/tile/{z}/{y}/{x}", {
     attribution: "Powered by <a href='https://developers.arcgis.com/terms/attribution/' target='_blank' rel='noopener'>Esri</a>"
@@ -93,4 +88,3 @@ var map = L.map("map", {
     zoom: 2
 });
 ```
-</details>
