@@ -57,8 +57,6 @@ $(document).ready(function () {
                     centLat = (Math.floor(currentBounds._northEast.lat) + Math.floor(currentBounds._southWest.lat)) / 2;
                     centLng = (Math.floor(currentBounds._northEast.lng) + Math.floor(currentBounds._southWest.lng)) / 2;
                     map.flyTo([centLat, centLng], newZoom);
-                } else {
-                    newZoom = map.getZoom();
                 }
                 results.clearLayers();
             }); // end: (function by Tim Nelson)
