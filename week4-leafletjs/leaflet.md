@@ -392,6 +392,6 @@ Everyone has their own opinions, and may find something easier than others. Whet
 
 ##
 
-# **[LIVE DEMO on Codepen](https://codepen.io/traveltimn/full/MRjvXB)**
+# **[LIVE DEMO on Codepen](https://codepen.io/traveltimn/pen/MRjvXB)**
 
 The demo on Codepen matches a lot of the examples listed above for reference.
