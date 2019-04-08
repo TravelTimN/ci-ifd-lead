@@ -287,13 +287,13 @@ One such example is the **Esri Geocoding control** which allows a user to search
 **JS**
 ```js
 var searchControl = L.esri.Geocoding.geosearch().addTo(map);
-var results = L.layerGroup().addTo(map);
 ```
 
 However, all that does is bring you to the destination searched. You can take it a step further and display a marker for the user.
 
 **JS**
 ```js
+var results = L.layerGroup().addTo(map);
 searchControl.on("results", function (data) {
     for (var i = data.results.length - 1; i >= 0; i--) {
         results.addLayer(L.marker(data.results[i].latlng)
