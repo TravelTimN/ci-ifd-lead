@@ -43,6 +43,7 @@ $(document).ready(function () {
     var results = L.layerGroup().addTo(map);
 
     searchControl.on("results", function (data) {
+        results.clearLayers();
         for (var i = data.results.length - 1; i >= 0; i--) {
             results.addLayer(L.marker(data.results[i].latlng).bindPopup(data.results[0].text).bindTooltip(data.results[0].text));
 
@@ -58,7 +59,6 @@ $(document).ready(function () {
                     centLng = (Math.floor(currentBounds._northEast.lng) + Math.floor(currentBounds._southWest.lng)) / 2;
                     map.flyTo([centLat, centLng], newZoom);
                 }
-                results.clearLayers();
             }); // end: (function by Tim Nelson)
         }
     });

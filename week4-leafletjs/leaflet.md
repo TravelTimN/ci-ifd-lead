@@ -289,12 +289,13 @@ One such example is the **Esri Geocoding control** which allows a user to search
 var searchControl = L.esri.Geocoding.geosearch().addTo(map);
 ```
 
-However, all that does is bring you to the destination searched. You can take it a step further and display a marker for the user.
+However, all that does is bring you to the destination searched. You can take it a step further and display a marker.
 
 **JS**
 ```js
 var results = L.layerGroup().addTo(map);
 searchControl.on("results", function (data) {
+    results.clearLayers();
     for (var i = data.results.length - 1; i >= 0; i--) {
         results.addLayer(L.marker(data.results[i].latlng)
         .bindPopup(data.results[0].text)
@@ -313,7 +314,7 @@ Once you get to a certain zoom-level, the Geocoder will only filter results that
 
 **A FIX** : built by [Tim Nelson](https://github.com/TravelTimN)
 
-*Note: This example uses jQuery, but the same could be achieve with vanilla JavaScript.*
+*Note: This example uses jQuery, but the same could be achieved with vanilla JavaScript.*
 
 **HTML**
 ```html
@@ -323,13 +324,15 @@ Once you get to a certain zoom-level, the Geocoder will only filter results that
 
 **JS**
 ```js
+var results = L.layerGroup().addTo(map);
 searchControl.on("results", function (data) {
+    results.clearLayers();
     for (var i = data.results.length - 1; i >= 0; i--) {
         results.addLayer(L.marker(data.results[i].latlng)
         .bindPopup(data.results[0].text)
         .bindTooltip(data.results[0].text));
 
-        // code by: Tim Nelson
+        // code by: Tim Nelson (https://github.com/TravelTimN)
         $(".geocoder-control-input").on("click", function () {
             currentZoom = map.getZoom();
             if (currentZoom > 7) {
@@ -341,13 +344,12 @@ searchControl.on("results", function (data) {
                 + Math.floor(currentBounds._southWest.lng)) / 2;
                 map.flyTo([centLat, centLng], newZoom);
             }
-            results.clearLayers();
         });
     }
 });
 ```
 
-Once the user clicks on the Esri Geocoder Search button, it will capture the current mapBounds. Using the bounds of the current latitude and longitude, depending on the current zoom-level, will zoom out far enough the the Geocoder Search function applies globally again. Should the user already be zoomed-out to a high enough level, nothing will happen.
+Once the user clicks on the Esri Geocoder Search button, it will capture the current mapBounds. Using the bounds of the current latitude and longitude, depending on the current zoom-level, it will automatically zoom out far enough the the Geocoder Search function to search globally again. Should the user already be zoomed-out to a high enough level, nothing will happen.
 
 Now you can search for small-town middle-of-nowhere, followed by large metropolis without any problems! **(P.S. - You're Welcome!)**
 
@@ -357,7 +359,7 @@ If you have a dataset with a large amount of Markers, you may want to consider u
 
 In conjunction with the *Leaflet.markercluster* plugin, another plugin that works well with it is the **[Leaflet.MarkerCluster.LayerSupport](https://github.com/ghybs/Leaflet.MarkerCluster.LayerSupport)** plugin. It helps to group different layers or markers which can be filtered.
 
-If you'd like to see both of these plugins in action, I used both of them on my **[Code Institute Milestone #2 project](https://traveltimn.github.io/ci-milestone02-ifd/)**.
+If you'd like to see both of these plugins in action, I used both of them on my **[Code Institute Milestone #2 project](https://traveltimn.github.io/ci-milestone02-ifd/)**. This was due to the fact that I have over 11,000 markers in my dataset of various types!
 
 There are hundreds of possibilities that you can incorporate into your LeafletJS map project.
 
@@ -365,12 +367,14 @@ There are hundreds of possibilities that you can incorporate into your LeafletJS
 
 ### **LeafletJS vs Google Maps**
 
-Although LeafletJS is a free open-source library, it doesn't have all of the bells and whistles that Google Maps offers "out of the box". Depending on what your goal is for a map project, you may require plugins to build your project. In some cases, a paid API Key would be required, similar to the method which Google Maps introduced in the summer of 2018. Some examples of why you would need an API Key:
+Although LeafletJS is a free open-source library, it doesn't have all of the bells and whistles that Google Maps offers "out of the box". Depending on what your goal is for a map project, you may require plugins to build the map. In some cases, a paid API Key would be required, similar to the method which Google Maps introduced in the summer of 2018. Some examples of why you would need an API Key:
 
 - *Search nearby* to display the closest hotels / restaurants / ATMs / etc.
 - Custom map tiles that may not be free.
 - Providing *direction*s from point-to-point.
 - Access to *Street View*.
+
+If you're building a **Holiday Destination Finder** for the Milestone project, don't be discouraged that LealetJS can't perform the *search nearby* function. There are alternate API Key providers that are cheaper than Google, which can be implemented quick and simple into a Leaflet map! You just need to look around online - I've left plenty of sources above as starting points!
 
 There are several functions that Google provides with the use of the API Key, which Leaflet would require additional plugings to accomplish. Some quick *pros* and *cons*, purely based on my own experience with each.
 
@@ -381,8 +385,8 @@ There are several functions that Google provides with the use of the API Key, wh
 | Lightweight | Search nearest POI | | Invalid code can cause excess callbacks, eating into free credits |
 | Completely customizable | Very well-known | | Closed Source |
 | Excellent documentation | Excellent documentation | | Discourages interaction with non-Google products |
-| Easy to use | Simple enough to use | | Difficult to migrate to another service |
-| Dozens of map tiles | | | Single basemap only |
+| Easy to use | Simple(ish) enough to use | | Difficult to migrate to another service |
+| Dozens of free map tile providers | | | Single basemap tiles only |
 
 Everyone has their own opinions, and may find something easier than others. Whether it's **LeafletJS**, **Google Maps**, or one of the several other map APIs that exist, the important thing is that you learn something new, and have fun building your maps!
 
