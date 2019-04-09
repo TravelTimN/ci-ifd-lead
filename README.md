@@ -19,7 +19,7 @@
 > [`LeafletJS`](https://github.com/TravelTimN/ci-ifd-lead/blob/master/week4-leafletjs/leaflet.md) (*alternative to Google Maps*)
 
 ### **Week 5**: *11 April 2019 @20:00 (UTC)*
-> `Jasmine TDD`
+> [`Jasmine TDD`](https://github.com/TravelTimN/ci-ifd-lead/blob/master/week5-jasmine/jasmine.md)
 
 ### **Week 6**: *18 April 2019 @20:00 (UTC)*
 > `General Q&A session`
