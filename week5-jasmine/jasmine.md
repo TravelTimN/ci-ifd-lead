@@ -48,8 +48,8 @@ In order to use Jasmine properly, the order of `<script>` tags loaded in your do
 | 1 | `<script src="https://cdnjs.cloudflare.com/ajax/libs/jasmine/3.4.0/jasmine.js"></script>` |
 | 2 | `<script src="https://cdnjs.cloudflare.com/ajax/libs/jasmine/3.4.0/jasmine-html.js"></script>` |
 | 3 | `<script src="https://cdnjs.cloudflare.com/ajax/libs/jasmine/3.4.0/boot.js"></script>` |
-| | *don't forget the CSS file* |
-| | `<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/jasmine/3.4.0/jasmine.css">` |
+| | ***don't forget the CSS file*** |
+| * | `<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/jasmine/3.4.0/jasmine.css">` |
 
 #### Folders
 
@@ -60,24 +60,28 @@ You should have a **testing** folder which contains two sub-folders, namely **sp
 ```
 index.html
 |
-└─── testing/
-|   |
-│   └─── scripts/
-│   |   │   file.js
-|   |
-│   └─── spec/
-│   |   │   fileSpecs.js
+└────> testing/
+|    |
+│    └────> scripts/
+|    |    |
+│    |    └────>  file.js
+|    |
+│    └────> spec/
+|         |
+│         └────>  fileSpecs.js
 │   
-└─── assets/
-    |
-    └─── js/
-    |   |   script.js
-    |
-    └─── css/
-    |   |   style.css
-    |
-    └─── img/
-        |   favicon.png
+└────> assets/
+     |
+     └────> js/
+     |    |
+     |    └────>  script.js
+     |
+     └────> css/
+     |    |
+     |    └────>  style.css
+     |
+     └────> img/
+          └────>  favicon.png
 ```
 
 **! IMPORTANT !** You must load the source code (*file.js*) before loading the specifications (*fileSpecs.js*) in your html file.
@@ -116,9 +120,9 @@ For example, an simple boilerplate for Jasmine testing:
 
 The red-green-refactoring philosohy is simply a method of testing with three stages:
 
-| | |
-| --- | --- |
-| **RED** | *Create a test, and make it fail!* :rotating_light: |
-| **GREEN** | *Make your test pass by any means necessary!* |
-| **REFACTOR** | *Change the code to remove duplication while ensuring all tests still pass* |
+| | | |
+| --- | --- | --- |
+| **RED** | :no_entry: | *Create a test, and make it fail!* |
+| **GREEN** | :white_check_mark: | *Make your test pass by any means necessary!* |
+| **REFACTOR** | :recycle: | *Change the code to remove duplication while ensuring all tests still pass* |
 
