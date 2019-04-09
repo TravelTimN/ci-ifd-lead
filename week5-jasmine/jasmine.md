@@ -136,12 +136,30 @@ Defensive Programming essentially means: *writing code that will **catch** and *
 
 We should always expect that our uses will *do something that we hadn't planned or intended*! This is why Defensive Programming is relatively important.
 
-Let's look at an example of a simple *addition* function below. We're looking for two parameters (a, b) in our *addition* function. **Defensive Programming** comes into play by checking the **typeof()** value the user inputs, ensuring that the *type* is a *number*. If both **a** and **b** *types* are *numbers*, then we can return the values of both of them combined; otherwise we simply return *"Error!"*.
+Let's look at an example of a simple *addition* function below. We're looking for two parameters (a, b) in our *addition* function. **Defensive Programming** comes into play by checking the **typeof()** value the user inputs, ensuring that the *type* is a *"number"*. If both **a** and **b** *types* are *"numbers"*, then we can return the values of both of them combined; otherwise we simply return *"Error!"*.
 
 ```js
 function addition(a, b) {
-  if(typeof(a) == "number" && typeof(b) == "number") {
+  if (typeof(a) == "number" && typeof(b) == "number") {
       return a + b;
+  } else {
+      return "Error!";
+  }
+}
+```
+
+We can improve this even further by making a new **object** called `Calculator`, which will increment the *value* each time it gets called. We'll set the initial *value* to `0`, and increment any number with `this.value += number` for every time the Calculator object is called. We're still using **Defensive Programming** by ensuring the **typeof()** is actually a *"number"*.
+
+*Note: be careful when using this method for "division", since any number divided by 0 will always be **0**!*
+
+```js
+Calculator = function() {
+  this.value = 0;
+}
+
+Calculator.prototype.add = function(number) {
+  if (typeof(number) == "number") {
+      this.value += number;
   } else {
       return "Error!";
   }
@@ -220,7 +238,7 @@ describe("Calculator", function() {
 
 **Spies** are called upon by using the **spyOn**() method.
 
-Essentially, **spies** allow us to check if our function(s) have been called or not. It's also a way to check that our function(s) have been called *correctly*! Let's add another **it**(function) to our calculator
+Essentially, **spies** allow us to check if our function(s) have been called or not. It's also a way to check that our function(s) have been called *correctly*! Let's add another **it**(function) to our calculator:
 
 ```js
     it("should return an error if we don't supply two numbers", function() {
@@ -229,3 +247,115 @@ Essentially, **spies** allow us to check if our function(s) have been called or 
       expect(window.alert).toHaveBeenCalledWith("Error!");
     });
 ```
+
+*Note: `alert()` doesn't actually provide a pop-up on screen like normal. That's because Jasmine is "capturing" the error/alert, and it will only be displayed in test results.*
+
+##
+
+### **FizzBuzz Challenge**
+
+<details>
+  <summary>FizzBuzz Challenege (click to expand)</summary>
+Your challenge is to write some tests for the FizzBuzz game.
+
+FizzBuzz is a classic programming problem that is often asked as an interview question. Create a function called **fizzBuzz**. This function should take in number as a parameter. The function should do the following:
+
+- If the number is divisible by **3** and **5**, then return "**FizzBuzz**"
+- If the number is divisible by **3**, then return "**Fizz**"
+- If the number is divisible by **5**, then return "**Buzz**"
+- Else just return the *number*
+
+Write a set of tests that pass in various values to the FizzBuzz function and ensure that the function meets the above requirements. Make sure that you test all different "*types*" of inputs that the function may receive.
+</details>
+
+#### **FizzBuzz: Step 1** - source code
+
+```js
+fizzBuzz = function (number) {
+    if (typeof (number) == "number") {
+        if (number % 3 === 0 && number % 5 === 0) {
+            return ("FizzBuzz");
+        } else if (number % 3 === 0) {
+            return ("Fizz");
+        } else if (number % 5 === 0) {
+            return ("Buzz");
+        } else {
+            return number;
+        }
+    } else {
+        return "Error!";
+    }
+};
+```
+
+#### **FizzBuzz: Step 2** - tests / specifications
+
+```js
+describe("FizzBuzz", function () {
+
+    beforeEach(function () {
+        FizzBuzz = new fizzBuzz();
+    });
+
+    describe("Checks Modulus", function () {
+        it("should exist", function () {
+            expect(fizzBuzz).toBeDefined();
+        });
+
+        it("should return FizzBuzz if divisible by 3 and by 5", function () {
+            var result = fizzBuzz(15);
+            expect(result).toBe("FizzBuzz");
+        });
+
+        it("should return Fizz if divisible by 3", function () {
+            var result = fizzBuzz(9);
+            expect(result).toBe("Fizz");
+        });
+
+        it("should return Buzz if divisible by 5", function () {
+            var result = fizzBuzz(25);
+            expect(result).toBe("Buzz");
+        });
+
+        it("should return number if not divisile by 3 or by 5", function () {
+            var result = fizzBuzz(2);
+            expect(result).toBe(2);
+        });
+
+        it("should return an error if we don't supply a number", function() {
+            spyOn(window, "alert");
+            var result = fizzBuzz(alert("Error!"));
+            expect(window.alert).toHaveBeenCalledWith("Error!");
+        });
+    });
+});
+```
+
+##
+
+##
+
+### **That's all great Tim - but how do I use Jasmine for my Milestone Projects?**
+
+Without giving away all of the answers, I'll leave a few breadcrumbs to help you along your path to build some amazing Test-Driven Development (TDD) into your Milestone Project using Jasmine!
+
+It's important to note that Jasmine is not meant for testing things like **click events** for example, but rather for testing functions that may contain events.
+
+You could accomplish this in a few simple steps:
+
+1. move your *events* (ie: click events) into a *function*.
+2. call the *function* from within your code.
+3. using Jasmine, test the *function* itself, not the *event*.
+
+##
+
+### **Further Resources | Additional Reading**
+
+#### **Jasmine + other Libraries** *(relevant to this milestone project)*
+
+- **[Jasmine + jQuery](https://www.npmjs.com/package/jasmine-jquery)**
+    - *example: Simon Game using jQuery* :video_game:
+- **[Jasmine + D3.js](http://busypeoples.github.io/post/testing-d3-with-jasmine/)**
+    - *example: Data Dashboard* :bar_chart:
+- **[Jasmine + Google Maps](https://kwilson.io/blog/mock-out-google-maps-geocoder-with-jasmine-spies/)**
+    - *example: Holiday Planner* :earth_africa:
