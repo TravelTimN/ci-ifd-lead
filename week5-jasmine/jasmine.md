@@ -122,7 +122,110 @@ The red-green-refactoring philosohy is simply a method of testing with three sta
 
 | | | |
 | --- | --- | --- |
-| **RED** | :no_entry: | *Create a test, and make it fail!* |
-| **GREEN** | :white_check_mark: | *Make your test pass by any means necessary!* |
-| **REFACTOR** | :recycle: | *Change the code to remove duplication while ensuring all tests still pass* |
+| :no_entry: | **RED** | *Create a test, and make it fail!* |
+| :white_check_mark: | **GREEN** | *Make your test pass by any means necessary!* |
+| :recycle: | **REFACTOR** | *Change the code to remove duplication while ensuring all tests still pass.* |
 
+##
+
+### **DEFENSIVE PROGRAMMING**
+
+Defensive Programming essentially means: *writing code that will **catch** and **deal with** potential issues*.
+
+> *"A good programmer is someone who always looks both ways before crossing a one-way street".* (**Doug Linder**)
+
+We should always expect that our uses will *do something that we hadn't planned or intended*! This is why Defensive Programming is relatively important.
+
+Let's look at an example of a simple *addition* function below. We're looking for two parameters (a, b) in our *addition* function. **Defensive Programming** comes into play by checking the **typeof()** value the user inputs, ensuring that the *type* is a *number*. If both **a** and **b** *types* are *numbers*, then we can return the values of both of them combined; otherwise we simply return *"Error!"*.
+
+```js
+function addition(a, b) {
+  if(typeof(a) == "number" && typeof(b) == "number") {
+      return a + b;
+  } else {
+      return "Error!";
+  }
+}
+```
+
+##
+
+### **Calculator**
+
+An example from the Code Institute lessons is the **calculator** test suite.
+
+1. I want to test a **calculator**.
+2. I am going to test the **addition** function.
+3. I want to get the result of **42**.
+4. I expect the result of **20** + **22** to be **42**.
+
+Using the **Jasmine** medthod of building a *test suite*, this could be simple as:
+
+```js
+describe("Calculator", function() {
+  describe("Addition tests", function() {
+    it("should return 42", function() {
+      expect(addition(20,22)).toBe(42);
+    });
+  });
+});
+```
+
+- **describe({...})**
+    - ***describe*** the _"desired function(s)"_
+- **it({...})**
+    - ***it*** should _"do something"_
+- **expect(...)**
+    - ***expect*** the _"outcome of"_
+- **toBe(...)**
+    - ***toBe*** _"desired response"_
+
+##
+
+### **beforeEach**(function)
+
+Our **Calculator** above isn't very effective, because it will constantly add any subsequent numbers that may follow. The **beforeEach**(function) will essentially clear each **describe**(function) back to the initial state, which permits us to test multiple functions consecutively.
+
+*[ think of it like clearing cache or cookies on your computer, setting things back to null ]*
+
+The **beforeEach**(function) is also known as a "*callback*" function.
+
+By adding the **beforeEach**(function) and passing additional **it**(functions), our results will be **42** and **26** instead of a combined **68**.
+
+```js
+describe("Calculator", function() {
+
+  beforeEach(function() {
+    calc = new Calculator;
+  });
+
+  describe("Addition tests", function() {
+    it("should return 42", function() {
+      calc.add(20);
+      calc.add(22);
+      expect(calc.value).toBe(42);
+    });
+    it("should return 26", function() {
+      calc.add(7);
+      calc.add(19);
+      expect(calc.value).toBe(26);
+    });
+  });
+});
+```
+
+##
+
+### **spyOn**()
+
+**Spies** are called upon by using the **spyOn**() method.
+
+Essentially, **spies** allow us to check if our function(s) have been called or not. It's also a way to check that our function(s) have been called *correctly*! Let's add another **it**(function) to our calculator
+
+```js
+    it("should return an error if we don't supply two numbers", function() {
+      spyOn(window, "alert");
+      calc.add("Lorem ipsum");
+      expect(window.alert).toHaveBeenCalledWith("Error!");
+    });
+```
