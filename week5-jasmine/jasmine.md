@@ -62,6 +62,8 @@ index.html
 |
 └────> testing/
 |    |
+|    └────> test.html
+|    |
 │    └────> scripts/
 |    |    |
 │    |    └────>  file.js
@@ -81,6 +83,7 @@ index.html
      |    └────>  style.css
      |
      └────> img/
+          |
           └────>  favicon.png
 ```
 
@@ -354,7 +357,7 @@ You could accomplish this in a few simple steps:
 #### **Jasmine + other Libraries** *(relevant to this milestone project)*
 
 - **[Jasmine + jQuery](https://www.npmjs.com/package/jasmine-jquery)**
-    - *example: Simon Game using jQuery* :video_game:
+    - *example: Simon Game* :video_game:
 - **[Jasmine + D3.js](http://busypeoples.github.io/post/testing-d3-with-jasmine/)**
     - *example: Data Dashboard* :bar_chart:
 - **[Jasmine + Google Maps](https://kwilson.io/blog/mock-out-google-maps-geocoder-with-jasmine-spies/)**

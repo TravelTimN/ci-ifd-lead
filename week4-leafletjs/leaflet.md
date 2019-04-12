@@ -388,7 +388,7 @@ There are several functions that Google provides with the use of the API Key, wh
 | Easy to use | Simple(ish) enough to use | | Difficult to migrate to another service |
 | Dozens of free map tile providers | | | Single basemap tiles only |
 
-Everyone has their own opinions, and may find something easier than others. Whether it's **LeafletJS**, **Google Maps**, or one of the several other map APIs that exist, the important thing is that you learn something new, and have fun building your maps!
+Everyone has their own opinions, and may find something easier than others. Whether it's **LeafletJS**, **Google Maps**, or one of the several other map APIs that exist, the important thing is that you learn something new, and have fun building your maps!!
 
 ##
 
