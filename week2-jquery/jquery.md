@@ -259,7 +259,7 @@ $(document).ready(function() {
 ##
 
 ## **STYLING USING JQUERY MANIPULATION**
-> futher info can be found here: [jQuery Style Manipulation](https://api.jquery.com/category/manipulation/style-properties/)
+> further info can be found here: [jQuery Style Manipulation](https://api.jquery.com/category/manipulation/style-properties/)
 
 ##
 
@@ -296,7 +296,7 @@ $(document).ready(function() {
 ##
 
 ## **JQUERY EVENTS**
-> futher examples can be found here: [jQuery Events](https://api.jquery.com/category/events/)
+> further examples can be found here: [jQuery Events](https://api.jquery.com/category/events/)
 
 ##
 
@@ -416,7 +416,7 @@ $("button").click(function() {
 ~~~~js
 // when clicking an element with .box class
 $(".box").click(function() {
-    // split (this) element's class attributs on a blank _space_ and store in variable called myClasses
+    // split (this) element's class attributes on a blank _space_ and store in variable called myClasses
     var myClasses = $(this).attr("class").split(" ");
     // the first[0] class attribute will be the new variable 'boxClass'
     var boxClass = myClasses[0];
