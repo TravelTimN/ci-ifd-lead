@@ -6,21 +6,30 @@
 
 **Command**: `sass --watch main.scss`
 
+---
+
 ##
 
 **Debugging in Chrome**: Chrome Settings **>** "*Enable CSS Source Maps*"
 
+---
+
 ##
 
-### **Q**:
+### **QUESTION**:
 What is the difference between *SASS* | *SCSS* | *LESS*?
 
-### **A**:
+<details>
+<summary>Click to see the <b>Answer</b></summary>
+
 - **SASS** is the oldest SassScript syntax, sometimes called "*indented syntax*" which doesn't use `{ } ;` but relies on indentation and spaces.
 - **SCSS** is the a newer SassScript syntax, referred to as "*sassy CSS*", which does make use of `{ } ;` like in CSS.
 - **LESS** is the newest preprocessor syntax, supported by Bootstrap originally, however from Bootstrap 4+, it switched to SassScript.
 - SassScript (SASS/SCSS) is based on *Ruby*. LESS is based on *JavaScript*.
 - Most developers code with **SCSS** (`.scss`)
+</details>
+
+---
 
 ##
 
@@ -43,20 +52,25 @@ div {
 }
 ~~~~
 
-### **Q**:
+### **QUESTION**:
 What's another common property that has several elements, similar to `font:` and `text:`?
 
-### **A**:
+<details>
+<summary>Click to see the <b>Answer</b></summary>
+
 `background:` (*-image* *-color* *-attachment* *-repeat* etc.)
 
 Other examples could be: `border:` | `grid:` | `column:` | `flex:` | `list-style:` | `margin:` | `outline:` | `padding:` | `transition:` | `word:` | etc.
+</details>
+
+---
 
 ##
 
 ### *VARIABLES*:
 Reusable code in *variables*, similar to JavaScript variables.
 
-~~~~
+~~~~css
 $red: #FF1100;
 $orange: #FF5100;
 $yellow: #FFD000;
@@ -71,6 +85,8 @@ $btn-height: $btn-width / 2;
 
 $txtShadow: 2px 2px 2px var($black);
 ~~~~
+
+---
 
 ##
 
@@ -89,11 +105,16 @@ h1 {
 }
 ~~~~
 
-### **Q**:
+### **QUESTION**:
 What will be the result of our new `<h1>` tag size?
 
-### **A**:
+<details>
+<summary>Click to see the <b>Answer</b></summary>
+
 `2em`
+</details>
+
+---
 
 ##
 
@@ -108,7 +129,7 @@ $colors: $red, $orange, $yellow, $green, $blue, $purple;
 #### Map
 *(contains key-value pairs)*
 
-~~~~
+~~~~css
 $colors: (
   red: #FF1100,
   orange: #FF5100,
@@ -119,13 +140,18 @@ $colors: (
 );
 ~~~~
 
-### **Q**:
+### **QUESTION**:
 What items are considered the **keys** and **values** from our *map* above?
 
-### **A**: 
+<details>
+<summary>Click to see the <b>Answer</b></summary>
+
 - `$colors:` = the Sass *map*
-- `red:` `orange:` `yellow:` `green:` `blue:` `purple:` = *map keys*
-- `#FF1100` `#FF5100` `#FFD000` `#03FF42` `#018FC3` `#A602FF` = map *values*
+- `red:`, `orange:`, `yellow:`, `green:`, `blue:`, `purple:` = *map keys*
+- `#FF1100`, `#FF5100`, `#FFD000`, `#03FF42`, `#018FC3`, `#A602FF` = map *values*
+</details>
+
+---
 
 ##
 
@@ -142,10 +168,12 @@ You can take *key-value pairs* and iterate through them to create multiple class
 }
 ~~~~
 
-### **Q**:
+### **QUESTION**:
 What would the result give us?
 
-### **A**:
+<details>
+<summary>Click to see the <b>Answer</b></summary>
+
 ~~~~css
 .btn-red {
   background-color: #FF1100;
@@ -166,12 +194,18 @@ What would the result give us?
   background-color: #A602FF;
 }
 ~~~~
+</details>
 
-### **Bonus Q**:
-What represents **interpolation** above?
+### **Bonus Question**:
+What represents the **interpolation** above?
 
-### **A**:
+<details>
+<summary>Click to see the <b>Answer</b></summary>
+
 `{$key}`
+</details>
+
+---
 
 ##
 
@@ -188,10 +222,12 @@ $class: image;
 }
 ~~~~
 
-### **Q**:
+### **QUESTION**:
 What would the result give us?
 
-### **A**:
+<details>
+<summary>Click to see the <b>Answer</b></summary>
+
 ~~~~css
 .image-1 {
   width: 61px;
@@ -206,12 +242,18 @@ What would the result give us?
   width: 64px;
 }
 ~~~~
+</details>
 
-### **Bonus Q**:
-What represents **interpolation** above?
+### **Bonus Question**:
+What represents the **interpolation** above?
 
-### **A**:
+<details>
+<summary>Click to see the <b>Answer</b></summary>
+
 `{$class}` and `{$i}`
+</details>
+
+---
 
 ##
 
@@ -234,11 +276,16 @@ div {
 }
 ~~~~
 
-### **Q**:
+### **QUESTION**:
 What color will the `<div>` be?
 
-### **A**:
+<details>
+<summary>Click to see the <b>Answer</b></summary>
+
 Orange (`#FF5100`)
+</details>
+
+---
 
 ##
 
@@ -264,11 +311,16 @@ div {
 }
 ~~~~
 
-### **Q**:
+### **QUESTION**:
 What would the result be?
 
-### **A**:
+<details>
+<summary>Click to see the <b>Answer</b></summary>
+
 All `<div>` items would get the `background-size`|`-position`|`-repeat` properties, but each have their own `url("...")`
+</details>
+
+---
 
 ##
 
@@ -292,11 +344,14 @@ Similar to `%placeholders` but can pass **parameters** and **arguments** *(simil
 }
 ~~~~
 
-### **Q**:
+### **QUESTION**:
 What color text will the button have if we pass purple (`#A602FF`) as the `$color` argument?
 
-### **A**:
+<details>
+<summary>Click to see the <b>Answer</b></summary>
+
 `color: $black;` (`#000000`)
+</details>
 
 ### **PART 2** -- *MIXINS + `@content`*:
 Places the `@include` properties within the `@mixin`
@@ -318,11 +373,16 @@ Places the `@include` properties within the `@mixin`
 }
 ~~~~
 
-### **Q**:
+### **QUESTION**:
 Where would the `background-color` and `border` be placed in the `@mixin`?
 
-### **A**:
+<details>
+<summary>Click to see the <b>Answer</b></summary>
+
 Immediately *after* `height`, and just *before* `color`.
+</details>
+
+---
 
 ##
 
@@ -354,11 +414,16 @@ Immediately *after* `height`, and just *before* `color`.
 @import "vendor/bootstrap.min";
 ~~~~
 
-### **Q**:
+### **QUESTION**:
 What would happen if we push the **"helpers/"** `@imports` somewhere else in the file?
 
-### **A**:
+<details>
+<summary>Click to see the <b>Answer</b></summary>
+
 We'd get *undefined errors* since our **colors** and **variables** aren't defined first.
+</details>
+
+---
 
 ##
 
