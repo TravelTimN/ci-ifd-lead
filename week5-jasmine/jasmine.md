@@ -33,7 +33,7 @@ Jasmine can be used a few ways. Check out some additional resources:
 
 ### **BOILERPLATE**
 
-Get the latest CDN for Jasmine from **[cdnjs](https://cdnjs.com/libraries/jasmine)**. The current version of Jasmine at time of writing this guide is **[Jasmine 3.4.0](https://cdnjs.com/libraries/jasmine/3.4.0)** (*April 2019*).
+Get the latest CDN for Jasmine from **[cdnjs](https://cdnjs.com/libraries/jasmine)**. The current version of Jasmine at time of writing this guide is **[Jasmine 3.5.0](https://cdnjs.com/libraries/jasmine/3.5.0)** (*updated: February 2020*).
 
 #### Scripts
 
@@ -45,11 +45,11 @@ In order to use Jasmine properly, the order of `<script>` tags loaded in your do
 
 | **ORDER** | **&lt;SCRIPT&gt;** |
 | --- | --- |
-| 1 | `<script src="https://cdnjs.cloudflare.com/ajax/libs/jasmine/3.4.0/jasmine.js"></script>` |
-| 2 | `<script src="https://cdnjs.cloudflare.com/ajax/libs/jasmine/3.4.0/jasmine-html.js"></script>` |
-| 3 | `<script src="https://cdnjs.cloudflare.com/ajax/libs/jasmine/3.4.0/boot.js"></script>` |
+| 1 | `<script src="https://cdnjs.cloudflare.com/ajax/libs/jasmine/3.5.0/jasmine.js"></script>` |
+| 2 | `<script src="https://cdnjs.cloudflare.com/ajax/libs/jasmine/3.5.0/jasmine-html.js"></script>` |
+| 3 | `<script src="https://cdnjs.cloudflare.com/ajax/libs/jasmine/3.5.0/boot.js"></script>` |
 | | ***don't forget the CSS file*** |
-| * | `<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/jasmine/3.4.0/jasmine.css">` |
+| * | `<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/jasmine/3.5.0/jasmine.css">` |
 
 #### Folders
 
@@ -97,37 +97,41 @@ For example, an simple boilerplate for Jasmine testing:
     <title>Jasmine Testing</title>
 
     <!-- Jasmine CSS -->
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/jasmine/3.4.0/jasmine.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/jasmine/3.5.0/jasmine.css" type="text/css">
 
 </head>
 <body>
 
     <!-- Jasmine JS files -->
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/jasmine/3.4.0/jasmine.js"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/jasmine/3.4.0/jasmine-html.js"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/jasmine/3.4.0/boot.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jasmine/3.5.0/jasmine.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jasmine/3.5.0/jasmine-html.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jasmine/3.5.0/boot.js"></script>
 
-    <!-- Source Code (this must come before the tests!) -->
-    <script type="text/javascript" src="testing/scripts/file.js"></script>
+    <!-- Your Source Code (this must come before the tests!) -->
+    <script src="testing/scripts/file.js"></script>
 
     <!-- Specifications (this must come after the source code!) -->
-    <script type="text/javascript" src="testing/spec/fileSpec.js"></script>
+    <script src="testing/spec/fileSpec.js"></script>
 
 </body>
 </html>
 ```
 
+---
+
 ##
 
 ### **RED-GREEN-REFACTORING**
 
-The red-green-refactoring philosohy is simply a method of testing with three stages:
+The red-green-refactoring philosophy is simply a method of testing with three stages:
 
 | | | |
 | --- | --- | --- |
 | :no_entry: | **RED** | *Create a test, and make it fail!* |
 | :white_check_mark: | **GREEN** | *Make your test pass by any means necessary!* |
 | :recycle: | **REFACTOR** | *Change the code to remove duplication while ensuring all tests still pass.* |
+
+---
 
 ##
 
@@ -169,6 +173,8 @@ Calculator.prototype.add = function(number) {
 }
 ```
 
+---
+
 ##
 
 ### **Calculator**
@@ -180,7 +186,7 @@ An example from the Code Institute lessons is the **calculator** test suite.
 3. I want to get the result of **42**.
 4. I expect the result of **20** + **22** to be **42**.
 
-Using the **Jasmine** medthod of building a *test suite*, this could be simple as:
+Using the **Jasmine** method of building a *test suite*, this could be simple as:
 
 ```js
 describe("Calculator", function() {
@@ -200,6 +206,8 @@ describe("Calculator", function() {
     - ***expect*** the _"outcome of"_
 - **toBe(...)**
     - ***toBe*** _"desired response"_
+
+---
 
 ##
 
@@ -235,6 +243,8 @@ describe("Calculator", function() {
 });
 ```
 
+---
+
 ##
 
 ### **spyOn**()
@@ -253,12 +263,13 @@ Essentially, **spies** allow us to check if our function(s) have been called or 
 
 *Note: `alert()` doesn't actually provide a pop-up on screen like normal. That's because Jasmine is "capturing" the error/alert, and it will only be displayed in test results.*
 
+---
+
 ##
 
 ### **FizzBuzz Challenge**
 
-<details>
-  <summary>FizzBuzz Challenege (click to expand)</summary>
+FizzBuzz Challenge
 Your challenge is to write some tests for the FizzBuzz game.
 
 FizzBuzz is a classic programming problem that is often asked as an interview question. Create a function called **fizzBuzz**. This function should take in number as a parameter. The function should do the following:
@@ -269,9 +280,11 @@ FizzBuzz is a classic programming problem that is often asked as an interview qu
 - Else just return the *number*
 
 Write a set of tests that pass in various values to the FizzBuzz function and ensure that the function meets the above requirements. Make sure that you test all different "*types*" of inputs that the function may receive.
-</details>
 
-#### **FizzBuzz: Step 1** - source code
+Try to do this on your own. If you get stuck, click below to expand and see an example of how to accomplish this.
+
+<details>
+<summary><b>FizzBuzz: Step 1</b> - source code (click to expand)</summary>
 
 ```js
 fizzBuzz = function (number) {
@@ -290,8 +303,11 @@ fizzBuzz = function (number) {
     }
 };
 ```
+</details>
 
-#### **FizzBuzz: Step 2** - tests / specifications
+
+<details>
+<summary><b>FizzBuzz: Step 2</b> - tests / specifications (click to expand)</summary>
 
 ```js
 describe("FizzBuzz", function () {
@@ -320,7 +336,7 @@ describe("FizzBuzz", function () {
             expect(result).toBe("Buzz");
         });
 
-        it("should return number if not divisile by 3 or by 5", function () {
+        it("should return number if not divisible by 3 or by 5", function () {
             var result = fizzBuzz(2);
             expect(result).toBe(2);
         });
@@ -333,8 +349,11 @@ describe("FizzBuzz", function () {
     });
 });
 ```
+</details>
 
 ##
+
+---
 
 ##
 
@@ -350,6 +369,8 @@ You could accomplish this in a few simple steps:
 2. call the *function* from within your code.
 3. using Jasmine, test the *function* itself, not the *event*.
 
+---
+
 ##
 
 ### **Further Resources | Additional Reading**
@@ -362,3 +383,52 @@ You could accomplish this in a few simple steps:
     - *example: Data Dashboard* :bar_chart:
 - **[Jasmine + Google Maps](https://kwilson.io/blog/mock-out-google-maps-geocoder-with-jasmine-spies/)**
     - *example: Holiday Planner* :earth_africa:
+
+##
+
+If using the **[jasmine-jquery](https://www.npmjs.com/package/jasmine-jquery)** package, your boilerplate might actually look like this:
+
+```html
+<html>
+<head>
+    <title>Jasmine Testing</title>
+
+    <!-- Jasmine CSS -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/jasmine/3.5.0/jasmine.css" type="text/css">
+
+</head>
+<body>
+
+    <!-- Your Source Code (this must come before the Jasmine files!) -->
+    <script src="testing/scripts/file.js"></script>
+
+    <!-- jasmine-jquery -->
+    <script src="https://code.jquery.com/jquery-3.4.1.min.js"
+        integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo="
+        crossorigin="anonymous"></script>
+
+    <!-- Jasmine JS files -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jasmine/3.5.0/jasmine.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jasmine/3.5.0/jasmine-html.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jasmine/3.5.0/boot.js"></script>
+
+    <!-- Specifications (this must come after the source code!) -->
+    <script src="testing/spec/fileSpec.js"></script>
+
+</body>
+</html>
+```
+
+##
+
+Some additional resources for Jasmine:
+
+- [Jasmine Cheatsheet](https://devhints.io/jasmine) - A helpful Jasmine cheatsheet.
+- [Jasmine 'setFixtures'](https://lostechies.com/derickbailey/2011/10/14/quick-hack-to-work-around-jasmine-jquery-fixture-limitations/) - How to use `setFixtures` in Jasmine.
+- [Jasmine 'spyOn'](https://stackoverflow.com/a/9511646) - How to use `spyOn` in Jasmine.
+- [Jasmine 'createSpy' + 'createSpyObj'](https://scriptverse.academy/tutorials/jasmine-createspy-createspyobj.html) - How to use `createSpy` and `createSpyObj` in Jasmine.
+- [Jasmine 'timeouts' + 'intervals'](https://stackoverflow.com/a/50883535) - How to use `set`||`clear` + `Timeout`||`Interval` in Jasmine.
+- [Jasmine 'timeouts' + 'intervals'](https://makandracards.com/makandra/32477-testing-settimeout-and-setinterval-with-jasmine) - How to use `set`||`clear` + `Timeout`||`Interval` in Jasmine.
+- [Jasmine 'addEventListener'](https://stackoverflow.com/a/32576013) - How to use `addEventListener` in Jasmine.
+- [Jasmine 'removeEventListener'](https://stackoverflow.com/questions/43489131/jasmine-test-removeeventlistener) - How to use `removeEventListener` in Jasmine.
+- [Jasmine audio files](https://stackoverflow.com/questions/53900671/testing-htmlmediaelement-play-in-angular-7-jasmine-karma-chrome) - How to test 'audio files' in Jasmine.
