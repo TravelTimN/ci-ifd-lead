@@ -13,14 +13,14 @@ If you plan on making a data dashboard, you should consider the following steps:
 - **OBTAIN DATA**
     - **[Kaggle](https://www.kaggle.com/datasets)** is great source of free data!
 - **FILTER DATA** *[optional]*
-    - If desired and/or permitted, remove any unnessary columns+rows from your data.
+    - If desired and/or permitted, remove any unnecessary columns+rows from your data.
 - **ASSIGN CHARTS**
     - Decide which charts your data will best portray to users. *(examples below)*
 - **CONVERT DATA** *[optional]*
     - Sometimes it's easier to use **.json** versus using **.csv**
     - Suggested free online [csv to json converter](https://csvjson.com/csv2json)
 - **DESIGN PROJECT**
-    - This is where your artistic abilites create your dashboard wireframes!
+    - This is where your artistic abilities create your dashboard wireframes!
 - **< C O D E >**
     - The moment you've been waiting for - building your dashboard!
 
@@ -62,7 +62,7 @@ Newer versions of **dc.js** and **D3** do not work with **queue.js**, which is w
 
 #### COLORS
 
-With the newer versions, color for charts has been expanded. You can select a defaul color scheme for all charts, or select a scheme for each chart individually.
+With the newer versions, color for charts has been expanded. You can select a default color scheme for all charts, or select a scheme for each chart individually.
 
 [D3 Scale Chromatic Color Schemes](https://github.com/d3/d3-scale-chromatic)
 
@@ -80,4 +80,8 @@ Further color options can be seen on [ColorBrewer2.org](http://www.colorbrewer2.
 
 Now for a demo I've created using the new D3 | dc.js versions, just to highlight a few examples of charts in action.
 
-I've uploaded the page on [GitHub](https://github.com/TravelTimN/ci-ifd-lead/blob/master/week3-d3-dc/example-project/index.html), but for now, let's check out a [LIVE DEMO on CodePen](https://codepen.io/traveltimn/full/MxxBMx)! Have fun!
+I've migrated the sample project onto its own unique [GitHub repo](https://github.com/TravelTimN/dc-d3-top-eu-restaurants). ([deployed link](https://traveltimn.github.io/dc-d3-top-eu-restaurants/))
+
+The original sample project is still embedded in [this folder](https://github.com/TravelTimN/ci-ifd-lead/blob/master/week3-d3-dc/example-project/index.html).
+
+There also the original [LIVE DEMO on CodePen](https://codepen.io/traveltimn/full/MxxBMx), but it doesn't show as well when looking at the first deployed link above.

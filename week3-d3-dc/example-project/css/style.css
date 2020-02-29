@@ -10,6 +10,10 @@ body {
     background-color: #ffe;
 }
 
+a {
+    cursor: pointer;
+}
+
 
 
 /*----- NAV ----- ----- NAV ----- ----- NAV -----*/
@@ -232,7 +236,7 @@ main {
 /* leaflet map needs a bare minimum of 'height' property */
 #map {
     height: 70vh; /* !!! height is required !!! (the rest are optional) */
-    z-index: 5;
+    z-index: 05;
     border-radius: 5px;
     box-shadow: 0 0 15px rgba(0, 0, 0, 0.5);
 }

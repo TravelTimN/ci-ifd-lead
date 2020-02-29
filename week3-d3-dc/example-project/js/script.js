@@ -3,7 +3,7 @@
 // DEMO ONLY - FOR EDUCATIONAL PURPOSES ONLY
 // THESE FUNCTIONS ARE FOR THE MOST RECENT VERSION OF DC.JS (version 3.0+) AND D3 (version 5+)
 // OLDER VERSIONS MAY USE DIFFERENT SYNTAX - SO BEWARE IF CHARTS NOT WORKING!
-// use Ctrl+F ??KEYWORD?? to fined a specific section mentioned. Example: Ctrl+F ??COLORS??
+// use Ctrl+F ??KEYWORD?? to find a specific section mentioned. Example: Ctrl+F ??COLORS??
 // the ??RESET?? function to reset all filters simultaneously is an inline-code in the .html file
 //---------------------------------------------------------------------------------------------------------
 
@@ -39,11 +39,18 @@ $(document).ready(function () {
     // Load file (.csv or .json) then call function to build everything
 
     // .csv option
-    //d3.csv("data/ta-restaurants.csv").then(chartBuilder);
+    // not recommended if using utf-8 characters, such as €£ (use json below instead)
+    // d3.csv("data/ta-restaurants.csv").then(chartBuilder);
 
     // .json option [works better for utf-8 (ie: €£)]
     // great .csv to .json converter: https://www.csvjson.com/csv2json
-    d3.json("../data/ta-restaurants.json").then(chartBuilder);
+
+    // local version deployed to GitHub
+    d3.json("data/ta-restaurants.json").then(chartBuilder);
+
+    // CodePen version for demo purposes
+    // let myData = "https://raw.githubusercontent.com/TravelTimN/ci-ifd-lead/master/week3-d3-dc/example-project/data/ta-restaurants.json";
+    // d3.json(myData).then(chartBuilder);
 
 
 
@@ -55,8 +62,8 @@ $(document).ready(function () {
     // dc.config.defaultColors(d3.SCHEME);
     dc.config.defaultColors(d3.schemeSpectral[11]);
 
-    // to set indivNameual color scheme by chart: (replace SCHEME with choice)
-    // var myColors = d3.scaleOrdinal(d3.SCHEME); +++ .colors(myColors)
+    // to set individual color scheme by chart: (replace SCHEME with choice)
+    // let myColors = d3.scaleOrdinal(d3.SCHEME); +++ then add .colors(myColors)
 
 
 
@@ -69,8 +76,8 @@ $(document).ready(function () {
 
         // -------------------- ??CROSSFILTER?? --------------------
         // applies a crossfilter so anything using variable 'ndx' will be filtered together
-        var ndx = crossfilter(data);
-        var allData = ndx.groupAll(); // allData groups all 'ndx' items for the ??DATACOUNT??
+        let ndx = crossfilter(data);
+        let allData = ndx.groupAll(); // allData groups all 'ndx' items for the ??DATACOUNT??
 
 
         // -------------------- ??DATACOUNT?? --------------------
@@ -90,10 +97,10 @@ $(document).ready(function () {
             d.Reviews = parseInt(d.Reviews); // column called 'Reviews'
 
             //----- parsing DATES
-            //var fullDateFormat = d3.time.format("%a, %d %b %Y %X %Z");
-            //var yearFormat = d3.time.format("%Y");
-            //var monthFormat = d3.time.format("%b");
-            //var dayOfWeekFormat = d3.time.format("%a");
+            //let fullDateFormat = d3.time.format("%a, %d %b %Y %X %Z");
+            //let yearFormat = d3.time.format("%Y");
+            //let monthFormat = d3.time.format("%b");
+            //let dayOfWeekFormat = d3.time.format("%a");
         });
 
 
@@ -120,17 +127,19 @@ $(document).ready(function () {
     // -------------------- ??PIE?? + ??DONUT?? CHARTS --------------------
     function byCuisine(ndx, divName, dimension) {
         // variables required for the chart (crossfilter, div#, column) ??ARGUMENTS??
-        var pieChartCuisine = dc.pieChart(divName);
-        var dim = ndx.dimension(dc.pluck(dimension));
-        var group = dim.group();
+        let pieChartCuisine = dc.pieChart(divName);
+        let dim = ndx.dimension(dc.pluck(dimension));
+        let group = dim.group();
 
         // ??COLORS?? | custom colors passed below for this chart only
-        //var myColors = d3.scaleOrdinal(d3.schemeSpectral[11]);
+        //let myColors = d3.scaleOrdinal(d3.schemeSpectral[11]);
 
         // ??RESET?? only this specific chart
         d3.selectAll("#resetCuisine").on("click", function () {
             pieChartCuisine.filterAll();
             dc.redrawAll();
+            // reset the drop-down as well (doesn't clear chart though)
+            // $("#food select.dc-select-menu").val($("#food select.dc-select-menu option:first").val());
         });
 
         pieChartCuisine
@@ -149,19 +158,19 @@ $(document).ready(function () {
             .transitionDelay(500) // delay animation start (by 500ms)
             .title(function (d) { // hover text with info per chart item
                 if (d.value === 1) { // if filtered to only '1' item
-                    return d.value + " restaurant is " + d.key; // then make the text singular
+                    return `${d.value} restaurant is ${d.key}`; // then make the text singular
                 } else { // otherwise
-                    return d.value + " restaurants are " + d.key; // make the text plural
+                    return `${d.value} restaurants are ${d.key}`; // make the text plural
                 }
             })
         //.colors(myColors) // custom color scheme for this chart only
-        // .legend shows a small legend or key on the chart
+        // below .legend shows a small legend or key on the chart
         //.legend(dc.legend().x(0).y(0).itemHeight(5).gap(5))
-        // below function will append the amount of items filtered per option on the legend
+        // combined with below function to append the amount of items filtered per option on the legend
         /*.on("pretransition", function (chart) {
             chart.selectAll(".dc-legend-item text")
                 .text(function (d) {
-                    return d.name + " (" + d.data + ")"; // ie: "Italian (455)"
+                    return `${d.name} (${d.data})`; // ie: "Italian (455)"
                 })
         })*/
         ;
@@ -174,9 +183,9 @@ $(document).ready(function () {
     // -------------------- ??SELECT?? MENU --------------------
     function byCity(ndx, divName, dimension) {
         // variables required for the chart (crossfilter, div#, column) ??ARGUMENTS??
-        var selectMenuCity = dc.selectMenu(divName);
-        var dim = ndx.dimension(dc.pluck(dimension));
-        var group = dim.group();
+        let selectMenuCity = dc.selectMenu(divName);
+        let dim = ndx.dimension(dc.pluck(dimension));
+        let group = dim.group();
 
         selectMenuCity
             .dimension(dim) // plucks the data (by City column)
@@ -190,9 +199,9 @@ $(document).ready(function () {
     // -------------------- ??SELECT?? MENU --------------------
     function byFood(ndx, divName, dimension) {
         // variables required for the chart (crossfilter, div#, column) ??ARGUMENTS??
-        var selectMenuFood = dc.selectMenu(divName);
-        var dim = ndx.dimension(dc.pluck(dimension));
-        var group = dim.group();
+        let selectMenuFood = dc.selectMenu(divName);
+        let dim = ndx.dimension(dc.pluck(dimension));
+        let group = dim.group();
 
         selectMenuFood
             .dimension(dim) // plucks the data (by Cuisine column)
@@ -209,12 +218,12 @@ $(document).ready(function () {
     // -------------------- ??ROW?? CHART --------------------
     function byRating(ndx, divName, dimension) {
         // variables required for the chart (crossfilter, div#, column) ??ARGUMENTS??
-        var rowChartRating = dc.rowChart(divName);
-        var dim = ndx.dimension(dc.pluck(dimension));
-        var group = dim.group();
+        let rowChartRating = dc.rowChart(divName);
+        let dim = ndx.dimension(dc.pluck(dimension));
+        let group = dim.group();
 
         // ??COLORS?? | custom colors passed below for this chart only
-        //var myColors = d3.scaleOrdinal(d3.schemeSpectral[4]);
+        //let myColors = d3.scaleOrdinal(d3.schemeSpectral[4]);
 
         // ??RESET?? only this specific chart
         d3.selectAll("#resetRating").on("click", function () {
@@ -239,20 +248,20 @@ $(document).ready(function () {
             .cap(4) // max number of rows to display
             .elasticX(true) // x-Axis becomes fluid based on filtering
             .title(function (d) { // hover text with info per chart item
-                return d.value + " restaurants with " + d.key + "★ rating";
+                return `${d.value} restaurants with ${d.key}★ rating`;
             })
             // checks d.key value and appends ★ for each star rating, and ⭑ for half-star ratings
             .label(function (d) {
-                var stars = " ";
+                let stars = "";
                 for (star = 0; star < Math.floor(d.key); star++) {
                     stars += "★";
                 }
                 star = 0;
                 star = star + Number.isInteger(d.key);
-                if (star != true) {
+                if (!star) {
                     stars += "⭑";
                 }
-                return d.key + stars;
+                return `${d.key}${stars}`;
             })
             .xAxis().ticks(4) // number of ticks to show on xAxis
         //.colors(myColors) // custom color variable above
@@ -266,8 +275,8 @@ $(document).ready(function () {
     // -------------------- ??STACKED?? BAR CHART --------------------
     function byStack(ndx, divName, dimension) {
         // variables required for the chart (crossfilter, div#, column) ??ARGUMENTS??
-        var stackedChart = dc.barChart(divName);
-        var dim = ndx.dimension(dc.pluck(dimension));
+        let stackedChart = dc.barChart(divName);
+        let dim = ndx.dimension(dc.pluck(dimension));
 
         // ??RESET?? only this specific chart
         d3.selectAll("#resetStack").on("click", function () {
@@ -299,23 +308,23 @@ $(document).ready(function () {
                     return {
                         total: 0,
                         match: 0
-                    };
+                    }
                 }
             );
         }
 
         // variables storing results from custom reducer for each matched item
         // in this example, I selected the top 10 cuisine types
-        var cuisineItalian = stackByCuisine(dim, "Italian");
-        var cuisineEuropean = stackByCuisine(dim, "European");
-        var cuisineFrench = stackByCuisine(dim, "French");
-        var cuisineMediterranean = stackByCuisine(dim, "Mediterranean");
-        var cuisineAmerican = stackByCuisine(dim, "American");
-        var cuisineGerman = stackByCuisine(dim, "German");
-        var cuisineSeafood = stackByCuisine(dim, "Seafood");
-        var cuisineBar = stackByCuisine(dim, "Bar");
-        var cuisineSteakhouse = stackByCuisine(dim, "Steakhouse");
-        var cuisinePolish = stackByCuisine(dim, "Polish");
+        let cuisineItalian = stackByCuisine(dim, "Italian");
+        let cuisineEuropean = stackByCuisine(dim, "European");
+        let cuisineFrench = stackByCuisine(dim, "French");
+        let cuisineMediterranean = stackByCuisine(dim, "Mediterranean");
+        let cuisineAmerican = stackByCuisine(dim, "American");
+        let cuisineGerman = stackByCuisine(dim, "German");
+        let cuisineSeafood = stackByCuisine(dim, "Seafood");
+        let cuisineBar = stackByCuisine(dim, "Bar");
+        let cuisineSteakhouse = stackByCuisine(dim, "Steakhouse");
+        let cuisinePolish = stackByCuisine(dim, "Polish");
 
         stackedChart
             .dimension(dim) // plucks the data (by Rating column)
@@ -364,14 +373,14 @@ $(document).ready(function () {
     // -------------------- ??SCATTER?? PLOT --------------------
     function byScatter(ndx, divName, dimension) {
         // variables required for the chart (crossfilter, div#, column) ??ARGUMENTS??
-        var scatterPlot = dc.scatterPlot(divName);
-        var dim = ndx.dimension(dc.pluck(dimension));
-        var dimAll = ndx.dimension(function (d) {
+        let scatterPlot = dc.scatterPlot(divName);
+        let dim = ndx.dimension(dc.pluck(dimension));
+        let dimAll = ndx.dimension(function (d) {
             return [d.Reviews, d.Rank, d.City, d.Rating]; // captures additional plucked data/columns
         });
-        var group = dimAll.group();
-        var minRating = dim.bottom(1)[0].Reviews; // get the smallest (.bottom) 'Review' count
-        var maxRating = dim.top(1)[0].Reviews; // get the largest (.top) 'Review'count
+        let group = dimAll.group();
+        let minRating = dim.bottom(1)[0].Reviews; // get the smallest (.bottom) 'Review' count
+        let maxRating = dim.top(1)[0].Reviews; // get the largest (.top) 'Review' count
 
         // ??RESET?? only this specific chart
         d3.selectAll("#resetScatter").on("click", function () {
@@ -398,11 +407,11 @@ $(document).ready(function () {
             .transitionDuration(1000) // animation speed (1000ms)
             .transitionDelay(500) // delay animation start (by 500ms)
             .renderHorizontalGridLines(true) // show chart lines (horizontal)
-            .renderVerticalGridLines(true) // show chart lines (verical)
+            .renderVerticalGridLines(true) // show chart lines (vertical)
             .xAxisLabel("REVIEWS") // label for xAxis (bottom)
             .yAxisLabel("CITY RANK") // label for yAxis (left-side)
             .title(function (d) { // hover text with info per chart item
-                return "Ranked #" + d.key[1] + " in " + d.key[2] + " with " + d.key[0] + " reviews (" + d.key[3] + "★)";
+                return `Ranked # ${d.key[1]} in ${d.key[2]} with ${d.key[0]} reviews (${d.key[3]}★)`;
             })
             .xAxis().ticks(20); // number of ticks to show on xAxis
     }
@@ -414,8 +423,8 @@ $(document).ready(function () {
     // -------------------- ??DATATABLE?? --------------------
     function byName(ndx, divName, dimension) {
         // set required variables (chart type, dimension)
-        var dataTableName = dc.dataTable(divName);
-        var dim = ndx.dimension(dc.pluck(dimension));
+        let dataTableName = dc.dataTable(divName);
+        let dim = ndx.dimension(dc.pluck(dimension));
 
         dataTableName
             .dimension(dim) // plucks the data (by Rank column)
@@ -430,7 +439,8 @@ $(document).ready(function () {
             .sortBy(function (d) {
                 return d.City; // sorts the sections alphabetically (Amsterdam, Athens, etc.)
             })
-            .order(d3.ascending) // smallest to largest // (d3.descending) largest to smallest;
+            .order(d3.ascending); // smallest to largest
+            //.order(d3.descending); // largest to smallest
     }
 
 
@@ -439,11 +449,11 @@ $(document).ready(function () {
 
     // -------------------- LEAFLET ??MAP?? --------------------
     // this example hard-codes the markers, but dc.js does allow filtering on leaflet.js maps!
-    var drawMap = function () {
+    let drawMap = function () {
         // assign the map to div#map and set the initial view [lat,lng] and zoom-level
-        var map = L.map("map").setView([50.870587, 14.823303], 4);
+        let map = L.map("map").setView([50.870587, 14.823303], 4);
         // custom markers [lat,lng] with pop-up once clicked
-        var markers = [
+        let markers = [
             L.marker([52.368, 4.9036]).bindPopup("Amsterdam"),
             L.marker([37.9838, 23.7275]).bindPopup("Athens"),
             L.marker([41.3851, 2.1734]).bindPopup("Barcelona"),
@@ -477,23 +487,24 @@ $(document).ready(function () {
             L.marker([47.3769, 8.5417]).bindPopup("Zurich")
         ]
         // push all markers to a group
-        var cityMarkers = L.featureGroup();
+        let cityMarkers = L.featureGroup();
         // add all markers to the map
         cityMarkers.addTo(map);
         // loop through the markers and add them to the group
-        for (var i = 0; i < markers.length; i++) {
-            var cityMarker = markers[i];
+        for (let i = 0; i < markers.length; i++) {
+            let cityMarker = markers[i];
             cityMarker.addTo(cityMarkers);
         }
         // map tiles, attribution, and settings
         L.tileLayer(
-            "https://{s}.tiles.mapbox.com/v3/mapbox.geography-class/{z}/{x}/{y}.png", {
+            "http://services.arcgisonline.com/arcgis/rest/services/NatGeo_World_Map/MapServer/tile/{z}/{y}/{x}", {
+                // "https://{s}.tiles.mapbox.com/v3/mapbox.geography-class/{z}/{x}/{y}.png", { // this map requires API key now
                 attribution: "&copy; Mapbox | &nbsp;", // this is an invalid attribution, used for demo only
                 minZoom: 3,
                 maxZoom: 8
             }).addTo(map);
-    };
-    // call funtion drawMap
+    }
+    // call function drawMap
     drawMap();
 
 
