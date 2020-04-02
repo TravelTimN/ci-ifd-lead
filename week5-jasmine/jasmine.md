@@ -402,15 +402,18 @@ If using the **[jasmine-jquery](https://www.npmjs.com/package/jasmine-jquery)** 
     <!-- Your Source Code (this must come before the Jasmine files!) -->
     <script src="testing/scripts/file.js"></script>
 
-    <!-- jasmine-jquery -->
+    <!-- jQuery CDN -->
     <script src="https://code.jquery.com/jquery-3.4.1.min.js"
         integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo="
         crossorigin="anonymous"></script>
 
-    <!-- Jasmine JS files -->
+    <!-- Jasmine scripts -->
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jasmine/3.5.0/jasmine.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jasmine/3.5.0/jasmine-html.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jasmine/3.5.0/boot.js"></script>
+
+    <!-- jasmine-jquery CDN -->
+    <script src="https://bowercdn.net/c/jasmine-jquery-2.1.1/lib/jasmine-jquery.js"></script>
 
     <!-- Specifications (this must come after the source code!) -->
     <script src="testing/spec/fileSpec.js"></script>
