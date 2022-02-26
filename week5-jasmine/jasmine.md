@@ -12,7 +12,7 @@ Basically, Jasmine is a testing framework that you can use to write tests for yo
 
 ```js
 describe("A suite is just a function", function() {
-  var a;
+  let a;
 
   it("and so is a spec", function() {
     a = true;
@@ -322,28 +322,28 @@ describe("FizzBuzz", function () {
         });
 
         it("should return FizzBuzz if divisible by 3 and by 5", function () {
-            var result = fizzBuzz(15);
+            let result = fizzBuzz(15);
             expect(result).toBe("FizzBuzz");
         });
 
         it("should return Fizz if divisible by 3", function () {
-            var result = fizzBuzz(9);
+            let result = fizzBuzz(9);
             expect(result).toBe("Fizz");
         });
 
         it("should return Buzz if divisible by 5", function () {
-            var result = fizzBuzz(25);
+            let result = fizzBuzz(25);
             expect(result).toBe("Buzz");
         });
 
         it("should return number if not divisible by 3 or by 5", function () {
-            var result = fizzBuzz(2);
+            let result = fizzBuzz(2);
             expect(result).toBe(2);
         });
 
         it("should return an error if we don't supply a number", function() {
             spyOn(window, "alert");
-            var result = fizzBuzz(alert("Error!"));
+            let result = fizzBuzz(alert("Error!"));
             expect(window.alert).toHaveBeenCalledWith("Error!");
         });
     });
