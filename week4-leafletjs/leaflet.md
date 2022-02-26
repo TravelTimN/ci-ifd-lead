@@ -32,7 +32,7 @@ Images are served through a web server (*some examples below*), with a URL like 
 Whichever map tile provider you decide to use, proper **Attribution** is *mandatory*! If you are using multiple map tile providers, you must supply proper attribution for each layer. Some examples of attribution are below, but be sure to double-check for updated attribution details per vendor.
 
 ##### *example of multiple map tile attributions*
-![Attribution Example](https://github.com/TravelTimN/ci-ifd-lead/blob/master/week4-leafletjs/example-project/img/attribution.png)
+![Attribution Example](example-project/img/attribution.png)
 
 *NOTE*: Some map tile providers are starting to embed attribution automatically. By default, *Leaflet* attribution is built-in, and with certain plugins like the *Esri Geosearch control*.
 
@@ -51,7 +51,7 @@ Whichever map tile provider you decide to use, proper **Attribution** is *mandat
 
 If you aren't using a dataset with pre-determined latitude/longitude coordinates, then the easiest way to find coordinates is to use **[Google Maps](https://www.google.com/maps)**. Find a specific place, *right-click* and select `What's here?`. It'll bring a pop-up at the bottom of the page with details about where you've clicked, along with the coordinates.
 
-![Example Coordinates on Google Maps](https://github.com/TravelTimN/ci-ifd-lead/blob/master/week4-leafletjs/example-project/img/latlng.png)
+![Example Coordinates on Google Maps](example-project/img/latlng.png)
 
 You can copy/paste from the pop-up, or click directly on the link to get the coordinates larger on screen. Be careful copying any coordinates from the pop-up at the bottom, and remove any blank spaces that may have accidentally been copied from Google.
 
@@ -78,11 +78,11 @@ For demo purposes, I'm going to use the **World Street Map** provided by *ArcGIS
 
 **JS**
 ```js
-var mapTileLayers = L.tileLayer("http://services.arcgisonline.com/arcgis/rest/services/World_Street_Map/MapServer/tile/{z}/{y}/{x}", {
+let mapTileLayers = L.tileLayer("http://services.arcgisonline.com/arcgis/rest/services/World_Street_Map/MapServer/tile/{z}/{y}/{x}", {
     attribution: "Powered by <a href='https://developers.arcgis.com/terms/attribution/' target='_blank' rel='noopener'>Esri</a>"
 });
 
-var map = L.map("map", {
+let map = L.map("map", {
     layers: [mapTileLayers],
     center: [23.5, 12],
     zoom: 2
@@ -99,7 +99,7 @@ If adding a map **overlay**, it must come *after* the map settings above in your
 
 **JS**
 ```js
-var mapOverlay = L.tileLayer("http://services.arcgisonline.com/arcgis/rest/services/Reference/World_Boundaries_and_Places/MapServer/tile/{z}/{y}/{x}");
+let mapOverlay = L.tileLayer("http://services.arcgisonline.com/arcgis/rest/services/Reference/World_Boundaries_and_Places/MapServer/tile/{z}/{y}/{x}");
 mapOverlay.bringToFront().addTo(map).setZIndex(9);
 ```
 
@@ -113,7 +113,7 @@ You can add a simple **marker** with the following code:
 
 **JS**
 ```js
-var myMarker = L.marker([-22.951993, -43.210439]).addTo(map);
+let myMarker = L.marker([-22.951993, -43.210439]).addTo(map);
 ```
 
 That will add a basic marker on *Christ the Redeemer* in Rio de Janeiro.
@@ -135,7 +135,7 @@ You can have the marker be whatever image you'd like with a few extra lines of c
 
 **JS**
 ```js
-var rioIcon = new L.Icon({
+let rioIcon = new L.Icon({
     iconUrl: "img/rio.png",
     iconSize: [50, 50],
     iconAnchor: [25, 50]
@@ -158,7 +158,7 @@ Drawing a **circle** radius on your map is simple, with a few optional propertie
 
 **JS**
 ```js
-var myCircle = L.circle([53.349807, -6.260255], {
+let myCircle = L.circle([53.349807, -6.260255], {
         color: "#000",
         opacity: 0.5,
         fillColor: "#0f0",
@@ -169,7 +169,7 @@ var myCircle = L.circle([53.349807, -6.260255], {
 
 | &lt; code &gt; | meaning
 | --- | --- |
-| `var myCircle = L.circle([53.349807, -6.260255], {` | LatLng of circle (Dublin Spire) |
+| `let myCircle = L.circle([53.349807, -6.260255], {` | LatLng of circle (Dublin Spire) |
 | `color` | stroke color |
 | `opacity` | opacity from 0-1 |
 | `fillColor` | fill color |
@@ -187,7 +187,7 @@ Note: It will not bend or arc as it would normally do on a sphere. Actual physic
 
 **JS**
 ```js
-var myPolyline = L.polyline([
+let myPolyline = L.polyline([
     [-22.951993, -43.210439],
     [40.676698, 117.241585]
 ], {
@@ -215,7 +215,7 @@ My sincere apologies to the Kazakh nation for this crappy rendition of their won
 
 **JS**
 ```js
-var kazakhPoly = L.polygon([
+let kazakhPoly = L.polygon([
     [41.791686, 52.532313],
     [44.613073, 50.300030],
     [45.962637, 53.090383],
@@ -255,7 +255,7 @@ You can also create a function that will display the actual latitude and longitu
 
 **JS**
 ```js
-var popupClick = L.popup();
+let popupClick = L.popup();
 function onMapClick(e) {
     popupClick
         .setLatLng(e.latlng)
@@ -286,17 +286,17 @@ One such example is the **Esri Geocoding control** which allows a user to search
 
 **JS**
 ```js
-var searchControl = L.esri.Geocoding.geosearch().addTo(map);
+let searchControl = L.esri.Geocoding.geosearch().addTo(map);
 ```
 
 However, all that does is bring you to the destination searched. You can take it a step further and display a marker.
 
 **JS**
 ```js
-var results = L.layerGroup().addTo(map);
+let results = L.layerGroup().addTo(map);
 searchControl.on("results", function (data) {
     results.clearLayers();
-    for (var i = data.results.length - 1; i >= 0; i--) {
+    for (let i = data.results.length - 1; i >= 0; i--) {
         results.addLayer(L.marker(data.results[i].latlng)
         .bindPopup(data.results[0].text)
         .bindTooltip(data.results[0].text));
@@ -324,10 +324,10 @@ Once you get to a certain zoom-level, the Geocoder will only filter results that
 
 **JS**
 ```js
-var results = L.layerGroup().addTo(map);
+let results = L.layerGroup().addTo(map);
 searchControl.on("results", function (data) {
     results.clearLayers();
-    for (var i = data.results.length - 1; i >= 0; i--) {
+    for (let i = data.results.length - 1; i >= 0; i--) {
         results.addLayer(L.marker(data.results[i].latlng)
         .bindPopup(data.results[0].text)
         .bindTooltip(data.results[0].text));
